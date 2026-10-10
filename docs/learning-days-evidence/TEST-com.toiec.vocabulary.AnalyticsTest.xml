@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.toiec.vocabulary.AnalyticsTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-10-10T04:20:25.933Z" hostname="580bb27bacae" time="0.554">
+  <properties/>
+  <testcase name="dailyResumeKeepsSubmissionsAndRecordsRoundDayAndMode" classname="com.toiec.vocabulary.AnalyticsTest" time="0.216"/>
+  <testcase name="latestSevenLearningDatesAreSortedAndNeverFillGaps" classname="com.toiec.vocabulary.AnalyticsTest" time="0.027"/>
+  <testcase name="repeatedSameWordAndDayCountEveryNewSessionEvenAfterCorrect" classname="com.toiec.vocabulary.AnalyticsTest" time="0.013"/>
+  <testcase name="threeCorrectOneWrongProduceFourAndSeventyFivePercent" classname="com.toiec.vocabulary.AnalyticsTest" time="0.014"/>
+  <testcase name="aggregatesAnswersNotMeanOfSessionRatesOrCumulativeDates" classname="com.toiec.vocabulary.AnalyticsTest" time="0.057"/>
+  <testcase name="oldDailyAndNotebookAreNotInventedAsHistoricalAnswers" classname="com.toiec.vocabulary.AnalyticsTest" time="0.032"/>
+  <testcase name="partialExitReentryAddsButQuestionAndAnswerRedisplayDoNot" classname="com.toiec.vocabulary.AnalyticsTest" time="0.01"/>
+  <testcase name="midnightUsesEachSubmissionDateAndStoredDatesNeverRebucket" classname="com.toiec.vocabulary.AnalyticsTest" time="0.033"/>
+  <testcase name="dayThirtyInterruptedLastAnswerAdvancesRoundOnlyOnce" classname="com.toiec.vocabulary.AnalyticsTest" time="0.116"/>
+  <testcase name="retryKeepsOriginalAnswerTimestampAndOneRecordEvenWhenClockChanges" classname="com.toiec.vocabulary.AnalyticsTest" time="0.01"/>
+  <testcase name="emptyAndGapDaysAreExcludedAndTodayStaysSeparate" classname="com.toiec.vocabulary.AnalyticsTest" time="0.004"/>
+  <testcase name="pendingJournalRecoversAfterProcessDeathWithoutDuplicateOrLostDailyAnswer" classname="com.toiec.vocabulary.AnalyticsTest" time="0.015"/>
+  <testcase name="reviewRemovalPreservesPastWrongAndAddsCorrectSubmission" classname="com.toiec.vocabulary.AnalyticsTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

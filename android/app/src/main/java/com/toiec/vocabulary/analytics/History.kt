@@ -94,15 +94,17 @@ data class DayStats(val date: LocalDate, val correct: Int = 0, val wrong: Int = 
     val total get() = correct + wrong
     val accuracy: Double? get() = if(total == 0) null else 100.0 * correct / total
 }
-data class AnalyticsSummary(val days: List<DayStats>, val hasRecords: Boolean) {
-    val today get() = days.last()
+data class AnalyticsSummary(val days: List<DayStats>, val today: DayStats) {
+    val hasRecords get() = days.isNotEmpty()
     companion object {
         fun from(records: List<Submission>, today: LocalDate): AnalyticsSummary {
             val grouped=records.groupBy { it.localDate }
-            return AnalyticsSummary((6L downTo 0L).map { offset ->
-                val date=today.minusDays(offset); val answers=grouped[date].orEmpty()
-                DayStats(date,answers.count { it.isCorrect },answers.count { !it.isCorrect })
-            },records.isNotEmpty())
+            fun stats(date: LocalDate): DayStats {
+                val answers=grouped[date].orEmpty()
+                return DayStats(date,answers.count { it.isCorrect },answers.count { !it.isCorrect })
+            }
+            val learningDates=grouped.keys.sorted().takeLast(7)
+            return AnalyticsSummary(learningDates.map(::stats),stats(today))
         }
         fun empty(today: LocalDate = LocalDate.now()) = from(emptyList(),today)
     }

@@ -13,6 +13,7 @@ import androidx.compose.ui.test.junit4.createComposeRule
 import androidx.compose.ui.semantics.SemanticsActions
 import androidx.compose.ui.text.TextLayoutResult
 import com.toiec.vocabulary.analytics.AnalyticsSummary
+import com.toiec.vocabulary.analytics.DayStats
 import com.toiec.vocabulary.data.*
 import com.toiec.vocabulary.theme.Theme
 import com.toiec.vocabulary.ui.main.*
@@ -28,7 +29,7 @@ class AnalyticsLayoutTest {
     private fun verifyLayout(width: Dp) {
         val suffix=if(width==320.dp) "-320dp" else ""
         val day=LocalDate.now()
-        val state=StudyUiState(catalog=Catalog(listOf(Day(1,"채용",1)),listOf(Vocabulary("a".repeat(24),1,"credential","신임장"))),busy=false,analytics=AnalyticsSummary.empty(day))
+        val state=StudyUiState(catalog=Catalog(listOf(Day(1,"채용",1)),listOf(Vocabulary("a".repeat(24),1,"credential","신임장"))),busy=false,analytics=AnalyticsSummary(listOf(DayStats(day,3,1)),DayStats(day,3,1)))
         ui.setContent {
             val density=LocalDensity.current
             Box(Modifier.width(width)) { CompositionLocalProvider(LocalDensity provides Density(density.density,2f)) { Theme { StudyContent(state) } } }

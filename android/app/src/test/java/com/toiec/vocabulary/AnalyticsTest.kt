@@ -64,19 +64,33 @@ class AnalyticsTest {
         assertEquals(listOf(LocalDate.of(2026,10,10),LocalDate.of(2026,10,11)),records.map { it.localDate })
         val summary=AnalyticsSummary.from(records,time.toLocalDate())
         assertEquals(1,summary.today.total); assertEquals(0,summary.today.correct)
-        assertEquals(1,summary.days[5].total); assertEquals(100.0,summary.days[5].accuracy!!,0.0)
+        assertEquals(1,summary.days[0].total); assertEquals(100.0,summary.days[0].accuracy!!,0.0)
         time=time.withZoneSameInstant(ZoneId.of("America/Los_Angeles"))
         assertEquals(records.map { it.localDate },history().records().map { it.localDate })
     }
-    @Test fun emptyAndGapDaysHaveNoAccuracyButZeroCountsAndExactlySevenDates() {
+    @Test fun emptyAndGapDaysAreExcludedAndTodayStaysSeparate() {
         val empty=AnalyticsSummary.empty(time.toLocalDate())
-        assertFalse(empty.hasRecords); assertNull(empty.today.accuracy); assertEquals(0,empty.today.total)
+        assertFalse(empty.hasRecords); assertTrue(empty.days.isEmpty())
+        assertNull(empty.today.accuracy); assertEquals(0,empty.today.total)
         val ledger=history(); answer(custom(ledger))
-        time=time.plusDays(2)
+        val first=time.toLocalDate()
+        time=time.plusDays(20)
         val summary=AnalyticsSummary.from(ledger.records(),time.toLocalDate())
-        assertTrue(summary.hasRecords); assertEquals(7,summary.days.size)
-        assertNull(summary.days[5].accuracy); assertNull(summary.today.accuracy)
-        assertEquals(0,summary.today.total); assertEquals(1,summary.days[4].total)
+        assertTrue(summary.hasRecords); assertEquals(listOf(first),summary.days.map { it.date })
+        assertEquals(1,summary.days.single().total)
+        assertNull(summary.today.accuracy); assertEquals(0,summary.today.total)
+        repeat(5) { assertEquals(summary,AnalyticsSummary.from(ledger.records(),time.toLocalDate())) }
+        assertEquals(1,ledger.records().size)
+    }
+    @Test fun latestSevenLearningDatesAreSortedAndNeverFillGaps() {
+        val ledger=history(); val dates=mutableListOf<LocalDate>()
+        repeat(10) { dates+=time.toLocalDate(); answer(custom(ledger)); time=time.plusDays(3) }
+        val records=ledger.records()
+        val summary=AnalyticsSummary.from(records.reversed(),time.toLocalDate())
+        assertEquals(dates.takeLast(7),summary.days.map { it.date })
+        assertTrue(summary.days.all { it.total==1 })
+        assertEquals(0,summary.today.total)
+        for(count in 1..6) assertEquals(count,AnalyticsSummary.from(records.take(count),time.toLocalDate()).days.size)
     }
     @Test fun aggregatesAnswersNotMeanOfSessionRatesOrCumulativeDates() {
         val ledger=history()
@@ -84,7 +98,7 @@ class AnalyticsTest {
         repeat(9) { answer(custom(ledger),false) }
         time=time.plusDays(1); repeat(3) { answer(custom(ledger)) }
         val summary=AnalyticsSummary.from(ledger.records(),time.toLocalDate())
-        assertEquals(10,summary.days[5].total); assertEquals(10.0,summary.days[5].accuracy!!,0.0)
+        assertEquals(10,summary.days[0].total); assertEquals(10.0,summary.days[0].accuracy!!,0.0)
         assertEquals(3,summary.today.total); assertEquals(100.0,summary.today.accuracy!!,0.0)
         summary.days.forEach { assertEquals(it.correct+it.wrong,it.total) }
     }

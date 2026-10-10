@@ -38,16 +38,17 @@ fun AnalyticsCard(summary: AnalyticsSummary, accuracy: Boolean) {
     val tag=if(accuracy) "accuracy" else "count"
     val today=summary.today
     var selectedDate by rememberSaveable { mutableStateOf(today.date.toString()) }
-    val selected=summary.days.firstOrNull { it.date.toString()==selectedDate } ?: today
+    val selected=summary.days.firstOrNull { it.date.toString()==selectedDate } ?: summary.days.lastOrNull()
     Surface(shape=RoundedCornerShape(20.dp),border=androidx.compose.foundation.BorderStroke(1.dp,MaterialTheme.colorScheme.outlineVariant),modifier=Modifier.fillMaxWidth().testTag("analytics-$tag")) {
         Column(Modifier.padding(20.dp),verticalArrangement=Arrangement.spacedBy(12.dp)) {
             Text(name,style=MaterialTheme.typography.titleLarge)
             Text("오늘 · ${today.date.format(detailDate)}",style=MaterialTheme.typography.bodySmall,color=MaterialTheme.colorScheme.onSurfaceVariant)
             Text(if(accuracy) percentage(today.accuracy) else "${today.total}개",style=MaterialTheme.typography.headlineLarge,modifier=Modifier.testTag("today-$tag"))
             if(!accuracy) Text("맞힌 문제 ${today.correct}개 · 틀린 문제 ${today.wrong}개",style=MaterialTheme.typography.bodySmall)
-            Text("최근 7일 · 날짜를 누르면 상세 수치를 볼 수 있어요",style=MaterialTheme.typography.bodySmall,color=MaterialTheme.colorScheme.onSurfaceVariant)
+            Text("최근 학습일 최대 7일 · 날짜를 누르면 상세 수치를 볼 수 있어요",style=MaterialTheme.typography.bodySmall,color=MaterialTheme.colorScheme.onSurfaceVariant)
             if(!accuracy) Legend()
-            SevenDayChart(summary.days,accuracy,selectedDate) { selectedDate=it }
+            if(summary.days.isNotEmpty()) LearningDayChart(summary.days,accuracy,selected?.date.toString()) { selectedDate=it }
+            if(selected != null)
             Text(
                 "${selected.date.format(detailDate)} · " + if(accuracy) {
                     if(selected.total==0) "답변 없음 · 정답률 —" else "정답률 ${percentage(selected.accuracy)} · ${selected.correct}/${selected.total}개"
@@ -72,7 +73,7 @@ fun AnalyticsCard(summary: AnalyticsSummary, accuracy: Boolean) {
     }
 }
 
-@Composable private fun SevenDayChart(days: List<DayStats>, accuracy: Boolean, selected: String, select: (String)->Unit) {
+@Composable private fun LearningDayChart(days: List<DayStats>, accuracy: Boolean, selected: String, select: (String)->Unit) {
     val mint=MaterialTheme.colorScheme.primary
     val dark=MaterialTheme.colorScheme.onSurface
     val rule=MaterialTheme.colorScheme.outlineVariant
@@ -85,8 +86,8 @@ fun AnalyticsCard(summary: AnalyticsSummary, accuracy: Boolean) {
     Text(if(accuracy) "정답률 (%)" else "문제 수 (개)",style=MaterialTheme.typography.bodySmall)
     BoxWithConstraints(Modifier.fillMaxWidth()) {
         val viewportWidth=(maxWidth-56.dp*scale).coerceAtLeast(1.dp)
-        val visibleDates=(viewportWidth/(48.dp*scale)).toInt().coerceIn(1,7)
-        val plotWidth=viewportWidth/visibleDates*7
+        val visibleDates=(viewportWidth/(48.dp*scale)).toInt().coerceIn(1,days.size)
+        val plotWidth=viewportWidth/visibleDates*days.size
         Row(Modifier.fillMaxWidth()) {
                 Column(Modifier.width(56.dp*scale).height(180.dp*scale),verticalArrangement=Arrangement.SpaceBetween) {
                     ticks.forEach { Text(if(accuracy) "$it%" else "$it",style=MaterialTheme.typography.bodySmall,modifier=Modifier.fillMaxWidth(),textAlign=TextAlign.Start) }
@@ -94,10 +95,10 @@ fun AnalyticsCard(summary: AnalyticsSummary, accuracy: Boolean) {
                 Column(Modifier.weight(1f).horizontalScroll(scroll).testTag("$tag-chart-scroll")) {
                     Column(Modifier.width(plotWidth)) {
                     Canvas(Modifier.fillMaxWidth().height(180.dp*scale).testTag("$tag-chart").pointerInput(days,accuracy) {
-                        detectTapGestures { point -> select(days[(point.x/(size.width/7f)).toInt().coerceIn(0,6)].date.toString()) }
+                        detectTapGestures { point -> select(days[(point.x/(size.width/days.size)).toInt().coerceIn(0,days.lastIndex)].date.toString()) }
                     }) {
                         val top=(12.dp*scale).toPx(); val bottom=size.height-top
-                        val step=size.width/7f
+                        val step=size.width/days.size
                         fun x(i: Int)=(i+.5f)*step
                         fun y(value: Double)=bottom-(bottom-top)*(value/maximum).toFloat()
                         ticks.forEach { drawLine(rule,Offset(0f,y(it.toDouble())),Offset(size.width,y(it.toDouble())),strokeWidth=1.dp.toPx()) }

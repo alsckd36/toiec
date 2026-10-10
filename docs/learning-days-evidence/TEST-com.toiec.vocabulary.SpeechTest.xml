@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.toiec.vocabulary.SpeechTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-10-10T04:20:29.634Z" hostname="580bb27bacae" time="0.004">
+  <properties/>
+  <testcase name="unavailableEngineOrFailedSpeakDoesNotLoopOrThrow" classname="com.toiec.vocabulary.SpeechTest" time="0.001"/>
+  <testcase name="manualReplayConsumesPendingAndFlushesPreviousSpeech" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="nextQuestionStopsPreviousBeforeSpeakingEvenIfEnglishWordIsSame" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="backgroundStopsAndReturnDoesNotRepeatSameQuestion" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="defaultOnAndChangesPersistAcrossSettingsInstances" classname="com.toiec.vocabulary.SpeechTest" time="0.001"/>
+  <testcase name="leavingQuizStopsSpeechAndDoesNotPermitReplay" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="savedOffIsAppliedBeforeFirstQuestionOnNextLaunch" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="delayedInitializationPlaysOnlyCurrentQuestionExactlyOnce" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="initializationCompletingInBackgroundOrAfterLeavingCannotSpeakOldQuestion" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="offSuppressesAutomaticButReplayStillWorksIncludingAfterGrading" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="closeStopsShutsDownOnceAndIgnoresLateCallbacks" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="offThenOnWhileInitializingDoesNotRevivePendingAutoplay" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="firstVisibleQuestionPlaysOnceDespiteGradingAndScreenRefreshes" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="allLearningModesUseSameRulesAndNewSessionOfSameWordPlaysAgain" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <testcase name="failedSettingWritePreservesPreviousFileAndUserLearningFiles" classname="com.toiec.vocabulary.SpeechTest" time="0.001"/>
+  <testcase name="turningOnNeverSpeaksCurrentQuestionAndNextQuestionAutoplays" classname="com.toiec.vocabulary.SpeechTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
