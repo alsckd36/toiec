@@ -1,0 +1,9 @@
+Android boot completed: 5 seconds
+Performing Streamed Install
+Success
+Starting: Intent { cmp=com.toiec.vocabulary/.MainActivity }
+Status: timeout
+LaunchState: UNKNOWN (-1)
+Activity: com.toiec.vocabulary/.MainActivity
+WaitTime: 13524
+Complete

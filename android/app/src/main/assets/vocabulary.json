@@ -1,0 +1,7851 @@
+{
+  "sourceSha256": "074b5fe41afe78dba4e210831a4d19b6c1975b08020c721b317d2913ac29b6a8",
+  "days": [
+    {
+      "day": 1,
+      "title": "채용",
+      "count": 32,
+      "sourceSheet": "Day 1"
+    },
+    {
+      "day": 2,
+      "title": "규칙·법률",
+      "count": 32,
+      "sourceSheet": "Day 2"
+    },
+    {
+      "day": 3,
+      "title": "일반사무(1)",
+      "count": 32,
+      "sourceSheet": "Day 3"
+    },
+    {
+      "day": 4,
+      "title": "일반사무(2)",
+      "count": 32,
+      "sourceSheet": "Day 4"
+    },
+    {
+      "day": 5,
+      "title": "일반사무(3)",
+      "count": 32,
+      "sourceSheet": "Day 5"
+    },
+    {
+      "day": 6,
+      "title": "여가·공동체",
+      "count": 32,
+      "sourceSheet": "Day 6"
+    },
+    {
+      "day": 7,
+      "title": "마케팅(1)",
+      "count": 32,
+      "sourceSheet": "Day 7"
+    },
+    {
+      "day": 8,
+      "title": "마케팅(2)",
+      "count": 32,
+      "sourceSheet": "Day 8"
+    },
+    {
+      "day": 9,
+      "title": "경제",
+      "count": 32,
+      "sourceSheet": "Day 9"
+    },
+    {
+      "day": 10,
+      "title": "쇼핑",
+      "count": 32,
+      "sourceSheet": "Day 10"
+    },
+    {
+      "day": 11,
+      "title": "제품소개",
+      "count": 31,
+      "sourceSheet": "Day 11"
+    },
+    {
+      "day": 12,
+      "title": "생산",
+      "count": 32,
+      "sourceSheet": "Day 12"
+    },
+    {
+      "day": 13,
+      "title": "고객 서비스",
+      "count": 31,
+      "sourceSheet": "Day 13"
+    },
+    {
+      "day": 14,
+      "title": "여행·공항",
+      "count": 31,
+      "sourceSheet": "Day 14"
+    },
+    {
+      "day": 15,
+      "title": "계약",
+      "count": 32,
+      "sourceSheet": "Day 15"
+    },
+    {
+      "day": 16,
+      "title": "상거래",
+      "count": 32,
+      "sourceSheet": "Day 16"
+    },
+    {
+      "day": 17,
+      "title": "무역·배송",
+      "count": 32,
+      "sourceSheet": "Day 17"
+    },
+    {
+      "day": 18,
+      "title": "숙박·식당",
+      "count": 32,
+      "sourceSheet": "Day 18"
+    },
+    {
+      "day": 19,
+      "title": "수익",
+      "count": 32,
+      "sourceSheet": "Day 19"
+    },
+    {
+      "day": 20,
+      "title": "회계",
+      "count": 31,
+      "sourceSheet": "Day 20"
+    },
+    {
+      "day": 21,
+      "title": "회사동향",
+      "count": 32,
+      "sourceSheet": "Day 21"
+    },
+    {
+      "day": 22,
+      "title": "미팅",
+      "count": 32,
+      "sourceSheet": "Day 22"
+    },
+    {
+      "day": 23,
+      "title": "사원복지",
+      "count": 32,
+      "sourceSheet": "Day 23"
+    },
+    {
+      "day": 24,
+      "title": "인사이동",
+      "count": 32,
+      "sourceSheet": "Day 24"
+    },
+    {
+      "day": 25,
+      "title": "교통",
+      "count": 32,
+      "sourceSheet": "Day 25"
+    },
+    {
+      "day": 26,
+      "title": "은행",
+      "count": 32,
+      "sourceSheet": "Day 25 (2)"
+    },
+    {
+      "day": 27,
+      "title": "투자",
+      "count": 32,
+      "sourceSheet": "Day 27"
+    },
+    {
+      "day": 28,
+      "title": "건물 및 주택",
+      "count": 31,
+      "sourceSheet": "Day 28"
+    },
+    {
+      "day": 29,
+      "title": "환경",
+      "count": 32,
+      "sourceSheet": "Day 29"
+    },
+    {
+      "day": 30,
+      "title": "건강",
+      "count": 31,
+      "sourceSheet": "Day 30"
+    }
+  ],
+  "entries": [
+    {
+      "id": "e265b6f564601a1fe8dc4278",
+      "day": 1,
+      "word": "credential",
+      "meaning": "신임장, 자격 증명서",
+      "sourceSheet": "Day 1",
+      "sourceRow": 2
+    },
+    {
+      "id": "bbb18ca53968dd7db05d025d",
+      "day": 1,
+      "word": "firsthand",
+      "meaning": "직접적인",
+      "sourceSheet": "Day 1",
+      "sourceRow": 3
+    },
+    {
+      "id": "6480aec5a66c6a2ad3adf025",
+      "day": 1,
+      "word": "hiring committee",
+      "meaning": "고용 위원회",
+      "sourceSheet": "Day 1",
+      "sourceRow": 4
+    },
+    {
+      "id": "79ebb6176d5d3463729b2490",
+      "day": 1,
+      "word": "not to mention",
+      "meaning": "~은 말할 것도 없고",
+      "sourceSheet": "Day 1",
+      "sourceRow": 5
+    },
+    {
+      "id": "94295f00ae4d381434c73088",
+      "day": 1,
+      "word": "on occasion",
+      "meaning": "때때로",
+      "sourceSheet": "Day 1",
+      "sourceRow": 6
+    },
+    {
+      "id": "fe815d2825aca00186b69002",
+      "day": 1,
+      "word": "overqualified",
+      "meaning": "필요이상으로 교육을 받은",
+      "sourceSheet": "Day 1",
+      "sourceRow": 7
+    },
+    {
+      "id": "5215377cf1359506f68b18fc",
+      "day": 1,
+      "word": "screening",
+      "meaning": "심사, 선발",
+      "sourceSheet": "Day 1",
+      "sourceRow": 8
+    },
+    {
+      "id": "2d0042b2b8a5540b43137ce0",
+      "day": 1,
+      "word": "lag",
+      "meaning": "뒤처지다, 뒤떨어지다",
+      "sourceSheet": "Day 1",
+      "sourceRow": 9
+    },
+    {
+      "id": "3af020f8f8fb4c04f0c10473",
+      "day": 1,
+      "word": "on the waiting list",
+      "meaning": "대기자 명단에",
+      "sourceSheet": "Day 1",
+      "sourceRow": 10
+    },
+    {
+      "id": "5e81c0ea88d18325cf4e80d7",
+      "day": 1,
+      "word": "oriented",
+      "meaning": "~을 지향하는",
+      "sourceSheet": "Day 1",
+      "sourceRow": 11
+    },
+    {
+      "id": "ab772629676b9abea212fd6a",
+      "day": 1,
+      "word": "pertaining to",
+      "meaning": "~에 관계된",
+      "sourceSheet": "Day 1",
+      "sourceRow": 12
+    },
+    {
+      "id": "ca8ea4f260da5bfaa66b70c3",
+      "day": 1,
+      "word": "questionably",
+      "meaning": "의심스럽게",
+      "sourceSheet": "Day 1",
+      "sourceRow": 13
+    },
+    {
+      "id": "2ec3bb17df1c8ce6c9174258",
+      "day": 1,
+      "word": "regularity",
+      "meaning": "정기적임",
+      "sourceSheet": "Day 1",
+      "sourceRow": 14
+    },
+    {
+      "id": "df5bad0ca3b04ad6b5564af3",
+      "day": 1,
+      "word": "replenish",
+      "meaning": "다시 채우다, 보충하다",
+      "sourceSheet": "Day 1",
+      "sourceRow": 15
+    },
+    {
+      "id": "2ae0514924b1db04e8c45002",
+      "day": 1,
+      "word": "simplicity",
+      "meaning": "간단함",
+      "sourceSheet": "Day 1",
+      "sourceRow": 16
+    },
+    {
+      "id": "232ed6f9fabf14e3bb55392b",
+      "day": 1,
+      "word": "stellar",
+      "meaning": "뛰어난, 별의",
+      "sourceSheet": "Day 1",
+      "sourceRow": 17
+    },
+    {
+      "id": "05681deae950628d00d72136",
+      "day": 1,
+      "word": "versatile",
+      "meaning": "다재다능한",
+      "sourceSheet": "Day 1",
+      "sourceRow": 18
+    },
+    {
+      "id": "c712bf3968441f00a89c3239",
+      "day": 1,
+      "word": "adept",
+      "meaning": "능숙한",
+      "sourceSheet": "Day 1",
+      "sourceRow": 19
+    },
+    {
+      "id": "1d0f47505c70d13949218e30",
+      "day": 1,
+      "word": "against all odds",
+      "meaning": "모든 역경을 딛고",
+      "sourceSheet": "Day 1",
+      "sourceRow": 20
+    },
+    {
+      "id": "5d347fd948b66308f502c3f6",
+      "day": 1,
+      "word": "command",
+      "meaning": "(언어)구사력, 명령, 지배력",
+      "sourceSheet": "Day 1",
+      "sourceRow": 21
+    },
+    {
+      "id": "306bf327033c80d04c8a4eab",
+      "day": 1,
+      "word": "commensurate",
+      "meaning": "비례한, 액수가 상응하는",
+      "sourceSheet": "Day 1",
+      "sourceRow": 22
+    },
+    {
+      "id": "c32892a5e0a4081d91373348",
+      "day": 1,
+      "word": "computer literate",
+      "meaning": "컴퓨터 사용 기술을 가진",
+      "sourceSheet": "Day 1",
+      "sourceRow": 23
+    },
+    {
+      "id": "051a4c05c8215aa806ead199",
+      "day": 1,
+      "word": "eagerness",
+      "meaning": "열의",
+      "sourceSheet": "Day 1",
+      "sourceRow": 24
+    },
+    {
+      "id": "0ad3f0eb456fc2b102d27868",
+      "day": 1,
+      "word": "familiarize oneself with",
+      "meaning": "~에 정통하다, 익숙하다",
+      "sourceSheet": "Day 1",
+      "sourceRow": 25
+    },
+    {
+      "id": "f679230253e596b02442b1ca",
+      "day": 1,
+      "word": "increment",
+      "meaning": "증가, 인상",
+      "sourceSheet": "Day 1",
+      "sourceRow": 26
+    },
+    {
+      "id": "14f20892fe6811a32d14248a",
+      "day": 1,
+      "word": "interpersonal skills",
+      "meaning": "대인관계능력",
+      "sourceSheet": "Day 1",
+      "sourceRow": 27
+    },
+    {
+      "id": "aa5c940c21a7b083963e8457",
+      "day": 1,
+      "word": "mindful",
+      "meaning": "유념하는",
+      "sourceSheet": "Day 1",
+      "sourceRow": 28
+    },
+    {
+      "id": "bf010be5a1c0f2a2447b8e63",
+      "day": 1,
+      "word": "preeminent",
+      "meaning": "우수한, 탁월한",
+      "sourceSheet": "Day 1",
+      "sourceRow": 29
+    },
+    {
+      "id": "0e7546ed18407142890eb7c5",
+      "day": 1,
+      "word": "preliminary",
+      "meaning": "예비의",
+      "sourceSheet": "Day 1",
+      "sourceRow": 30
+    },
+    {
+      "id": "999b38333a223fbb6c5ee12d",
+      "day": 1,
+      "word": "prerequisite",
+      "meaning": "필수조건, 필수적인",
+      "sourceSheet": "Day 1",
+      "sourceRow": 31
+    },
+    {
+      "id": "651a078b466b80f4283da821",
+      "day": 1,
+      "word": "probationer",
+      "meaning": "수습직원, 견습생",
+      "sourceSheet": "Day 1",
+      "sourceRow": 32
+    },
+    {
+      "id": "a5a452f794cdee27fba13152",
+      "day": 1,
+      "word": "sternly",
+      "meaning": "엄격하게, 단호하게",
+      "sourceSheet": "Day 1",
+      "sourceRow": 33
+    },
+    {
+      "id": "c09c49345962148832e0fa30",
+      "day": 2,
+      "word": "commonplace",
+      "meaning": "평범한 일, 흔한 일, 평범한, 흔한",
+      "sourceSheet": "Day 2",
+      "sourceRow": 2
+    },
+    {
+      "id": "1dce85a4ced8a3f5cb4b9852",
+      "day": 2,
+      "word": "protective smock",
+      "meaning": "보호 작업복",
+      "sourceSheet": "Day 2",
+      "sourceRow": 3
+    },
+    {
+      "id": "12b821b5f6dac33108382b6a",
+      "day": 2,
+      "word": "testimony",
+      "meaning": "증언",
+      "sourceSheet": "Day 2",
+      "sourceRow": 4
+    },
+    {
+      "id": "ec805d17ad4f6cf298cde941",
+      "day": 2,
+      "word": "accordance",
+      "meaning": "일치, 조화",
+      "sourceSheet": "Day 2",
+      "sourceRow": 5
+    },
+    {
+      "id": "26dd7517f5ecee31f5df3391",
+      "day": 2,
+      "word": "crucial",
+      "meaning": "중요한",
+      "sourceSheet": "Day 2",
+      "sourceRow": 6
+    },
+    {
+      "id": "1cb7558d1341f5ca7c304772",
+      "day": 2,
+      "word": "deviation",
+      "meaning": "일탈, 탈선",
+      "sourceSheet": "Day 2",
+      "sourceRow": 7
+    },
+    {
+      "id": "111b9c0a4e8545fb2b08c57b",
+      "day": 2,
+      "word": "effortlessly",
+      "meaning": "힘들지 않게",
+      "sourceSheet": "Day 2",
+      "sourceRow": 8
+    },
+    {
+      "id": "1dfc74d572c6366c7d924bac",
+      "day": 2,
+      "word": "in observance of",
+      "meaning": "~을 기념하여",
+      "sourceSheet": "Day 2",
+      "sourceRow": 9
+    },
+    {
+      "id": "e910f809aeb5f03539cb6905",
+      "day": 2,
+      "word": "inadvertently",
+      "meaning": "무심코, 우연히",
+      "sourceSheet": "Day 2",
+      "sourceRow": 10
+    },
+    {
+      "id": "8ab7ab8937c8bd23548d1dc4",
+      "day": 2,
+      "word": "judicial",
+      "meaning": "사법의, 재판의",
+      "sourceSheet": "Day 2",
+      "sourceRow": 11
+    },
+    {
+      "id": "9c4bb1e727db675d8fc06c87",
+      "day": 2,
+      "word": "justification",
+      "meaning": "정당한 이유",
+      "sourceSheet": "Day 2",
+      "sourceRow": 12
+    },
+    {
+      "id": "16dfe9941dbd513f8df7a790",
+      "day": 2,
+      "word": "keenly",
+      "meaning": "날카롭게, 예민하게",
+      "sourceSheet": "Day 2",
+      "sourceRow": 13
+    },
+    {
+      "id": "b85b91c53558d46dfdbd0c46",
+      "day": 2,
+      "word": "lawsuit",
+      "meaning": "소송, 고소",
+      "sourceSheet": "Day 2",
+      "sourceRow": 14
+    },
+    {
+      "id": "dbef5506fc283ec13982599c",
+      "day": 2,
+      "word": "mundane",
+      "meaning": "일상적인, 재미없는",
+      "sourceSheet": "Day 2",
+      "sourceRow": 15
+    },
+    {
+      "id": "427b99daaff5bda23b9f86e5",
+      "day": 2,
+      "word": "off-limits",
+      "meaning": "출입금지의",
+      "sourceSheet": "Day 2",
+      "sourceRow": 16
+    },
+    {
+      "id": "53390a7715e56ac68e79dab4",
+      "day": 2,
+      "word": "ordinance",
+      "meaning": "법령, 명령",
+      "sourceSheet": "Day 2",
+      "sourceRow": 17
+    },
+    {
+      "id": "5ca8a34eac37884841c6925c",
+      "day": 2,
+      "word": "pulled",
+      "meaning": "철회된, 철수한",
+      "sourceSheet": "Day 2",
+      "sourceRow": 18
+    },
+    {
+      "id": "7774ad3f39cf4170d8d53f3f",
+      "day": 2,
+      "word": "reprimand",
+      "meaning": "비난하다, 질책하다",
+      "sourceSheet": "Day 2",
+      "sourceRow": 19
+    },
+    {
+      "id": "f7fbd5853d11940e045abc7c",
+      "day": 2,
+      "word": "resolution",
+      "meaning": "결의(안), 결정, 해상도",
+      "sourceSheet": "Day 2",
+      "sourceRow": 20
+    },
+    {
+      "id": "e7f93a628beebf7cd313df6c",
+      "day": 2,
+      "word": "stiff",
+      "meaning": "뻣뻣한, 경직된",
+      "sourceSheet": "Day 2",
+      "sourceRow": 21
+    },
+    {
+      "id": "e94d9c1e8837618987212f63",
+      "day": 2,
+      "word": "substantiate",
+      "meaning": "입증하다",
+      "sourceSheet": "Day 2",
+      "sourceRow": 22
+    },
+    {
+      "id": "20fcf7deebefad4d1bb458ec",
+      "day": 2,
+      "word": "trespass",
+      "meaning": "(남의 토지에) 침입하다",
+      "sourceSheet": "Day 2",
+      "sourceRow": 23
+    },
+    {
+      "id": "80c3675033fde5c6ad3d9cfa",
+      "day": 2,
+      "word": "violate",
+      "meaning": "위반하다",
+      "sourceSheet": "Day 2",
+      "sourceRow": 24
+    },
+    {
+      "id": "e0c88f1205c355941f07ba48",
+      "day": 2,
+      "word": "at the discretion of",
+      "meaning": "~의 재량으로",
+      "sourceSheet": "Day 2",
+      "sourceRow": 25
+    },
+    {
+      "id": "5e1cf42878df58fea7bfa45b",
+      "day": 2,
+      "word": "bound",
+      "meaning": "의무가 있는, 꼭~하게 되어 있는",
+      "sourceSheet": "Day 2",
+      "sourceRow": 26
+    },
+    {
+      "id": "8d53ca6a0adb146b67ad572e",
+      "day": 2,
+      "word": "circumscribe",
+      "meaning": "~을 제한하다",
+      "sourceSheet": "Day 2",
+      "sourceRow": 27
+    },
+    {
+      "id": "f05acb501058b27c83bf3ce8",
+      "day": 2,
+      "word": "enactment",
+      "meaning": "입법, 법령",
+      "sourceSheet": "Day 2",
+      "sourceRow": 28
+    },
+    {
+      "id": "8b3ed8af70bd3b1d283fdbd4",
+      "day": 2,
+      "word": "impeccable",
+      "meaning": "결점 없는",
+      "sourceSheet": "Day 2",
+      "sourceRow": 29
+    },
+    {
+      "id": "6176b0aaf1a76ba74f2f56d3",
+      "day": 2,
+      "word": "infringement",
+      "meaning": "침해",
+      "sourceSheet": "Day 2",
+      "sourceRow": 30
+    },
+    {
+      "id": "3ad0ec5b9dd0e5669dd78b65",
+      "day": 2,
+      "word": "legitimate",
+      "meaning": "합법적인, 적법한",
+      "sourceSheet": "Day 2",
+      "sourceRow": 31
+    },
+    {
+      "id": "fe09b7f231ec19d6c8d3d9a5",
+      "day": 2,
+      "word": "petition",
+      "meaning": "진정서, 탄원서",
+      "sourceSheet": "Day 2",
+      "sourceRow": 32
+    },
+    {
+      "id": "289d24bc4e1d44d8948c1f9f",
+      "day": 2,
+      "word": "when it comes to",
+      "meaning": "~에 관해서는",
+      "sourceSheet": "Day 2",
+      "sourceRow": 33
+    },
+    {
+      "id": "07dcb124f2d11b8c27bd40f6",
+      "day": 3,
+      "word": "arrange item on the self",
+      "meaning": "선반에 상품을 배열하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 2
+    },
+    {
+      "id": "6f5665a13636fa7ba99ebddc",
+      "day": 3,
+      "word": "call in sick",
+      "meaning": "전화로 병결을 알리다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 3
+    },
+    {
+      "id": "8854ee0682025a4c5133aade",
+      "day": 3,
+      "word": "cover one's shift",
+      "meaning": "~대신 근무하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 4
+    },
+    {
+      "id": "543f876fd1f7e07980068c92",
+      "day": 3,
+      "word": "day-to-day operation",
+      "meaning": "일상업무",
+      "sourceSheet": "Day 3",
+      "sourceRow": 5
+    },
+    {
+      "id": "8ae54a38605d542948cd5713",
+      "day": 3,
+      "word": "in line with",
+      "meaning": "~과 일치하여, ~에 따라",
+      "sourceSheet": "Day 3",
+      "sourceRow": 6
+    },
+    {
+      "id": "956273b2c432ae235cc5e139",
+      "day": 3,
+      "word": "officiate",
+      "meaning": "식을 진행하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 7
+    },
+    {
+      "id": "98fb0b5c4c08d0d9583f0b44",
+      "day": 3,
+      "word": "on hold",
+      "meaning": "보류중인, 통화대기중인",
+      "sourceSheet": "Day 3",
+      "sourceRow": 8
+    },
+    {
+      "id": "0c2a94d79918a4a4687e9587",
+      "day": 3,
+      "word": "set down to work",
+      "meaning": "일에 착수하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 9
+    },
+    {
+      "id": "aea60a75a71153f563c1482b",
+      "day": 3,
+      "word": "stay awake",
+      "meaning": "깨어 있다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 10
+    },
+    {
+      "id": "a7cf3c2050790400166d4794",
+      "day": 3,
+      "word": "strew",
+      "meaning": "흩뿌리다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 11
+    },
+    {
+      "id": "d0ef815280648850d507beb9",
+      "day": 3,
+      "word": "take the place of",
+      "meaning": "~을 대신하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 12
+    },
+    {
+      "id": "bcac59641b260b91e6684dd9",
+      "day": 3,
+      "word": "take turns",
+      "meaning": "교대로 하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 13
+    },
+    {
+      "id": "fdbc63c64d3d7b4f7fbb7dd6",
+      "day": 3,
+      "word": "behind schedule",
+      "meaning": "일정이 늦은",
+      "sourceSheet": "Day 3",
+      "sourceRow": 14
+    },
+    {
+      "id": "33a0189af06aabaf31980641",
+      "day": 3,
+      "word": "condense",
+      "meaning": "(표현을) 간추리다, 요약하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 15
+    },
+    {
+      "id": "e73275efa09d3da9e94056e9",
+      "day": 3,
+      "word": "follow up on",
+      "meaning": "~에 대해 후속조치를 하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 16
+    },
+    {
+      "id": "0e40c37704ac0d05e289c0de",
+      "day": 3,
+      "word": "in writing",
+      "meaning": "서면으로",
+      "sourceSheet": "Day 3",
+      "sourceRow": 17
+    },
+    {
+      "id": "f6cbd9d13e9ddce71e57c810",
+      "day": 3,
+      "word": "popularize",
+      "meaning": "대중화하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 18
+    },
+    {
+      "id": "76c5863314d56d9320955d33",
+      "day": 3,
+      "word": "productively",
+      "meaning": "생산적으로",
+      "sourceSheet": "Day 3",
+      "sourceRow": 19
+    },
+    {
+      "id": "e4ed18aab7b22367c14e409b",
+      "day": 3,
+      "word": "sincerity",
+      "meaning": "성실, 정직",
+      "sourceSheet": "Day 3",
+      "sourceRow": 20
+    },
+    {
+      "id": "28c1f7a3f334b15ba117f0ab",
+      "day": 3,
+      "word": "utilization",
+      "meaning": "이용, 활용",
+      "sourceSheet": "Day 3",
+      "sourceRow": 21
+    },
+    {
+      "id": "51f6f029928f3d0d10b54fa8",
+      "day": 3,
+      "word": "administrative",
+      "meaning": "관리의, 행정상의",
+      "sourceSheet": "Day 3",
+      "sourceRow": 22
+    },
+    {
+      "id": "7d3a35940a94e8e7bd7c2a7a",
+      "day": 3,
+      "word": "be affiliated with",
+      "meaning": "~과 제휴하고 있다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 23
+    },
+    {
+      "id": "234d2aa6a84bc07521943893",
+      "day": 3,
+      "word": "conglomerate",
+      "meaning": "거대복합기업",
+      "sourceSheet": "Day 3",
+      "sourceRow": 24
+    },
+    {
+      "id": "37a8eec1ce19687d132fe290",
+      "day": 3,
+      "word": "default",
+      "meaning": "태만, 불이행",
+      "sourceSheet": "Day 3",
+      "sourceRow": 25
+    },
+    {
+      "id": "980a002c4d43981e4d76d58d",
+      "day": 3,
+      "word": "impending",
+      "meaning": "임박한, 절박한",
+      "sourceSheet": "Day 3",
+      "sourceRow": 26
+    },
+    {
+      "id": "21710e662a3212ca763fbc11",
+      "day": 3,
+      "word": "proponent",
+      "meaning": "지지자, 옹호자",
+      "sourceSheet": "Day 3",
+      "sourceRow": 27
+    },
+    {
+      "id": "f1bb29ccbd4dfffb0af1e6ac",
+      "day": 3,
+      "word": "proprietor",
+      "meaning": "(상점·토지 등의) 소유자",
+      "sourceSheet": "Day 3",
+      "sourceRow": 28
+    },
+    {
+      "id": "8642c0205f3f7f0e9ef3d8b5",
+      "day": 3,
+      "word": "site inspection",
+      "meaning": "현지 시찰",
+      "sourceSheet": "Day 3",
+      "sourceRow": 29
+    },
+    {
+      "id": "2ee449b9b821e8fadc3587d0",
+      "day": 3,
+      "word": "subordinate",
+      "meaning": "부하직원, 하급자",
+      "sourceSheet": "Day 3",
+      "sourceRow": 30
+    },
+    {
+      "id": "d30e4f264ace342a945b6967",
+      "day": 3,
+      "word": "subsidiary",
+      "meaning": "자회사",
+      "sourceSheet": "Day 3",
+      "sourceRow": 31
+    },
+    {
+      "id": "db3552fd3386e881f3317011",
+      "day": 3,
+      "word": "take initiative",
+      "meaning": "솔선해서 하다, 주도권을 잡다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 32
+    },
+    {
+      "id": "eee641f56c3d3da2ac620e8a",
+      "day": 3,
+      "word": "telecommute",
+      "meaning": "재택근무하다",
+      "sourceSheet": "Day 3",
+      "sourceRow": 33
+    },
+    {
+      "id": "195da441b7a1b4aa9dd801fa",
+      "day": 4,
+      "word": "bookkeeping",
+      "meaning": "부기",
+      "sourceSheet": "Day 4",
+      "sourceRow": 2
+    },
+    {
+      "id": "25789c4cfa3230b6f9bce0f8",
+      "day": 4,
+      "word": "have one's hands full",
+      "meaning": "몹시 바쁘다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 3
+    },
+    {
+      "id": "6182c4d1ae7828d6a4d5543f",
+      "day": 4,
+      "word": "make on outside call",
+      "meaning": "외부로 전화를 걸다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 4
+    },
+    {
+      "id": "4594d493f0fdacdc82a9c850",
+      "day": 4,
+      "word": "motivation",
+      "meaning": "이유, 동기",
+      "sourceSheet": "Day 4",
+      "sourceRow": 5
+    },
+    {
+      "id": "3f61920f396f28e38a78ec6e",
+      "day": 4,
+      "word": "newly listed",
+      "meaning": "새로 목록에 오른",
+      "sourceSheet": "Day 4",
+      "sourceRow": 6
+    },
+    {
+      "id": "9cd9bd912428a53cce2ae453",
+      "day": 4,
+      "word": "prioritize",
+      "meaning": "우선적으로 처리하다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 7
+    },
+    {
+      "id": "2c540add191f336c6ba50a66",
+      "day": 4,
+      "word": "sit in alternate seats",
+      "meaning": "한자리 씩 건너 앉다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 8
+    },
+    {
+      "id": "3f6ee6123012ef6da37c2831",
+      "day": 4,
+      "word": "written authorization",
+      "meaning": "서면 결재",
+      "sourceSheet": "Day 4",
+      "sourceRow": 9
+    },
+    {
+      "id": "23626897f5af22db113f0bca",
+      "day": 4,
+      "word": "written consent",
+      "meaning": "서면 동의",
+      "sourceSheet": "Day 4",
+      "sourceRow": 10
+    },
+    {
+      "id": "195fc281cbc47b31e77467d2",
+      "day": 4,
+      "word": "acquaintance",
+      "meaning": "아는 사람, 아는 사이",
+      "sourceSheet": "Day 4",
+      "sourceRow": 11
+    },
+    {
+      "id": "48eb632fe16ae19550afe9ef",
+      "day": 4,
+      "word": "dimension",
+      "meaning": "규모, 크기, 차원, 관점",
+      "sourceSheet": "Day 4",
+      "sourceRow": 12
+    },
+    {
+      "id": "16bdd7451e20a9b0eee4eb37",
+      "day": 4,
+      "word": "directive",
+      "meaning": "지시하는, 지배적인",
+      "sourceSheet": "Day 4",
+      "sourceRow": 13
+    },
+    {
+      "id": "c80adb20d61b65d03c0edf13",
+      "day": 4,
+      "word": "discerning",
+      "meaning": "통찰력이 있는",
+      "sourceSheet": "Day 4",
+      "sourceRow": 14
+    },
+    {
+      "id": "582b17ac1b6c63494e14dc38",
+      "day": 4,
+      "word": "elegantly",
+      "meaning": "우아하게, 고상하게",
+      "sourceSheet": "Day 4",
+      "sourceRow": 15
+    },
+    {
+      "id": "2cf91c55c39ae0aa0884f82c",
+      "day": 4,
+      "word": "expectant",
+      "meaning": "기대하고 있는",
+      "sourceSheet": "Day 4",
+      "sourceRow": 16
+    },
+    {
+      "id": "860df3df27fb58bbfc7976eb",
+      "day": 4,
+      "word": "invaluable",
+      "meaning": "매우 유용한, 귀중한",
+      "sourceSheet": "Day 4",
+      "sourceRow": 17
+    },
+    {
+      "id": "1431179c8c614f71332eba24",
+      "day": 4,
+      "word": "propel",
+      "meaning": "나아가게 하다, 몰아가다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 18
+    },
+    {
+      "id": "8acb12bcffdf7fa153332134",
+      "day": 4,
+      "word": "realization",
+      "meaning": "깨달음, 자각, 인식",
+      "sourceSheet": "Day 4",
+      "sourceRow": 19
+    },
+    {
+      "id": "b6038d34ce2fcc230288281b",
+      "day": 4,
+      "word": "recline",
+      "meaning": "기대다, 눕다, (의자가)젖혀지다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 20
+    },
+    {
+      "id": "e2885f2bbe3d7a8b08e328b9",
+      "day": 4,
+      "word": "repository",
+      "meaning": "저장소",
+      "sourceSheet": "Day 4",
+      "sourceRow": 21
+    },
+    {
+      "id": "969656cc5f0c62c224fb34b8",
+      "day": 4,
+      "word": "respective",
+      "meaning": "각각의, 저마다의",
+      "sourceSheet": "Day 4",
+      "sourceRow": 22
+    },
+    {
+      "id": "c4401158093dd5455b26b2da",
+      "day": 4,
+      "word": "spontaneously",
+      "meaning": "자발적으로, 자연 발생적으로",
+      "sourceSheet": "Day 4",
+      "sourceRow": 23
+    },
+    {
+      "id": "6d4c9cf5e022a07ea8013a4b",
+      "day": 4,
+      "word": "trivial",
+      "meaning": "사소한, 하찮은",
+      "sourceSheet": "Day 4",
+      "sourceRow": 24
+    },
+    {
+      "id": "6ed87355f36601f0f249a06a",
+      "day": 4,
+      "word": "turn in",
+      "meaning": "(실적·수익 등을) 올리다, 제출하다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 25
+    },
+    {
+      "id": "43db1d544c42941622f9d4cc",
+      "day": 4,
+      "word": "ambiance(=ambience)",
+      "meaning": "(장소의) 분위기",
+      "sourceSheet": "Day 4",
+      "sourceRow": 26
+    },
+    {
+      "id": "2402136c3cb55cb68990d59c",
+      "day": 4,
+      "word": "aspiration",
+      "meaning": "포부, 열망",
+      "sourceSheet": "Day 4",
+      "sourceRow": 27
+    },
+    {
+      "id": "04b3cc6adace3032dbede4fb",
+      "day": 4,
+      "word": "creditable",
+      "meaning": "훌륭한, 칭찬할만한",
+      "sourceSheet": "Day 4",
+      "sourceRow": 28
+    },
+    {
+      "id": "17b5ff5d1a8135f09c123270",
+      "day": 4,
+      "word": "eminent",
+      "meaning": "저명한, 탁월한",
+      "sourceSheet": "Day 4",
+      "sourceRow": 29
+    },
+    {
+      "id": "1cd38b20bf937895efffc247",
+      "day": 4,
+      "word": "endeavor",
+      "meaning": "노력하다, 애쓰다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 30
+    },
+    {
+      "id": "2581412c1ae3d0648ff954c8",
+      "day": 4,
+      "word": "entrust A with B",
+      "meaning": "A에게 B의 책임을 맡기다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 31
+    },
+    {
+      "id": "45c1bb8a95eac08e40a71b08",
+      "day": 4,
+      "word": "on edge",
+      "meaning": "흥분하여, 안절부절 못하여",
+      "sourceSheet": "Day 4",
+      "sourceRow": 32
+    },
+    {
+      "id": "25d5bca65fe0c9ac860b965f",
+      "day": 4,
+      "word": "reach one's full potential",
+      "meaning": "능력을 최대한 발휘하다",
+      "sourceSheet": "Day 4",
+      "sourceRow": 33
+    },
+    {
+      "id": "13565bfe27b5f6e1d8aa7af6",
+      "day": 5,
+      "word": "astute",
+      "meaning": "기민한",
+      "sourceSheet": "Day 5",
+      "sourceRow": 2
+    },
+    {
+      "id": "b874b1f61e81b29b887fa5c1",
+      "day": 5,
+      "word": "bring along",
+      "meaning": "~을 데리고 가다, ~을 갖고 가다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 3
+    },
+    {
+      "id": "d955ef4df6a02f2268759102",
+      "day": 5,
+      "word": "compartment",
+      "meaning": "구획, 칸막이",
+      "sourceSheet": "Day 5",
+      "sourceRow": 4
+    },
+    {
+      "id": "7958e714dc293c36fea7c7b7",
+      "day": 5,
+      "word": "give way to",
+      "meaning": "~에게 양보하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 5
+    },
+    {
+      "id": "9c4e26c5b58b1cad5a62f755",
+      "day": 5,
+      "word": "overwork",
+      "meaning": "과로, 과로하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 6
+    },
+    {
+      "id": "b15f21a63b2461da5910a08b",
+      "day": 5,
+      "word": "put down",
+      "meaning": "~을 내려놓다, ~을 적다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 7
+    },
+    {
+      "id": "5e10395c7d5128d587b39ab5",
+      "day": 5,
+      "word": "reach the solution",
+      "meaning": "해결하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 8
+    },
+    {
+      "id": "fe7280cbed88608f16bac4c9",
+      "day": 5,
+      "word": "recharge",
+      "meaning": "재충전하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 9
+    },
+    {
+      "id": "53de7f844c3e74af99dcac81",
+      "day": 5,
+      "word": "smock",
+      "meaning": "기다란 셔츠, 작업복",
+      "sourceSheet": "Day 5",
+      "sourceRow": 10
+    },
+    {
+      "id": "714db89df42bdb7ce4beb63d",
+      "day": 5,
+      "word": "accessibility",
+      "meaning": "접근가능성",
+      "sourceSheet": "Day 5",
+      "sourceRow": 11
+    },
+    {
+      "id": "bf24385098410391a81d92b2",
+      "day": 5,
+      "word": "coordinator",
+      "meaning": "조정자",
+      "sourceSheet": "Day 5",
+      "sourceRow": 12
+    },
+    {
+      "id": "c01133678253ccc98d5908e3",
+      "day": 5,
+      "word": "customary",
+      "meaning": "통상적인",
+      "sourceSheet": "Day 5",
+      "sourceRow": 13
+    },
+    {
+      "id": "bee0164d53b0209abcb26baa",
+      "day": 5,
+      "word": "disrupt",
+      "meaning": "방해하다, 중단시키다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 14
+    },
+    {
+      "id": "25508c0d59c3ca443b08a431",
+      "day": 5,
+      "word": "elevate",
+      "meaning": "승진시키다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 15
+    },
+    {
+      "id": "6b2c951082cbf2c6147b53f7",
+      "day": 5,
+      "word": "formality",
+      "meaning": "형식상의 절차, 형식적인 일",
+      "sourceSheet": "Day 5",
+      "sourceRow": 16
+    },
+    {
+      "id": "7c36fc9be162d466d5dd8859",
+      "day": 5,
+      "word": "restraint",
+      "meaning": "억제, 금지",
+      "sourceSheet": "Day 5",
+      "sourceRow": 17
+    },
+    {
+      "id": "601f295109afa4d049a0aa06",
+      "day": 5,
+      "word": "sign out",
+      "meaning": "서명하여 외출을 기록하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 18
+    },
+    {
+      "id": "767aefbe7aa9423e9cfa76d3",
+      "day": 5,
+      "word": "undeniable",
+      "meaning": "부인할 수 없는",
+      "sourceSheet": "Day 5",
+      "sourceRow": 19
+    },
+    {
+      "id": "f904a6b30a01bfb8964b365c",
+      "day": 5,
+      "word": "violation",
+      "meaning": "위반, 위배",
+      "sourceSheet": "Day 5",
+      "sourceRow": 20
+    },
+    {
+      "id": "116e1c1a5eb5711ea8401e86",
+      "day": 5,
+      "word": "aggravate",
+      "meaning": "악화시키다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 21
+    },
+    {
+      "id": "d859a706a3c5a6eb4130f335",
+      "day": 5,
+      "word": "contingency",
+      "meaning": "불의의 사태, 뜻밖의 일",
+      "sourceSheet": "Day 5",
+      "sourceRow": 22
+    },
+    {
+      "id": "d115f1b0648462c9696b3853",
+      "day": 5,
+      "word": "draw the line at",
+      "meaning": "~에 선을 긋다, ~이상은 하지 않다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 23
+    },
+    {
+      "id": "4b2d2e23a5b211b2da602995",
+      "day": 5,
+      "word": "draw up",
+      "meaning": "문서를 작성하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 24
+    },
+    {
+      "id": "2342909968ca928ce57ab275",
+      "day": 5,
+      "word": "evacuate",
+      "meaning": "(집·장소에서) 대피하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 25
+    },
+    {
+      "id": "c67231a17482a1acadffcf76",
+      "day": 5,
+      "word": "in commemoration of",
+      "meaning": "~을 기념하여",
+      "sourceSheet": "Day 5",
+      "sourceRow": 26
+    },
+    {
+      "id": "9bef1a51e3aa291688654034",
+      "day": 5,
+      "word": "on probation",
+      "meaning": "견습으로",
+      "sourceSheet": "Day 5",
+      "sourceRow": 27
+    },
+    {
+      "id": "7daea2a1d79c707a86342e17",
+      "day": 5,
+      "word": "overestimate",
+      "meaning": "과대평가하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 28
+    },
+    {
+      "id": "ffa2b8b37132b8d725d746f1",
+      "day": 5,
+      "word": "privilege",
+      "meaning": "특권, 특전",
+      "sourceSheet": "Day 5",
+      "sourceRow": 29
+    },
+    {
+      "id": "25f3d45ee3ae026d2134a4cc",
+      "day": 5,
+      "word": "restructure",
+      "meaning": "구조조정을 하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 30
+    },
+    {
+      "id": "0f40ae3937b4310ce29fd527",
+      "day": 5,
+      "word": "segregate A from B",
+      "meaning": "A를 b로부터 분리하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 31
+    },
+    {
+      "id": "683259feabbf5eb39895d7a5",
+      "day": 5,
+      "word": "trigger",
+      "meaning": "야기하다, 유발하다",
+      "sourceSheet": "Day 5",
+      "sourceRow": 32
+    },
+    {
+      "id": "3895abf47b95049542085b3b",
+      "day": 5,
+      "word": "wary of",
+      "meaning": "~을 조심하는",
+      "sourceSheet": "Day 5",
+      "sourceRow": 33
+    },
+    {
+      "id": "a9ff6189671148c8488db597",
+      "day": 6,
+      "word": "be in line",
+      "meaning": "줄서다",
+      "sourceSheet": "Day 6",
+      "sourceRow": 2
+    },
+    {
+      "id": "4d5441e0b2b1ae5ef85206a2",
+      "day": 6,
+      "word": "for change",
+      "meaning": "기분 전환으로",
+      "sourceSheet": "Day 6",
+      "sourceRow": 3
+    },
+    {
+      "id": "ff43adb00631c0880a9d9153",
+      "day": 6,
+      "word": "pass the time",
+      "meaning": "시간을 보내다, 시간을 떼우다",
+      "sourceSheet": "Day 6",
+      "sourceRow": 4
+    },
+    {
+      "id": "60f7e0d37e178bbad3c0442f",
+      "day": 6,
+      "word": "pose",
+      "meaning": "자세를 취하다, (사진 등을 위한)자세",
+      "sourceSheet": "Day 6",
+      "sourceRow": 5
+    },
+    {
+      "id": "a292c8cfff9aac8c6390f0ce",
+      "day": 6,
+      "word": "stay tuned",
+      "meaning": "채널을 고정시키다",
+      "sourceSheet": "Day 6",
+      "sourceRow": 6
+    },
+    {
+      "id": "453a50a24c7eeab080abb7e5",
+      "day": 6,
+      "word": "vacate",
+      "meaning": "집을 비우다, 방을 비우다",
+      "sourceSheet": "Day 6",
+      "sourceRow": 7
+    },
+    {
+      "id": "0fce933ba11eccaf2fde6304",
+      "day": 6,
+      "word": "appreciative",
+      "meaning": "감사하는",
+      "sourceSheet": "Day 6",
+      "sourceRow": 8
+    },
+    {
+      "id": "710c378a1fee8ee64abda380",
+      "day": 6,
+      "word": "casually",
+      "meaning": "(복장을)캐주얼하게, 약식으로",
+      "sourceSheet": "Day 6",
+      "sourceRow": 9
+    },
+    {
+      "id": "1061762e66ff5484dc16fb61",
+      "day": 6,
+      "word": "enlightening",
+      "meaning": "계몽적인, 깨우치는",
+      "sourceSheet": "Day 6",
+      "sourceRow": 10
+    },
+    {
+      "id": "2b83e8b3e8cfeac1a2a31c95",
+      "day": 6,
+      "word": "enthusiastically",
+      "meaning": "열광적으로, 매우 열심히",
+      "sourceSheet": "Day 6",
+      "sourceRow": 11
+    },
+    {
+      "id": "87409b1c5a34910b1e75c8b4",
+      "day": 6,
+      "word": "excellence",
+      "meaning": "우수, 탁월성",
+      "sourceSheet": "Day 6",
+      "sourceRow": 12
+    },
+    {
+      "id": "5800f4e966aa93ba0c5988b3",
+      "day": 6,
+      "word": "excursion",
+      "meaning": "소풍",
+      "sourceSheet": "Day 6",
+      "sourceRow": 13
+    },
+    {
+      "id": "4341e53a11c54bd6225cddd8",
+      "day": 6,
+      "word": "festivity",
+      "meaning": "축제, 축하행사",
+      "sourceSheet": "Day 6",
+      "sourceRow": 14
+    },
+    {
+      "id": "8a1eb3d0b3d5c74a5ef77a09",
+      "day": 6,
+      "word": "flock",
+      "meaning": "떼 지어가다, 모이다, 무리, 떼",
+      "sourceSheet": "Day 6",
+      "sourceRow": 15
+    },
+    {
+      "id": "4f54aa056e8d62786c6cad44",
+      "day": 6,
+      "word": "intriguingly",
+      "meaning": "흥미를 자아내어, 호기심을 자극하여",
+      "sourceSheet": "Day 6",
+      "sourceRow": 16
+    },
+    {
+      "id": "49b93196d35373db9551e90c",
+      "day": 6,
+      "word": "leg room",
+      "meaning": "(자동차 등에) 다리를 뻗을 수 있는 공간",
+      "sourceSheet": "Day 6",
+      "sourceRow": 17
+    },
+    {
+      "id": "308cc6d66ad1bc751906357a",
+      "day": 6,
+      "word": "mural",
+      "meaning": "벽화",
+      "sourceSheet": "Day 6",
+      "sourceRow": 18
+    },
+    {
+      "id": "51c5a8296a032ce7b3014e66",
+      "day": 6,
+      "word": "portrait",
+      "meaning": "초상화",
+      "sourceSheet": "Day 6",
+      "sourceRow": 19
+    },
+    {
+      "id": "3f662004cb4676be8aa8eae1",
+      "day": 6,
+      "word": "publication",
+      "meaning": "출판, 출판물",
+      "sourceSheet": "Day 6",
+      "sourceRow": 20
+    },
+    {
+      "id": "8caa216763f1309e7f5e2bd2",
+      "day": 6,
+      "word": "sculpture",
+      "meaning": "조각상",
+      "sourceSheet": "Day 6",
+      "sourceRow": 21
+    },
+    {
+      "id": "25ad46c4bb6c9f1c3b7511ab",
+      "day": 6,
+      "word": "transferable",
+      "meaning": "양도가능한, 이동가능한",
+      "sourceSheet": "Day 6",
+      "sourceRow": 22
+    },
+    {
+      "id": "67bd03d5699ae8caea148b89",
+      "day": 6,
+      "word": "unsanitary",
+      "meaning": "비위생적인",
+      "sourceSheet": "Day 6",
+      "sourceRow": 23
+    },
+    {
+      "id": "a21ccb506d797b071021721c",
+      "day": 6,
+      "word": "be in the mood for-ing",
+      "meaning": "~하고 싶은 기분이다",
+      "sourceSheet": "Day 6",
+      "sourceRow": 24
+    },
+    {
+      "id": "6c0ab3ed289bcb2c65c32a6f",
+      "day": 6,
+      "word": "botanical garden",
+      "meaning": "식물원",
+      "sourceSheet": "Day 6",
+      "sourceRow": 25
+    },
+    {
+      "id": "ba218d9c794a93870442186b",
+      "day": 6,
+      "word": "censorship",
+      "meaning": "검열(제도)",
+      "sourceSheet": "Day 6",
+      "sourceRow": 26
+    },
+    {
+      "id": "5f7c3c0760c94e00cb9699dc",
+      "day": 6,
+      "word": "have yet to do",
+      "meaning": "아직~해야 한다, 아직~하고 있지 않다",
+      "sourceSheet": "Day 6",
+      "sourceRow": 27
+    },
+    {
+      "id": "17672d0b28e63928780f33bb",
+      "day": 6,
+      "word": "intermission",
+      "meaning": "(연극·영화의) 휴식 시간, 막간",
+      "sourceSheet": "Day 6",
+      "sourceRow": 28
+    },
+    {
+      "id": "7c56efd206a184a3280e8bc0",
+      "day": 6,
+      "word": "memoirs",
+      "meaning": "회고록, 전기",
+      "sourceSheet": "Day 6",
+      "sourceRow": 29
+    },
+    {
+      "id": "052fd0eb72049abc12e038f4",
+      "day": 6,
+      "word": "must-see",
+      "meaning": "꼭 보아야 할 것",
+      "sourceSheet": "Day 6",
+      "sourceRow": 30
+    },
+    {
+      "id": "afd5c5ae5738e27549126ac0",
+      "day": 6,
+      "word": "rally",
+      "meaning": "랠리, (자동차·오토바이 등의 경주), 집회",
+      "sourceSheet": "Day 6",
+      "sourceRow": 31
+    },
+    {
+      "id": "a4cca8463b6d6c5b70df3b8c",
+      "day": 6,
+      "word": "ridiculous",
+      "meaning": "우스꽝스러운, 터무니없는",
+      "sourceSheet": "Day 6",
+      "sourceRow": 32
+    },
+    {
+      "id": "26ac8b5665b6c495e5d470a0",
+      "day": 6,
+      "word": "roam around",
+      "meaning": "이리저리 돌아다니다",
+      "sourceSheet": "Day 6",
+      "sourceRow": 33
+    },
+    {
+      "id": "16c2733eda03ff926139f5d4",
+      "day": 7,
+      "word": "all-out",
+      "meaning": "총력을 다한",
+      "sourceSheet": "Day 7",
+      "sourceRow": 2
+    },
+    {
+      "id": "3d903a7deda0366b6a5216d3",
+      "day": 7,
+      "word": "all walks of life",
+      "meaning": "모든 계층",
+      "sourceSheet": "Day 7",
+      "sourceRow": 3
+    },
+    {
+      "id": "4712dcc948aafeda88ef264c",
+      "day": 7,
+      "word": "at a stretch",
+      "meaning": "계속해서",
+      "sourceSheet": "Day 7",
+      "sourceRow": 4
+    },
+    {
+      "id": "1cd0a91b4f077ba4450600b4",
+      "day": 7,
+      "word": "back up",
+      "meaning": "지지하다, 입증하다, (교통이)정체되다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 5
+    },
+    {
+      "id": "4915d0eee9f9a6680129bceb",
+      "day": 7,
+      "word": "focus group",
+      "meaning": "표적 집단",
+      "sourceSheet": "Day 7",
+      "sourceRow": 6
+    },
+    {
+      "id": "f52318186adc9cb23833e4db",
+      "day": 7,
+      "word": "misleading",
+      "meaning": "오도하는, 그릇된 인상을 주는",
+      "sourceSheet": "Day 7",
+      "sourceRow": 7
+    },
+    {
+      "id": "460ee6aa3a80359181b794cc",
+      "day": 7,
+      "word": "capture",
+      "meaning": "(감정·분위기 등을) 담아내다, 포착하다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 8
+    },
+    {
+      "id": "291cf1ed742e8a354179069c",
+      "day": 7,
+      "word": "consolidate",
+      "meaning": "(권력·지휘 등을) 강화하다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 9
+    },
+    {
+      "id": "51ef2ad77766cb6e735b373c",
+      "day": 7,
+      "word": "contend",
+      "meaning": "(문제에)대처하다, (곤란과) 싸우다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 10
+    },
+    {
+      "id": "a90fd9a9a1e66597ae124f54",
+      "day": 7,
+      "word": "gauge",
+      "meaning": "측정하다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 11
+    },
+    {
+      "id": "446be308664e1964b816217b",
+      "day": 7,
+      "word": "momentum",
+      "meaning": "추진력, 탄성",
+      "sourceSheet": "Day 7",
+      "sourceRow": 12
+    },
+    {
+      "id": "6038df3b8ac3a11bc513af07",
+      "day": 7,
+      "word": "recognizable",
+      "meaning": "알아볼 수 있는",
+      "sourceSheet": "Day 7",
+      "sourceRow": 13
+    },
+    {
+      "id": "03e71c6d7dc6bd4e89ceaf32",
+      "day": 7,
+      "word": "segment",
+      "meaning": "부분, 조각",
+      "sourceSheet": "Day 7",
+      "sourceRow": 14
+    },
+    {
+      "id": "f6ce7979ad1a8e9af53b7dcc",
+      "day": 7,
+      "word": "telling",
+      "meaning": "효과적인, 감정을 드러내는",
+      "sourceSheet": "Day 7",
+      "sourceRow": 15
+    },
+    {
+      "id": "dcf3eb652e3bccdd7526bd78",
+      "day": 7,
+      "word": "confiscation",
+      "meaning": "몰수, 압수",
+      "sourceSheet": "Day 7",
+      "sourceRow": 16
+    },
+    {
+      "id": "5c097b19679a817e5e02ad54",
+      "day": 7,
+      "word": "constitute",
+      "meaning": "~을 구성하다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 17
+    },
+    {
+      "id": "b8b6cde6b40aea636751572c",
+      "day": 7,
+      "word": "drive up",
+      "meaning": "(값을) 올리다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 18
+    },
+    {
+      "id": "729841c48e5ae7999d99facd",
+      "day": 7,
+      "word": "endorsement",
+      "meaning": "(공개적인) 지지",
+      "sourceSheet": "Day 7",
+      "sourceRow": 19
+    },
+    {
+      "id": "d9e5787b2b3b5119885575dd",
+      "day": 7,
+      "word": "feasibility study",
+      "meaning": "예비 조사, 타당성 조사",
+      "sourceSheet": "Day 7",
+      "sourceRow": 20
+    },
+    {
+      "id": "77f4c0b60ee93a5cb1e56f7a",
+      "day": 7,
+      "word": "intervention",
+      "meaning": "간섭",
+      "sourceSheet": "Day 7",
+      "sourceRow": 21
+    },
+    {
+      "id": "1c4ab0c3f8760a938e314c6f",
+      "day": 7,
+      "word": "irretrievable",
+      "meaning": "회복할 수 없는, 돌이킬 수 없는",
+      "sourceSheet": "Day 7",
+      "sourceRow": 22
+    },
+    {
+      "id": "01265c6c7794386db01b37a0",
+      "day": 7,
+      "word": "jeopardize",
+      "meaning": "위태롭게 하다, 위험에 빠뜨리다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 23
+    },
+    {
+      "id": "d67ecaf4d03b45e9375687e2",
+      "day": 7,
+      "word": "legible",
+      "meaning": "읽기 쉬운",
+      "sourceSheet": "Day 7",
+      "sourceRow": 24
+    },
+    {
+      "id": "c47a7b43d2e40186aa4a95da",
+      "day": 7,
+      "word": "lose ground",
+      "meaning": "약세를 보이다, 세력을 잃다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 25
+    },
+    {
+      "id": "9f9b7695158c415737558d6c",
+      "day": 7,
+      "word": "public profile",
+      "meaning": "인지도, 대중의 관심",
+      "sourceSheet": "Day 7",
+      "sourceRow": 26
+    },
+    {
+      "id": "02afd45367b7d5fba9a2fe94",
+      "day": 7,
+      "word": "reputable",
+      "meaning": "평판이 좋은",
+      "sourceSheet": "Day 7",
+      "sourceRow": 27
+    },
+    {
+      "id": "2a634eb8f3d10dbb148e0fdb",
+      "day": 7,
+      "word": "set forth",
+      "meaning": "(여행에) 나서다, 설명하다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 28
+    },
+    {
+      "id": "0de94272cec95c90a47c5691",
+      "day": 7,
+      "word": "set out",
+      "meaning": "(여행에) 나서다, 설명하다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 29
+    },
+    {
+      "id": "bcc6937a5e116c5cdca41bd1",
+      "day": 7,
+      "word": "setback",
+      "meaning": "방해, 퇴보",
+      "sourceSheet": "Day 7",
+      "sourceRow": 30
+    },
+    {
+      "id": "f0a46f5ecaa3ed887c9c36ef",
+      "day": 7,
+      "word": "take a stand against",
+      "meaning": "~에 반대하다, 맞서다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 31
+    },
+    {
+      "id": "342c8c61e679d49001c549d6",
+      "day": 7,
+      "word": "underlying",
+      "meaning": "근본적인",
+      "sourceSheet": "Day 7",
+      "sourceRow": 32
+    },
+    {
+      "id": "93ce248b8b9c8758eb556d6a",
+      "day": 7,
+      "word": "vanish",
+      "meaning": "사라지다, 없어지다",
+      "sourceSheet": "Day 7",
+      "sourceRow": 33
+    },
+    {
+      "id": "d43c8bd5797aa43a56f5da3c",
+      "day": 8,
+      "word": "discipline",
+      "meaning": "훈련",
+      "sourceSheet": "Day 8",
+      "sourceRow": 2
+    },
+    {
+      "id": "ed121aec34f231b951ace7d2",
+      "day": 8,
+      "word": "jingle",
+      "meaning": "시엠송(광고 선전용 노래)",
+      "sourceSheet": "Day 8",
+      "sourceRow": 3
+    },
+    {
+      "id": "9377b038eaec24cab37359e5",
+      "day": 8,
+      "word": "mobility",
+      "meaning": "이동성",
+      "sourceSheet": "Day 8",
+      "sourceRow": 4
+    },
+    {
+      "id": "ea6648bea454aa88891b3b40",
+      "day": 8,
+      "word": "abruptly",
+      "meaning": "갑자기",
+      "sourceSheet": "Day 8",
+      "sourceRow": 5
+    },
+    {
+      "id": "4a13b211ceaf5d1c1d936ff7",
+      "day": 8,
+      "word": "absorbing",
+      "meaning": "흥미진진한",
+      "sourceSheet": "Day 8",
+      "sourceRow": 6
+    },
+    {
+      "id": "99ccf072c2940c4f875e0abf",
+      "day": 8,
+      "word": "admiringly",
+      "meaning": "감탄하여",
+      "sourceSheet": "Day 8",
+      "sourceRow": 7
+    },
+    {
+      "id": "655d103ea9b0890cae9ca9f2",
+      "day": 8,
+      "word": "at large",
+      "meaning": "대체로",
+      "sourceSheet": "Day 8",
+      "sourceRow": 8
+    },
+    {
+      "id": "494459c78b78f1d68d05dae2",
+      "day": 8,
+      "word": "boast about",
+      "meaning": "~을 자랑하다, 뽐내다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 9
+    },
+    {
+      "id": "198bcf9a7fe59f1e1797f797",
+      "day": 8,
+      "word": "correspondent",
+      "meaning": "특파원, 통신원",
+      "sourceSheet": "Day 8",
+      "sourceRow": 10
+    },
+    {
+      "id": "9b828e2f3cec3b60d126c55c",
+      "day": 8,
+      "word": "counterpart",
+      "meaning": "상대방, 대응물",
+      "sourceSheet": "Day 8",
+      "sourceRow": 11
+    },
+    {
+      "id": "5fff5b4eec6c48b6a82dbaad",
+      "day": 8,
+      "word": "defeat",
+      "meaning": "패배시키다, 실패",
+      "sourceSheet": "Day 8",
+      "sourceRow": 12
+    },
+    {
+      "id": "d78ea052554398dd33a3e99d",
+      "day": 8,
+      "word": "diversify",
+      "meaning": "다양화하다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 13
+    },
+    {
+      "id": "04731bc4ce6b2c9826a04e5b",
+      "day": 8,
+      "word": "dominant",
+      "meaning": "지배적인, 우세한",
+      "sourceSheet": "Day 8",
+      "sourceRow": 14
+    },
+    {
+      "id": "4b1ee48af1e0bd5e301d437a",
+      "day": 8,
+      "word": "fabulous",
+      "meaning": "굉장히 좋은",
+      "sourceSheet": "Day 8",
+      "sourceRow": 15
+    },
+    {
+      "id": "4a58c6bdbbf52d5d3d7a5370",
+      "day": 8,
+      "word": "fortify",
+      "meaning": "강화하다, 튼튼히 하다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 16
+    },
+    {
+      "id": "c215cc7ced6a185b5bec9a81",
+      "day": 8,
+      "word": "fundamental",
+      "meaning": "기본적인, 필수적인",
+      "sourceSheet": "Day 8",
+      "sourceRow": 17
+    },
+    {
+      "id": "69a42ae4207453836a989d84",
+      "day": 8,
+      "word": "mingle",
+      "meaning": "섞다, 혼합하다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 18
+    },
+    {
+      "id": "a51808b0de9163e2cd15449d",
+      "day": 8,
+      "word": "preciously",
+      "meaning": "까다롭게, 매우",
+      "sourceSheet": "Day 8",
+      "sourceRow": 19
+    },
+    {
+      "id": "7e7d8c699ee576ce17f16a12",
+      "day": 8,
+      "word": "stark",
+      "meaning": "(차이가) 극명한, 황량한",
+      "sourceSheet": "Day 8",
+      "sourceRow": 20
+    },
+    {
+      "id": "40b0a186346bf06361772a11",
+      "day": 8,
+      "word": "steadiness",
+      "meaning": "착실함, 끈기",
+      "sourceSheet": "Day 8",
+      "sourceRow": 21
+    },
+    {
+      "id": "1b223792d127f12dd72346b9",
+      "day": 8,
+      "word": "alluring",
+      "meaning": "유혹하는",
+      "sourceSheet": "Day 8",
+      "sourceRow": 22
+    },
+    {
+      "id": "633c0eb3ec6cf0f62d9e5d44",
+      "day": 8,
+      "word": "assimilate",
+      "meaning": "~을 일치시키다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 23
+    },
+    {
+      "id": "df8f60fb7c12ca746462009e",
+      "day": 8,
+      "word": "at all costs",
+      "meaning": "무슨 일이 있어도, 기어코",
+      "sourceSheet": "Day 8",
+      "sourceRow": 24
+    },
+    {
+      "id": "1aefe47e20eb91fa38a580d8",
+      "day": 8,
+      "word": "await",
+      "meaning": "기다리다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 25
+    },
+    {
+      "id": "da0c0b8ad161425752283546",
+      "day": 8,
+      "word": "captivate",
+      "meaning": "~의 마음을 사로잡다, 매혹하다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 26
+    },
+    {
+      "id": "fc4505edaf56e8eaa63d8129",
+      "day": 8,
+      "word": "culminate in",
+      "meaning": "결국 ~이 되다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 27
+    },
+    {
+      "id": "3557268ebbd59cdd90c9b6d4",
+      "day": 8,
+      "word": "defiance",
+      "meaning": "반항",
+      "sourceSheet": "Day 8",
+      "sourceRow": 28
+    },
+    {
+      "id": "c9eb387240dc0c067fbcb875",
+      "day": 8,
+      "word": "dissipate",
+      "meaning": "낭비하다, 흩뜨리다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 29
+    },
+    {
+      "id": "64c8fa462a4c45503e5ec95b",
+      "day": 8,
+      "word": "driving force",
+      "meaning": "추진력",
+      "sourceSheet": "Day 8",
+      "sourceRow": 30
+    },
+    {
+      "id": "bd4df3af2f954c1a7f5b0bac",
+      "day": 8,
+      "word": "elicit",
+      "meaning": "이끌어내다",
+      "sourceSheet": "Day 8",
+      "sourceRow": 31
+    },
+    {
+      "id": "4943e60532825f98c4c80c00",
+      "day": 8,
+      "word": "overwhelming",
+      "meaning": "압도적인",
+      "sourceSheet": "Day 8",
+      "sourceRow": 32
+    },
+    {
+      "id": "fbb51b54fa0740101223c33a",
+      "day": 8,
+      "word": "voiced",
+      "meaning": "말로 표명한",
+      "sourceSheet": "Day 8",
+      "sourceRow": 33
+    },
+    {
+      "id": "6cf45be081a30cd2e301349b",
+      "day": 9,
+      "word": "billing address",
+      "meaning": "청구서 주소",
+      "sourceSheet": "Day 9",
+      "sourceRow": 2
+    },
+    {
+      "id": "1433e0c3bc461ffef428a267",
+      "day": 9,
+      "word": "government grant",
+      "meaning": "정부 보조금",
+      "sourceSheet": "Day 9",
+      "sourceRow": 3
+    },
+    {
+      "id": "2e525692307a18a2884388b0",
+      "day": 9,
+      "word": "market value",
+      "meaning": "시가, 시세",
+      "sourceSheet": "Day 9",
+      "sourceRow": 4
+    },
+    {
+      "id": "3d1ae77621eb0f5a284e1ffd",
+      "day": 9,
+      "word": "pull down",
+      "meaning": "~을 끌어내리다, ~을 하락시키다",
+      "sourceSheet": "Day 9",
+      "sourceRow": 5
+    },
+    {
+      "id": "e3f7fc136777eff3882e0580",
+      "day": 9,
+      "word": "stationary",
+      "meaning": "움직이지 않는, 정지된",
+      "sourceSheet": "Day 9",
+      "sourceRow": 6
+    },
+    {
+      "id": "9dfabc62bbc71e32a84f7009",
+      "day": 9,
+      "word": "abate",
+      "meaning": "누그러지다, 약해지다, 감소하다",
+      "sourceSheet": "Day 9",
+      "sourceRow": 7
+    },
+    {
+      "id": "2de1585bf8d440577ae3caca",
+      "day": 9,
+      "word": "cease",
+      "meaning": "중지하다, 그치다",
+      "sourceSheet": "Day 9",
+      "sourceRow": 8
+    },
+    {
+      "id": "a6554e0a1d9668dc40c4a9b5",
+      "day": 9,
+      "word": "conspicuously",
+      "meaning": "눈에 띄게, 두드러지게",
+      "sourceSheet": "Day 9",
+      "sourceRow": 9
+    },
+    {
+      "id": "cd6334f12ec86d69147cae28",
+      "day": 9,
+      "word": "deteriorate",
+      "meaning": "악화되다, 나빠지다",
+      "sourceSheet": "Day 9",
+      "sourceRow": 10
+    },
+    {
+      "id": "5b9f798170b26398f946a56f",
+      "day": 9,
+      "word": "implicitly",
+      "meaning": "암암리에, 절대적으로",
+      "sourceSheet": "Day 9",
+      "sourceRow": 11
+    },
+    {
+      "id": "6d507792dd54a49ce0d02c05",
+      "day": 9,
+      "word": "leisurely",
+      "meaning": "느긋한, 여유있는, 천천히",
+      "sourceSheet": "Day 9",
+      "sourceRow": 12
+    },
+    {
+      "id": "29f02fa6bd9a4500b9932604",
+      "day": 9,
+      "word": "menace",
+      "meaning": "위협하다",
+      "sourceSheet": "Day 9",
+      "sourceRow": 13
+    },
+    {
+      "id": "9c73aa6ef0714cd13d9a6580",
+      "day": 9,
+      "word": "perceptible",
+      "meaning": "상당한 정도의, 인지할 수 있는",
+      "sourceSheet": "Day 9",
+      "sourceRow": 14
+    },
+    {
+      "id": "1480fb125459cbca6cff13fb",
+      "day": 9,
+      "word": "placement",
+      "meaning": "놓기, 배치, 취업 알선",
+      "sourceSheet": "Day 9",
+      "sourceRow": 15
+    },
+    {
+      "id": "1ffcd59e73280037cb72a496",
+      "day": 9,
+      "word": "remark",
+      "meaning": "주의하다, 말하다",
+      "sourceSheet": "Day 9",
+      "sourceRow": 16
+    },
+    {
+      "id": "6e51d6a3d90b6a3243d38e6d",
+      "day": 9,
+      "word": "retrieval",
+      "meaning": "복구, 만회",
+      "sourceSheet": "Day 9",
+      "sourceRow": 17
+    },
+    {
+      "id": "4f420329adfeccf2ee50dd30",
+      "day": 9,
+      "word": "slowdown",
+      "meaning": "경기 후퇴",
+      "sourceSheet": "Day 9",
+      "sourceRow": 18
+    },
+    {
+      "id": "7fe62ade181eaca9b41b335b",
+      "day": 9,
+      "word": "solitary",
+      "meaning": "혼자의, 외로운",
+      "sourceSheet": "Day 9",
+      "sourceRow": 19
+    },
+    {
+      "id": "875c895f8869039afd0a9302",
+      "day": 9,
+      "word": "ailing",
+      "meaning": "병든, 괴로워하는",
+      "sourceSheet": "Day 9",
+      "sourceRow": 20
+    },
+    {
+      "id": "6e0ff4f95e9ea8cf8f75669b",
+      "day": 9,
+      "word": "financial statement",
+      "meaning": "재무제표",
+      "sourceSheet": "Day 9",
+      "sourceRow": 21
+    },
+    {
+      "id": "d394351bee06d98bc430e005",
+      "day": 9,
+      "word": "have a monopoly on",
+      "meaning": "~의 독점권을 갖다",
+      "sourceSheet": "Day 9",
+      "sourceRow": 22
+    },
+    {
+      "id": "086516672022aded47487922",
+      "day": 9,
+      "word": "in demand",
+      "meaning": "수요가 있는",
+      "sourceSheet": "Day 9",
+      "sourceRow": 23
+    },
+    {
+      "id": "f75f9ec13a1d390953f9f556",
+      "day": 9,
+      "word": "multilateral",
+      "meaning": "다국간의",
+      "sourceSheet": "Day 9",
+      "sourceRow": 24
+    },
+    {
+      "id": "a80c58d364c4312c2323dca5",
+      "day": 9,
+      "word": "nontransferable",
+      "meaning": "양도할 수 없는",
+      "sourceSheet": "Day 9",
+      "sourceRow": 25
+    },
+    {
+      "id": "414a978377dc3f72ddb4af64",
+      "day": 9,
+      "word": "parent company",
+      "meaning": "모회사",
+      "sourceSheet": "Day 9",
+      "sourceRow": 26
+    },
+    {
+      "id": "4e44848937ce0a8357e05a06",
+      "day": 9,
+      "word": "privatization",
+      "meaning": "민영화",
+      "sourceSheet": "Day 9",
+      "sourceRow": 27
+    },
+    {
+      "id": "e647f94effe44500b78ea7f2",
+      "day": 9,
+      "word": "rebound",
+      "meaning": "회복, 다시 일어서다",
+      "sourceSheet": "Day 9",
+      "sourceRow": 28
+    },
+    {
+      "id": "1578084d7b0517f2fabec294",
+      "day": 9,
+      "word": "runner-up",
+      "meaning": "2위의 경기자, 차점자",
+      "sourceSheet": "Day 9",
+      "sourceRow": 29
+    },
+    {
+      "id": "a5a980b492eea90ddfa16d14",
+      "day": 9,
+      "word": "secondary effect",
+      "meaning": "부차적 영향",
+      "sourceSheet": "Day 9",
+      "sourceRow": 30
+    },
+    {
+      "id": "816f3e4b5ef85b34729d0619",
+      "day": 9,
+      "word": "sluggish",
+      "meaning": "불경기의",
+      "sourceSheet": "Day 9",
+      "sourceRow": 31
+    },
+    {
+      "id": "dbc3db816ee2b43898c6a2d3",
+      "day": 9,
+      "word": "stagnation",
+      "meaning": "침체, 불경기",
+      "sourceSheet": "Day 9",
+      "sourceRow": 32
+    },
+    {
+      "id": "021f0c9a23ee444122f8ac8e",
+      "day": 9,
+      "word": "volatile",
+      "meaning": "(가격 등이) 심하게 변동하는",
+      "sourceSheet": "Day 9",
+      "sourceRow": 33
+    },
+    {
+      "id": "cdc15a2382b87904db617639",
+      "day": 10,
+      "word": "automotive repair shop",
+      "meaning": "자동차 수리점",
+      "sourceSheet": "Day 10",
+      "sourceRow": 2
+    },
+    {
+      "id": "e2ca649381f8fe5f8e45948c",
+      "day": 10,
+      "word": "awning",
+      "meaning": "(창・문 등의) 차양, 덮개",
+      "sourceSheet": "Day 10",
+      "sourceRow": 3
+    },
+    {
+      "id": "1f9e810871539c525a5d0129",
+      "day": 10,
+      "word": "cash register",
+      "meaning": "금전 등록기, 계산대",
+      "sourceSheet": "Day 10",
+      "sourceRow": 4
+    },
+    {
+      "id": "92acc08023ee6f7da03180c7",
+      "day": 10,
+      "word": "cooking utensil (= cookware)",
+      "meaning": "조리 기구",
+      "sourceSheet": "Day 10",
+      "sourceRow": 5
+    },
+    {
+      "id": "ac7b58e9d4192b0c46e73cb7",
+      "day": 10,
+      "word": "display case",
+      "meaning": "진열 상자, 진열함",
+      "sourceSheet": "Day 10",
+      "sourceRow": 6
+    },
+    {
+      "id": "7a8b166e62b835fc5547f0f3",
+      "day": 10,
+      "word": "garment",
+      "meaning": "의류",
+      "sourceSheet": "Day 10",
+      "sourceRow": 7
+    },
+    {
+      "id": "b5f9db902bb3a37eaba8411e",
+      "day": 10,
+      "word": "look different",
+      "meaning": "다르게 보이다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 8
+    },
+    {
+      "id": "758cb95fdc40c073054dc612",
+      "day": 10,
+      "word": "tailor",
+      "meaning": "재단사, 맞춤 제작하다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 9
+    },
+    {
+      "id": "44fb6a0e1346ecf322ae4f38",
+      "day": 10,
+      "word": "wind a watch",
+      "meaning": "시계 태엽을 감다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 10
+    },
+    {
+      "id": "3f1e4cd88383ac9ba34ca512",
+      "day": 10,
+      "word": "collectable",
+      "meaning": "모을 수 있는",
+      "sourceSheet": "Day 10",
+      "sourceRow": 11
+    },
+    {
+      "id": "afe23d38544817b378317975",
+      "day": 10,
+      "word": "conversely",
+      "meaning": "거꾸로, 반대로",
+      "sourceSheet": "Day 10",
+      "sourceRow": 12
+    },
+    {
+      "id": "20084f3e0b9111e33ed423be",
+      "day": 10,
+      "word": "dilute",
+      "meaning": "희석하다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 13
+    },
+    {
+      "id": "3cbf5948b5b22c41345af9cf",
+      "day": 10,
+      "word": "exposition",
+      "meaning": "박람회, 전시회",
+      "sourceSheet": "Day 10",
+      "sourceRow": 14
+    },
+    {
+      "id": "3a2e8954befdbd6e7eac2f10",
+      "day": 10,
+      "word": "generic",
+      "meaning": "회사 이름이 붙지 않은, 일반적인",
+      "sourceSheet": "Day 10",
+      "sourceRow": 15
+    },
+    {
+      "id": "e876f3526d08cf53cc92de5f",
+      "day": 10,
+      "word": "high-end",
+      "meaning": "최고급의",
+      "sourceSheet": "Day 10",
+      "sourceRow": 16
+    },
+    {
+      "id": "9e786cce0d95f0f608958afe",
+      "day": 10,
+      "word": "merchant",
+      "meaning": "상인, 상업(용)의, 무역의",
+      "sourceSheet": "Day 10",
+      "sourceRow": 17
+    },
+    {
+      "id": "f3f9e3e603158021fb203976",
+      "day": 10,
+      "word": "observably",
+      "meaning": "눈에 띄게",
+      "sourceSheet": "Day 10",
+      "sourceRow": 18
+    },
+    {
+      "id": "53badea2f34530a280618456",
+      "day": 10,
+      "word": "predictably",
+      "meaning": "예상대로",
+      "sourceSheet": "Day 10",
+      "sourceRow": 19
+    },
+    {
+      "id": "31db311bb57291cf80d09d02",
+      "day": 10,
+      "word": "secondhand",
+      "meaning": "중고의, 간접의",
+      "sourceSheet": "Day 10",
+      "sourceRow": 20
+    },
+    {
+      "id": "0c10cf397565e5bca5535854",
+      "day": 10,
+      "word": "stylishly",
+      "meaning": "현대식으로, 유행에 따르게",
+      "sourceSheet": "Day 10",
+      "sourceRow": 21
+    },
+    {
+      "id": "42095794419df557de0a8b25",
+      "day": 10,
+      "word": "at a substantial discount",
+      "meaning": "엄청난 할인가에",
+      "sourceSheet": "Day 10",
+      "sourceRow": 22
+    },
+    {
+      "id": "12434c65f726eb2ee579fda2",
+      "day": 10,
+      "word": "bargain over prices",
+      "meaning": "가격을 흥정하다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 23
+    },
+    {
+      "id": "e433901cc14ef3cd4d49bef9",
+      "day": 10,
+      "word": "embellish",
+      "meaning": "장식하다, 꾸미다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 24
+    },
+    {
+      "id": "106db62cae4f0b2b8e44433c",
+      "day": 10,
+      "word": "embroider",
+      "meaning": "수놓다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 25
+    },
+    {
+      "id": "cc73c906e945aa99228f8b61",
+      "day": 10,
+      "word": "equivalent",
+      "meaning": "~에 상당하는, 맞먹는",
+      "sourceSheet": "Day 10",
+      "sourceRow": 26
+    },
+    {
+      "id": "5197ab001ffec9ffbcf4888e",
+      "day": 10,
+      "word": "exhilarating",
+      "meaning": "아주 신나는",
+      "sourceSheet": "Day 10",
+      "sourceRow": 27
+    },
+    {
+      "id": "0782f80cd53de0879597d1f6",
+      "day": 10,
+      "word": "exorbitant price",
+      "meaning": "터무니없이 비싼 가격",
+      "sourceSheet": "Day 10",
+      "sourceRow": 28
+    },
+    {
+      "id": "5ea795e47d5e75d03f51a450",
+      "day": 10,
+      "word": "exquisite",
+      "meaning": "정교한, 우아한",
+      "sourceSheet": "Day 10",
+      "sourceRow": 29
+    },
+    {
+      "id": "e31126d39489c681dd009abb",
+      "day": 10,
+      "word": "extravagance",
+      "meaning": "사치품, 낭비",
+      "sourceSheet": "Day 10",
+      "sourceRow": 30
+    },
+    {
+      "id": "695d8a635e7168052998bf82",
+      "day": 10,
+      "word": "lavish",
+      "meaning": "사치스러운",
+      "sourceSheet": "Day 10",
+      "sourceRow": 31
+    },
+    {
+      "id": "2e5106cc0168994b4fe52ac9",
+      "day": 10,
+      "word": "redeem",
+      "meaning": "바꾸다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 32
+    },
+    {
+      "id": "4de095ced597750459d6d325",
+      "day": 10,
+      "word": "undercharge",
+      "meaning": "너무 낮은 가격에 팔다",
+      "sourceSheet": "Day 10",
+      "sourceRow": 33
+    },
+    {
+      "id": "59afb3a4869ad069c58e181c",
+      "day": 11,
+      "word": "streamline",
+      "meaning": "(일 등을) 능률적으로하다, 합리화하다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 2
+    },
+    {
+      "id": "ac226f1b3595fd7879bfa8d3",
+      "day": 11,
+      "word": "state-of-the-art",
+      "meaning": "최신식의",
+      "sourceSheet": "Day 11",
+      "sourceRow": 3
+    },
+    {
+      "id": "b0754f11d918e44436782956",
+      "day": 11,
+      "word": "cutting-edge",
+      "meaning": "최첨단의",
+      "sourceSheet": "Day 11",
+      "sourceRow": 4
+    },
+    {
+      "id": "8fc7c369e975ce040f8e2110",
+      "day": 11,
+      "word": "distill",
+      "meaning": "증류하다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 5
+    },
+    {
+      "id": "2c038bb5e66c1582c5d6b1d6",
+      "day": 11,
+      "word": "bewildering",
+      "meaning": "당혹게 하는",
+      "sourceSheet": "Day 11",
+      "sourceRow": 6
+    },
+    {
+      "id": "8970a6e29537b655f643008e",
+      "day": 11,
+      "word": "staple",
+      "meaning": "기본 식료품",
+      "sourceSheet": "Day 11",
+      "sourceRow": 7
+    },
+    {
+      "id": "b80cd861051aa5903ae63197",
+      "day": 11,
+      "word": "obsolete",
+      "meaning": "쓸모없게 된, 안 쓰이는",
+      "sourceSheet": "Day 11",
+      "sourceRow": 8
+    },
+    {
+      "id": "57fce44d7c6df51ad8525da1",
+      "day": 11,
+      "word": "steer",
+      "meaning": "조종하다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 9
+    },
+    {
+      "id": "f76ada01f6d66f7dc058e0ed",
+      "day": 11,
+      "word": "be geared to",
+      "meaning": "~에 맞춰져 있다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 10
+    },
+    {
+      "id": "10e9f5602d2492b386b4dc75",
+      "day": 11,
+      "word": "transparent",
+      "meaning": "투명한",
+      "sourceSheet": "Day 11",
+      "sourceRow": 11
+    },
+    {
+      "id": "b7d64a9221007dfd5390f7df",
+      "day": 11,
+      "word": "configuration",
+      "meaning": "배치",
+      "sourceSheet": "Day 11",
+      "sourceRow": 12
+    },
+    {
+      "id": "a443fa21e2d069b50270da70",
+      "day": 11,
+      "word": "ornamental",
+      "meaning": "장식적인, 장식의",
+      "sourceSheet": "Day 11",
+      "sourceRow": 13
+    },
+    {
+      "id": "3b6f2da621a20e3d6b18228c",
+      "day": 11,
+      "word": "patronize",
+      "meaning": "~을 단골로 삼다, 거래하다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 14
+    },
+    {
+      "id": "d95b9e3ecc76d6c313184433",
+      "day": 11,
+      "word": "quality control standards",
+      "meaning": "품질 관리 기준",
+      "sourceSheet": "Day 11",
+      "sourceRow": 15
+    },
+    {
+      "id": "9289140b1ac28dbda1437b28",
+      "day": 11,
+      "word": "embedded",
+      "meaning": "삽입된, 포함된",
+      "sourceSheet": "Day 11",
+      "sourceRow": 16
+    },
+    {
+      "id": "51b8b97086351f2483633aeb",
+      "day": 11,
+      "word": "hectic",
+      "meaning": "몹시 바쁜",
+      "sourceSheet": "Day 11",
+      "sourceRow": 17
+    },
+    {
+      "id": "988ba8533ee80f2f59e5e461",
+      "day": 11,
+      "word": "sturdily",
+      "meaning": "튼튼하게, 완강하게",
+      "sourceSheet": "Day 11",
+      "sourceRow": 18
+    },
+    {
+      "id": "073380b1948492eecb0c8357",
+      "day": 11,
+      "word": "intently",
+      "meaning": "주의 깊게",
+      "sourceSheet": "Day 11",
+      "sourceRow": 19
+    },
+    {
+      "id": "cee512f2ddfdd773926dc429",
+      "day": 11,
+      "word": "top-of-the-line",
+      "meaning": "최고급의",
+      "sourceSheet": "Day 11",
+      "sourceRow": 20
+    },
+    {
+      "id": "c3863ec1e58a6a4dc8fa26f0",
+      "day": 11,
+      "word": "implant",
+      "meaning": "이식하다,(사상을)심어주다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 21
+    },
+    {
+      "id": "a7d2d9c3ae49e6da3b66e6e7",
+      "day": 11,
+      "word": "dysfunction",
+      "meaning": "기능 장애, 역기능",
+      "sourceSheet": "Day 11",
+      "sourceRow": 22
+    },
+    {
+      "id": "f599cb7ebee07db8cb561e54",
+      "day": 11,
+      "word": "bring out",
+      "meaning": "(제품을)출시하다,(능력을)끌어내다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 23
+    },
+    {
+      "id": "3099df996d0b65e4beb87d31",
+      "day": 11,
+      "word": "reassign",
+      "meaning": "(임무 등을) 다시 맡기다, 새로 발령내다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 24
+    },
+    {
+      "id": "01b6ef4a576627c0b06c4c63",
+      "day": 11,
+      "word": "apparatus",
+      "meaning": "장치, 기구",
+      "sourceSheet": "Day 11",
+      "sourceRow": 25
+    },
+    {
+      "id": "e6c6c02c0e6b71a963afd975",
+      "day": 11,
+      "word": "concurrently",
+      "meaning": "동시에",
+      "sourceSheet": "Day 11",
+      "sourceRow": 26
+    },
+    {
+      "id": "31ebea79d1a0b6d68f98ad6c",
+      "day": 11,
+      "word": "flammable",
+      "meaning": "타기 쉬운",
+      "sourceSheet": "Day 11",
+      "sourceRow": 27
+    },
+    {
+      "id": "b200897121bfd4012645ca2b",
+      "day": 11,
+      "word": "evolve",
+      "meaning": "서서히 발달하다, 진화하다",
+      "sourceSheet": "Day 11",
+      "sourceRow": 28
+    },
+    {
+      "id": "b9aca78e330a930b0012c244",
+      "day": 11,
+      "word": "concession",
+      "meaning": "양보, (당국의) 면허",
+      "sourceSheet": "Day 11",
+      "sourceRow": 29
+    },
+    {
+      "id": "28042a8855e9c9522fa45955",
+      "day": 11,
+      "word": "detectable",
+      "meaning": "발견할 수 있는",
+      "sourceSheet": "Day 11",
+      "sourceRow": 30
+    },
+    {
+      "id": "3c6a8279d628d16065388481",
+      "day": 11,
+      "word": "specimen",
+      "meaning": "견본",
+      "sourceSheet": "Day 11",
+      "sourceRow": 31
+    },
+    {
+      "id": "a46dce8d265ce7dacc59b8f7",
+      "day": 11,
+      "word": "achievable",
+      "meaning": "성취할 수 있는, 달성할 수 있는",
+      "sourceSheet": "Day 11",
+      "sourceRow": 32
+    },
+    {
+      "id": "67a859a898859ffcaf9f7c6b",
+      "day": 12,
+      "word": "unmet",
+      "meaning": "(요구 등이) 채워지지 않은",
+      "sourceSheet": "Day 12",
+      "sourceRow": 2
+    },
+    {
+      "id": "03dcfea2969c395d7d43fbf9",
+      "day": 12,
+      "word": "obfuscate",
+      "meaning": "당황하게 하다, 혼란스럽게 만들다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 3
+    },
+    {
+      "id": "c30df52d3b3e88ab7e7ae856",
+      "day": 12,
+      "word": "come apart",
+      "meaning": "부서지다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 4
+    },
+    {
+      "id": "0dc0a1cc0af70cd7ac0c3c42",
+      "day": 12,
+      "word": "precede",
+      "meaning": "~보다 앞서다,~보다 중요하다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 5
+    },
+    {
+      "id": "0adc36057cef79f8a7b8a862",
+      "day": 12,
+      "word": "continuity",
+      "meaning": "지속성",
+      "sourceSheet": "Day 12",
+      "sourceRow": 6
+    },
+    {
+      "id": "2b63a903c5d6f6a2c7828a08",
+      "day": 12,
+      "word": "flow chart",
+      "meaning": "작업 공정도",
+      "sourceSheet": "Day 12",
+      "sourceRow": 7
+    },
+    {
+      "id": "41e1e73d5586f1b64bf65531",
+      "day": 12,
+      "word": "tolerance",
+      "meaning": "관용",
+      "sourceSheet": "Day 12",
+      "sourceRow": 8
+    },
+    {
+      "id": "f2a4fdf512ea18b03c0c0879",
+      "day": 12,
+      "word": "excavation",
+      "meaning": "발굴",
+      "sourceSheet": "Day 12",
+      "sourceRow": 9
+    },
+    {
+      "id": "e7cb502e079ee18f32788613",
+      "day": 12,
+      "word": "welding",
+      "meaning": "용접",
+      "sourceSheet": "Day 12",
+      "sourceRow": 10
+    },
+    {
+      "id": "744c628be0a65fc71ca42e03",
+      "day": 12,
+      "word": "perturbed",
+      "meaning": "동요하는",
+      "sourceSheet": "Day 12",
+      "sourceRow": 11
+    },
+    {
+      "id": "7f672a456c9951376bdd334c",
+      "day": 12,
+      "word": "pertinent",
+      "meaning": "관련된",
+      "sourceSheet": "Day 12",
+      "sourceRow": 12
+    },
+    {
+      "id": "c41ec0c6ff68052ef001850b",
+      "day": 12,
+      "word": "arable",
+      "meaning": "(땅이) 경작에 알맞은",
+      "sourceSheet": "Day 12",
+      "sourceRow": 13
+    },
+    {
+      "id": "6f49db6846664c1e7f50e0ec",
+      "day": 12,
+      "word": "operating",
+      "meaning": "(기계·설비의) 조작상의",
+      "sourceSheet": "Day 12",
+      "sourceRow": 14
+    },
+    {
+      "id": "fce6da1abd572aca8704f030",
+      "day": 12,
+      "word": "discontinue",
+      "meaning": "중단하다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 15
+    },
+    {
+      "id": "5363303936b0117594a93ddd",
+      "day": 12,
+      "word": "occurrence",
+      "meaning": "발생하는 것",
+      "sourceSheet": "Day 12",
+      "sourceRow": 16
+    },
+    {
+      "id": "dd2d82002e7c66df6b008a2b",
+      "day": 12,
+      "word": "recede",
+      "meaning": "(가치·품질이) 떨어지다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 17
+    },
+    {
+      "id": "74da08619813b9c5410783c2",
+      "day": 12,
+      "word": "disassemble",
+      "meaning": "분해하다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 18
+    },
+    {
+      "id": "ffc0c8e3a940608a776493ed",
+      "day": 12,
+      "word": "broadly",
+      "meaning": "대략",
+      "sourceSheet": "Day 12",
+      "sourceRow": 19
+    },
+    {
+      "id": "18d8fcdc59f5d72848a70d95",
+      "day": 12,
+      "word": "involuntarily",
+      "meaning": "본의 아니게",
+      "sourceSheet": "Day 12",
+      "sourceRow": 20
+    },
+    {
+      "id": "bcce8e19888b4063fd1b85e2",
+      "day": 12,
+      "word": "tie up",
+      "meaning": "단단히 묶다; (일을) 마무리 짓다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 21
+    },
+    {
+      "id": "3fd07d7b4ee9ae634cc2c37a",
+      "day": 12,
+      "word": "halt",
+      "meaning": "중단,정지",
+      "sourceSheet": "Day 12",
+      "sourceRow": 22
+    },
+    {
+      "id": "59b47e9ec520a9513f404b32",
+      "day": 12,
+      "word": "liquidity",
+      "meaning": "(자산의) 유동성",
+      "sourceSheet": "Day 12",
+      "sourceRow": 23
+    },
+    {
+      "id": "085c497424647cc99f797770",
+      "day": 12,
+      "word": "production quota",
+      "meaning": "생산량 할당",
+      "sourceSheet": "Day 12",
+      "sourceRow": 24
+    },
+    {
+      "id": "5b091bdd8553a9f1579840f2",
+      "day": 12,
+      "word": "provoke",
+      "meaning": "화나게 하다; 유발하다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 25
+    },
+    {
+      "id": "676877cc3daf687e1f8cedf2",
+      "day": 12,
+      "word": "pragmatic",
+      "meaning": "실용적인",
+      "sourceSheet": "Day 12",
+      "sourceRow": 26
+    },
+    {
+      "id": "22e12554dd26b5bf8a0db41f",
+      "day": 12,
+      "word": "predicted",
+      "meaning": "예상되는",
+      "sourceSheet": "Day 12",
+      "sourceRow": 27
+    },
+    {
+      "id": "445be54d48a2e6294369c84c",
+      "day": 12,
+      "word": "void",
+      "meaning": "빈 공간",
+      "sourceSheet": "Day 12",
+      "sourceRow": 28
+    },
+    {
+      "id": "6d86927fbf819720097ae71b",
+      "day": 12,
+      "word": "unfailingly",
+      "meaning": "변함없이",
+      "sourceSheet": "Day 12",
+      "sourceRow": 29
+    },
+    {
+      "id": "c26f1f66ef10610c8a05769c",
+      "day": 12,
+      "word": "fabricate",
+      "meaning": "제작하다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 30
+    },
+    {
+      "id": "f4c31f606efc95dbb803edcf",
+      "day": 12,
+      "word": "procurement",
+      "meaning": "(필수품의) 조달",
+      "sourceSheet": "Day 12",
+      "sourceRow": 31
+    },
+    {
+      "id": "1e42f42ba2a2bd42276a9ca7",
+      "day": 12,
+      "word": "prevail",
+      "meaning": "널리 퍼지다; 이기다",
+      "sourceSheet": "Day 12",
+      "sourceRow": 32
+    },
+    {
+      "id": "66c57271cf76f7169cd39eb1",
+      "day": 12,
+      "word": "nimble",
+      "meaning": "민첩한,재빠른",
+      "sourceSheet": "Day 12",
+      "sourceRow": 33
+    },
+    {
+      "id": "00652261d8f5e7a4521daae4",
+      "day": 13,
+      "word": "deputy",
+      "meaning": "대리인",
+      "sourceSheet": "Day 13",
+      "sourceRow": 2
+    },
+    {
+      "id": "ad9b708835cee1c5839813cb",
+      "day": 13,
+      "word": "rebate",
+      "meaning": "환불해주다",
+      "sourceSheet": "Day 13",
+      "sourceRow": 3
+    },
+    {
+      "id": "84dfaa84834f532cb89303fd",
+      "day": 13,
+      "word": "testimonial",
+      "meaning": "추천장, 감사장",
+      "sourceSheet": "Day 13",
+      "sourceRow": 4
+    },
+    {
+      "id": "36296059cca8b7c7c7a52ff1",
+      "day": 13,
+      "word": "wonder",
+      "meaning": "~을 알고 싶다",
+      "sourceSheet": "Day 13",
+      "sourceRow": 5
+    },
+    {
+      "id": "6d65b35935daf36cc71c6aa3",
+      "day": 13,
+      "word": "factually",
+      "meaning": "사실상",
+      "sourceSheet": "Day 13",
+      "sourceRow": 6
+    },
+    {
+      "id": "58e1b987bcf8789f5cfddfe9",
+      "day": 13,
+      "word": "compelling",
+      "meaning": "흡인력 있는, 설득력 있는",
+      "sourceSheet": "Day 13",
+      "sourceRow": 7
+    },
+    {
+      "id": "ae26ebdfcb730342fde06d5d",
+      "day": 13,
+      "word": "frankly",
+      "meaning": "솔직히",
+      "sourceSheet": "Day 13",
+      "sourceRow": 8
+    },
+    {
+      "id": "2c3184ba2d30a35caa0e5bba",
+      "day": 13,
+      "word": "facilitate",
+      "meaning": "가능하게 하다, 촉진하다",
+      "sourceSheet": "Day 13",
+      "sourceRow": 9
+    },
+    {
+      "id": "99bc380db61dfbc89f4d3b50",
+      "day": 13,
+      "word": "swiftly",
+      "meaning": "신속히, 빨리",
+      "sourceSheet": "Day 13",
+      "sourceRow": 10
+    },
+    {
+      "id": "2ba9ed81ae9fd8129bcc39be",
+      "day": 13,
+      "word": "intercept",
+      "meaning": "도중에 가로막다",
+      "sourceSheet": "Day 13",
+      "sourceRow": 11
+    },
+    {
+      "id": "16e601ed6c846b43154e89ac",
+      "day": 13,
+      "word": "distress",
+      "meaning": "근심",
+      "sourceSheet": "Day 13",
+      "sourceRow": 12
+    },
+    {
+      "id": "dfec22473777f0ddaea98d74",
+      "day": 13,
+      "word": "genuine",
+      "meaning": "진짜의; 진실한",
+      "sourceSheet": "Day 13",
+      "sourceRow": 13
+    },
+    {
+      "id": "c13e77197ff253d559c56399",
+      "day": 13,
+      "word": "fleetingly",
+      "meaning": "아주 잠깐",
+      "sourceSheet": "Day 13",
+      "sourceRow": 14
+    },
+    {
+      "id": "e57f78e400e2c547f5c02864",
+      "day": 13,
+      "word": "blemish",
+      "meaning": "흠, 결점",
+      "sourceSheet": "Day 13",
+      "sourceRow": 15
+    },
+    {
+      "id": "a600d6d8b019bc2b87121071",
+      "day": 13,
+      "word": "nourish",
+      "meaning": "~에 영양분을 주다, 장려하다",
+      "sourceSheet": "Day 13",
+      "sourceRow": 16
+    },
+    {
+      "id": "652607e181622fd24a788d31",
+      "day": 13,
+      "word": "hazard",
+      "meaning": "위험",
+      "sourceSheet": "Day 13",
+      "sourceRow": 17
+    },
+    {
+      "id": "861b23fd2716fa131b86055e",
+      "day": 13,
+      "word": "unwavering",
+      "meaning": "확고한, 동요하지 않는",
+      "sourceSheet": "Day 13",
+      "sourceRow": 18
+    },
+    {
+      "id": "e7be2c21ba8e9e96a85a7e48",
+      "day": 13,
+      "word": "vibrant",
+      "meaning": "활기에 넘치는",
+      "sourceSheet": "Day 13",
+      "sourceRow": 19
+    },
+    {
+      "id": "661559a2e0ec9f178b5e680a",
+      "day": 13,
+      "word": "adaptability",
+      "meaning": "적응성",
+      "sourceSheet": "Day 13",
+      "sourceRow": 20
+    },
+    {
+      "id": "117d9552308923c826d0ee88",
+      "day": 13,
+      "word": "sparsely",
+      "meaning": "드문드문하게",
+      "sourceSheet": "Day 13",
+      "sourceRow": 21
+    },
+    {
+      "id": "2ad2022fdda05f046ba42145",
+      "day": 13,
+      "word": "casualty",
+      "meaning": "사상자, 부상자",
+      "sourceSheet": "Day 13",
+      "sourceRow": 22
+    },
+    {
+      "id": "ef574c03a12b457faff6347a",
+      "day": 13,
+      "word": "soak up",
+      "meaning": "(액체를) 빨아 들이다",
+      "sourceSheet": "Day 13",
+      "sourceRow": 23
+    },
+    {
+      "id": "171cd9969103f91b3289b66f",
+      "day": 13,
+      "word": "decisive",
+      "meaning": "결정적인; 확고한",
+      "sourceSheet": "Day 13",
+      "sourceRow": 24
+    },
+    {
+      "id": "543a10bcd514d63a70465e13",
+      "day": 13,
+      "word": "retrospective",
+      "meaning": "회고적인, 소급하는",
+      "sourceSheet": "Day 13",
+      "sourceRow": 25
+    },
+    {
+      "id": "e8ffd167fc9babbfce79ec47",
+      "day": 13,
+      "word": "button up",
+      "meaning": "단추를 채워 잠그다",
+      "sourceSheet": "Day 13",
+      "sourceRow": 26
+    },
+    {
+      "id": "9b5e95e8dae8d977eb681304",
+      "day": 13,
+      "word": "aggression",
+      "meaning": "공격성",
+      "sourceSheet": "Day 13",
+      "sourceRow": 27
+    },
+    {
+      "id": "86032604836b277e70132886",
+      "day": 13,
+      "word": "reinforcement",
+      "meaning": "보강, 강화",
+      "sourceSheet": "Day 13",
+      "sourceRow": 28
+    },
+    {
+      "id": "6fd322dad3ea8888246bed84",
+      "day": 13,
+      "word": "claims department",
+      "meaning": "보험 보상 부서",
+      "sourceSheet": "Day 13",
+      "sourceRow": 29
+    },
+    {
+      "id": "037090a2923af6cd581e0f59",
+      "day": 13,
+      "word": "censure",
+      "meaning": "비난",
+      "sourceSheet": "Day 13",
+      "sourceRow": 30
+    },
+    {
+      "id": "9b828d53402d6e332ef05a2f",
+      "day": 13,
+      "word": "bare",
+      "meaning": "벌거벗은; 텅 빈",
+      "sourceSheet": "Day 13",
+      "sourceRow": 31
+    },
+    {
+      "id": "7f1f4f910a8324e2b8d16870",
+      "day": 13,
+      "word": "mend",
+      "meaning": "수선하다",
+      "sourceSheet": "Day 13",
+      "sourceRow": 32
+    },
+    {
+      "id": "43f38f92424a702d2b6ef34c",
+      "day": 14,
+      "word": "dispense",
+      "meaning": "나누어 주다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 2
+    },
+    {
+      "id": "b2d62e3d28fdb892d386cb79",
+      "day": 14,
+      "word": "presumable",
+      "meaning": "가정할 수 있는,있음직한",
+      "sourceSheet": "Day 14",
+      "sourceRow": 3
+    },
+    {
+      "id": "7565e4480e567f25d965c3e9",
+      "day": 14,
+      "word": "carousel",
+      "meaning": "(공항의) 회전식 수화물 컨베이어",
+      "sourceSheet": "Day 14",
+      "sourceRow": 4
+    },
+    {
+      "id": "c1fb4bfa832512c2ad8e3eb5",
+      "day": 14,
+      "word": "lodging",
+      "meaning": "임시 숙소,하숙",
+      "sourceSheet": "Day 14",
+      "sourceRow": 5
+    },
+    {
+      "id": "3a747e2d985851dbe56bed6c",
+      "day": 14,
+      "word": "disembark",
+      "meaning": "(비행기∙배에서) 내리다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 6
+    },
+    {
+      "id": "e5439bc3193d9ff48402b0d8",
+      "day": 14,
+      "word": "remittance",
+      "meaning": "송금",
+      "sourceSheet": "Day 14",
+      "sourceRow": 7
+    },
+    {
+      "id": "6b1be19df1e39c23bb7617dd",
+      "day": 14,
+      "word": "buckle up",
+      "meaning": "안전벨트를 매다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 8
+    },
+    {
+      "id": "df2f7e0a1686c7ff41c7d642",
+      "day": 14,
+      "word": "barge",
+      "meaning": "짐배",
+      "sourceSheet": "Day 14",
+      "sourceRow": 9
+    },
+    {
+      "id": "59e4f8ccec2c5f2d92bb6d68",
+      "day": 14,
+      "word": "confer",
+      "meaning": "협의하다,의논하다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 10
+    },
+    {
+      "id": "1de1355b15f9fb91e6af3709",
+      "day": 14,
+      "word": "concourse",
+      "meaning": "중앙 홀,중앙 광장",
+      "sourceSheet": "Day 14",
+      "sourceRow": 11
+    },
+    {
+      "id": "e5b6a7364e8a1049a9236dac",
+      "day": 14,
+      "word": "stall",
+      "meaning": "상품 진열대",
+      "sourceSheet": "Day 14",
+      "sourceRow": 12
+    },
+    {
+      "id": "8d58644377fb418593946b00",
+      "day": 14,
+      "word": "airsickness",
+      "meaning": "비행기 멀미",
+      "sourceSheet": "Day 14",
+      "sourceRow": 13
+    },
+    {
+      "id": "85560bb59114eec3777eed7d",
+      "day": 14,
+      "word": "be left unattended",
+      "meaning": "방치되다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 14
+    },
+    {
+      "id": "c8a6063f35eaabfb3393334f",
+      "day": 14,
+      "word": "prestigious",
+      "meaning": "명성 있는",
+      "sourceSheet": "Day 14",
+      "sourceRow": 15
+    },
+    {
+      "id": "69e36568cd8b4659389b9fcf",
+      "day": 14,
+      "word": "channel",
+      "meaning": "해협; 수로",
+      "sourceSheet": "Day 14",
+      "sourceRow": 16
+    },
+    {
+      "id": "d830325906c3d540ae219e6a",
+      "day": 14,
+      "word": "deck",
+      "meaning": "갑판",
+      "sourceSheet": "Day 14",
+      "sourceRow": 17
+    },
+    {
+      "id": "83705601b2fcad584f5c5c10",
+      "day": 14,
+      "word": "charter plane",
+      "meaning": "전세 비행기",
+      "sourceSheet": "Day 14",
+      "sourceRow": 18
+    },
+    {
+      "id": "4114fb6fa4a586d98e09f0a9",
+      "day": 14,
+      "word": "quarantine desk",
+      "meaning": "검역대",
+      "sourceSheet": "Day 14",
+      "sourceRow": 19
+    },
+    {
+      "id": "ab97542e73d2ca454912abff",
+      "day": 14,
+      "word": "aviation",
+      "meaning": "비행",
+      "sourceSheet": "Day 14",
+      "sourceRow": 20
+    },
+    {
+      "id": "32f09fa1e0d7bc3038902425",
+      "day": 14,
+      "word": "allowance",
+      "meaning": "허용치; 참작,특별한 고려",
+      "sourceSheet": "Day 14",
+      "sourceRow": 21
+    },
+    {
+      "id": "2eb9bf2442c9194748e0b02f",
+      "day": 14,
+      "word": "impound",
+      "meaning": "(물건을) 압수하다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 22
+    },
+    {
+      "id": "c1d64b2d4cb30f1be788cc4d",
+      "day": 14,
+      "word": "harbor",
+      "meaning": "항구",
+      "sourceSheet": "Day 14",
+      "sourceRow": 23
+    },
+    {
+      "id": "f1fe9d12aab266e4f196815f",
+      "day": 14,
+      "word": "motion sickness",
+      "meaning": "(탈것에 의한) 멀미",
+      "sourceSheet": "Day 14",
+      "sourceRow": 24
+    },
+    {
+      "id": "da47c2f450a4f9d538d86d60",
+      "day": 14,
+      "word": "swap",
+      "meaning": "맞바꾸다,교환하다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 25
+    },
+    {
+      "id": "f888bfa22aae6ec1f3b63b34",
+      "day": 14,
+      "word": "tie the boat to",
+      "meaning": "배를 ~에 정박시키다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 26
+    },
+    {
+      "id": "f774c27c13ef0226c362c0b8",
+      "day": 14,
+      "word": "life preserver",
+      "meaning": "(구명 조끼 등의) 구명 기구",
+      "sourceSheet": "Day 14",
+      "sourceRow": 27
+    },
+    {
+      "id": "a864ed013d128c9c908c18a4",
+      "day": 14,
+      "word": "dock",
+      "meaning": "선창,부두",
+      "sourceSheet": "Day 14",
+      "sourceRow": 28
+    },
+    {
+      "id": "e4cf77dd85e1f5d0f1afbdd6",
+      "day": 14,
+      "word": "turn up",
+      "meaning": "나타나다,찾게 되다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 29
+    },
+    {
+      "id": "ad3c0c7ee0b2b66eb6d50179",
+      "day": 14,
+      "word": "touch down",
+      "meaning": "착륙하다",
+      "sourceSheet": "Day 14",
+      "sourceRow": 30
+    },
+    {
+      "id": "5800768b32a54c54c82b8db4",
+      "day": 14,
+      "word": "turbulence",
+      "meaning": "난기류",
+      "sourceSheet": "Day 14",
+      "sourceRow": 31
+    },
+    {
+      "id": "2df5712e1cf303a50fac51e4",
+      "day": 14,
+      "word": "vessel",
+      "meaning": "대형 선박",
+      "sourceSheet": "Day 14",
+      "sourceRow": 32
+    },
+    {
+      "id": "cfde2ca5188afb7bdd0691c7",
+      "day": 15,
+      "word": "moderator",
+      "meaning": "(토론 등의) 사회자, 중재자",
+      "sourceSheet": "Day 15",
+      "sourceRow": 2
+    },
+    {
+      "id": "4256fd16bd8128dda834d511",
+      "day": 15,
+      "word": "solicit",
+      "meaning": "요청하다, 간청하다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 3
+    },
+    {
+      "id": "5399133cb5c17de48191fba1",
+      "day": 15,
+      "word": "commercial relations",
+      "meaning": "통상 관계",
+      "sourceSheet": "Day 15",
+      "sourceRow": 4
+    },
+    {
+      "id": "fbfd0cce000cb411c7d171f2",
+      "day": 15,
+      "word": "It is no wonder(that)",
+      "meaning": "~은 당연하다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 5
+    },
+    {
+      "id": "026b3bb9c3ec06d5536ec016",
+      "day": 15,
+      "word": "relinquish",
+      "meaning": "포기하다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 6
+    },
+    {
+      "id": "9e44dae2c5ca8dc916878b28",
+      "day": 15,
+      "word": "mediation",
+      "meaning": "조정, 중재",
+      "sourceSheet": "Day 15",
+      "sourceRow": 7
+    },
+    {
+      "id": "9e44c12408f4d53e672b2503",
+      "day": 15,
+      "word": "preferential treatment",
+      "meaning": "우대",
+      "sourceSheet": "Day 15",
+      "sourceRow": 8
+    },
+    {
+      "id": "c1847d8a31a02e794f663c5b",
+      "day": 15,
+      "word": "omission",
+      "meaning": "생략, 누락",
+      "sourceSheet": "Day 15",
+      "sourceRow": 9
+    },
+    {
+      "id": "6510126aae54bb1a39c36095",
+      "day": 15,
+      "word": "rocky",
+      "meaning": "장애가 많은",
+      "sourceSheet": "Day 15",
+      "sourceRow": 10
+    },
+    {
+      "id": "975f286ef4534893170fd0a0",
+      "day": 15,
+      "word": "credit limit",
+      "meaning": "신용대출 한도액",
+      "sourceSheet": "Day 15",
+      "sourceRow": 11
+    },
+    {
+      "id": "ff3dbd163436a7d74558c4a9",
+      "day": 15,
+      "word": "trustworthy",
+      "meaning": "믿을 수 있는",
+      "sourceSheet": "Day 15",
+      "sourceRow": 12
+    },
+    {
+      "id": "18f1eed23562761102659f1f",
+      "day": 15,
+      "word": "inconclusively",
+      "meaning": "결론 없이, 요점 없이",
+      "sourceSheet": "Day 15",
+      "sourceRow": 13
+    },
+    {
+      "id": "ab89110f81cbbfebafdba977",
+      "day": 15,
+      "word": "subcontract",
+      "meaning": "하청 계약",
+      "sourceSheet": "Day 15",
+      "sourceRow": 14
+    },
+    {
+      "id": "719732c3578cda81a4469b6c",
+      "day": 15,
+      "word": "recollection",
+      "meaning": "회상, 회고",
+      "sourceSheet": "Day 15",
+      "sourceRow": 15
+    },
+    {
+      "id": "8c941bffd3df4eb0ab65b09d",
+      "day": 15,
+      "word": "embark",
+      "meaning": "착수하다,나서다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 16
+    },
+    {
+      "id": "66ced6dbc0091522fc72f7b0",
+      "day": 15,
+      "word": "foil",
+      "meaning": "좌절시키다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 17
+    },
+    {
+      "id": "df95ce7e2f20d5a4e64c2b86",
+      "day": 15,
+      "word": "down payment",
+      "meaning": "계약금, 첫 할부금",
+      "sourceSheet": "Day 15",
+      "sourceRow": 18
+    },
+    {
+      "id": "89a432222af8f819b8fd5b8f",
+      "day": 15,
+      "word": "portray",
+      "meaning": "(인물∙풍경을) 그리다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 19
+    },
+    {
+      "id": "8b55da80a79793df344a0289",
+      "day": 15,
+      "word": "reinstall",
+      "meaning": "재설치하다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 20
+    },
+    {
+      "id": "f98ad21069f8dc0dcbaedd5a",
+      "day": 15,
+      "word": "annotated",
+      "meaning": "(책 등이) 주석이 달린",
+      "sourceSheet": "Day 15",
+      "sourceRow": 21
+    },
+    {
+      "id": "d4688d7509abe9c9c9357a24",
+      "day": 15,
+      "word": "impartially",
+      "meaning": "공명정대하게, 치우치지 않게",
+      "sourceSheet": "Day 15",
+      "sourceRow": 22
+    },
+    {
+      "id": "9fbf2889b81f2fd2d559bf79",
+      "day": 15,
+      "word": "think over",
+      "meaning": "숙고하다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 23
+    },
+    {
+      "id": "72c47b5d7ca58ef6fd8133f3",
+      "day": 15,
+      "word": "repave",
+      "meaning": "(도로를) 재포장하다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 24
+    },
+    {
+      "id": "f8fe036fc2a72cf8cac72e07",
+      "day": 15,
+      "word": "originate in",
+      "meaning": "~에서 시작되다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 25
+    },
+    {
+      "id": "0fec4265af022ae749068bae",
+      "day": 15,
+      "word": "affiliation",
+      "meaning": "합병",
+      "sourceSheet": "Day 15",
+      "sourceRow": 26
+    },
+    {
+      "id": "2facf57ab9e21fa61f6adb3e",
+      "day": 15,
+      "word": "subcontractor",
+      "meaning": "하청인, 하청업자",
+      "sourceSheet": "Day 15",
+      "sourceRow": 27
+    },
+    {
+      "id": "742c27369524d725658fb8e7",
+      "day": 15,
+      "word": "beside the point",
+      "meaning": "요점을 벗어난",
+      "sourceSheet": "Day 15",
+      "sourceRow": 28
+    },
+    {
+      "id": "063651096f1a3d09e89a6ca8",
+      "day": 15,
+      "word": "run the risk of",
+      "meaning": "~의 위험을 무릅쓰다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 29
+    },
+    {
+      "id": "f1771c3133cf9e285b8cbb25",
+      "day": 15,
+      "word": "remembrance",
+      "meaning": "추억",
+      "sourceSheet": "Day 15",
+      "sourceRow": 30
+    },
+    {
+      "id": "e49f5710c8d3e66821f0e0ee",
+      "day": 15,
+      "word": "arbitration",
+      "meaning": "중재",
+      "sourceSheet": "Day 15",
+      "sourceRow": 31
+    },
+    {
+      "id": "267d294ad2fe2618846a5755",
+      "day": 15,
+      "word": "provision",
+      "meaning": "(조약의) 조항",
+      "sourceSheet": "Day 15",
+      "sourceRow": 32
+    },
+    {
+      "id": "e2c30d59264829011fe7ce30",
+      "day": 15,
+      "word": "reconcile",
+      "meaning": "화해시키다, 양립시키다",
+      "sourceSheet": "Day 15",
+      "sourceRow": 33
+    },
+    {
+      "id": "2bbe1050b835704254556198",
+      "day": 16,
+      "word": "run an article",
+      "meaning": "기사를 게재하다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 2
+    },
+    {
+      "id": "aeadaae4c8ec30926d370f85",
+      "day": 16,
+      "word": "step down",
+      "meaning": "물러나다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 3
+    },
+    {
+      "id": "530da4a14ec930ed9cb050b2",
+      "day": 16,
+      "word": "come to power",
+      "meaning": "권력을 잡다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 4
+    },
+    {
+      "id": "0ecc28b47888e20b35d84c2c",
+      "day": 16,
+      "word": "write up",
+      "meaning": "(사건을) 기록하다, 쓰다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 5
+    },
+    {
+      "id": "f187c5c0c4a2f54db498a53b",
+      "day": 16,
+      "word": "barring",
+      "meaning": "~이 없다면",
+      "sourceSheet": "Day 16",
+      "sourceRow": 6
+    },
+    {
+      "id": "0257609b2e009aa6c788941f",
+      "day": 16,
+      "word": "itemized",
+      "meaning": "항목별로 구분된",
+      "sourceSheet": "Day 16",
+      "sourceRow": 7
+    },
+    {
+      "id": "2ea88c7a30351b12a4dcfc06",
+      "day": 16,
+      "word": "protocol",
+      "meaning": "의정서",
+      "sourceSheet": "Day 16",
+      "sourceRow": 8
+    },
+    {
+      "id": "a4234d9e2e1c194f91d2b98b",
+      "day": 16,
+      "word": "drawback",
+      "meaning": "약점, 문제점",
+      "sourceSheet": "Day 16",
+      "sourceRow": 9
+    },
+    {
+      "id": "7ee162f213ce23422a9529d6",
+      "day": 16,
+      "word": "parliament",
+      "meaning": "의회, 국회",
+      "sourceSheet": "Day 16",
+      "sourceRow": 10
+    },
+    {
+      "id": "06e39f9dd2c69f08fb3c9a56",
+      "day": 16,
+      "word": "peddler",
+      "meaning": "행상인",
+      "sourceSheet": "Day 16",
+      "sourceRow": 11
+    },
+    {
+      "id": "f01169f6e88879dcd581c6e0",
+      "day": 16,
+      "word": "be closed to the public",
+      "meaning": "일반인 출입이 금지되다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 12
+    },
+    {
+      "id": "f642b4c393e453cf2927849d",
+      "day": 16,
+      "word": "profoundly",
+      "meaning": "깊이",
+      "sourceSheet": "Day 16",
+      "sourceRow": 13
+    },
+    {
+      "id": "ab69eadfc3eb719a6892d341",
+      "day": 16,
+      "word": "take an action against",
+      "meaning": "~를 고소하다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 14
+    },
+    {
+      "id": "46868c41bf95558a1b775c32",
+      "day": 16,
+      "word": "contend with",
+      "meaning": "~와 다투다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 15
+    },
+    {
+      "id": "4fbec9b85bd4ef08e24e27f3",
+      "day": 16,
+      "word": "in the prepaid envelope",
+      "meaning": "우편요금이 선납 된 봉투에",
+      "sourceSheet": "Day 16",
+      "sourceRow": 16
+    },
+    {
+      "id": "93b465f031c1239247ac77f0",
+      "day": 16,
+      "word": "cast a ballot",
+      "meaning": "투표하다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 17
+    },
+    {
+      "id": "e6a08015250252874e98ac30",
+      "day": 16,
+      "word": "nationalize",
+      "meaning": "국영화하다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 18
+    },
+    {
+      "id": "3faa58dacca8a596e1e09c85",
+      "day": 16,
+      "word": "diversified",
+      "meaning": "다양한, 여러 가지의",
+      "sourceSheet": "Day 16",
+      "sourceRow": 19
+    },
+    {
+      "id": "d66a9f105d7f4fe412011855",
+      "day": 16,
+      "word": "in place of",
+      "meaning": "~을 대신하여",
+      "sourceSheet": "Day 16",
+      "sourceRow": 20
+    },
+    {
+      "id": "c4aa135846dcfe8c8e617b77",
+      "day": 16,
+      "word": "keep track of",
+      "meaning": "~을 계속 알고 있다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 21
+    },
+    {
+      "id": "f4718fbf2d9f31454bf60d53",
+      "day": 16,
+      "word": "breaking news",
+      "meaning": "속보",
+      "sourceSheet": "Day 16",
+      "sourceRow": 22
+    },
+    {
+      "id": "c3c00aafd4e665f614923804",
+      "day": 16,
+      "word": "scarcity",
+      "meaning": "부족",
+      "sourceSheet": "Day 16",
+      "sourceRow": 23
+    },
+    {
+      "id": "e75eb6e2d3fb49fbec43a79b",
+      "day": 16,
+      "word": "surrender",
+      "meaning": "양도하다; 항복하다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 24
+    },
+    {
+      "id": "68d9b6a418e186ee2012a374",
+      "day": 16,
+      "word": "predominantly",
+      "meaning": "대개, 대부분",
+      "sourceSheet": "Day 16",
+      "sourceRow": 25
+    },
+    {
+      "id": "3e61726783b91861a7222361",
+      "day": 16,
+      "word": "facilitator",
+      "meaning": "조력자, 협력자",
+      "sourceSheet": "Day 16",
+      "sourceRow": 26
+    },
+    {
+      "id": "13984a4e7e0edce830a005d2",
+      "day": 16,
+      "word": "summit",
+      "meaning": "정상 회담",
+      "sourceSheet": "Day 16",
+      "sourceRow": 27
+    },
+    {
+      "id": "c618a193ffe9c7cac516f079",
+      "day": 16,
+      "word": "third party",
+      "meaning": "제삼자",
+      "sourceSheet": "Day 16",
+      "sourceRow": 28
+    },
+    {
+      "id": "f8b73d9a3cfbd0ef331cd987",
+      "day": 16,
+      "word": "bureaucracy",
+      "meaning": "관료 제도",
+      "sourceSheet": "Day 16",
+      "sourceRow": 29
+    },
+    {
+      "id": "331c05874052c979e8d7810c",
+      "day": 16,
+      "word": "constituency",
+      "meaning": "단골, 고객층; 선거구, 유권자",
+      "sourceSheet": "Day 16",
+      "sourceRow": 30
+    },
+    {
+      "id": "87b241a03a6989eaf3ded1ca",
+      "day": 16,
+      "word": "unsuccessful candidate",
+      "meaning": "불합격자, 낙선 후보",
+      "sourceSheet": "Day 16",
+      "sourceRow": 31
+    },
+    {
+      "id": "1368a29ebe7011506ee9f3d4",
+      "day": 16,
+      "word": "price quote",
+      "meaning": "견적서",
+      "sourceSheet": "Day 16",
+      "sourceRow": 32
+    },
+    {
+      "id": "67c6f0a0741ca48ef3dbb12d",
+      "day": 16,
+      "word": "engrave",
+      "meaning": "(문자·도안 등을) ~에 새기다",
+      "sourceSheet": "Day 16",
+      "sourceRow": 33
+    },
+    {
+      "id": "3165df34fcec1454816355a6",
+      "day": 17,
+      "word": "institute",
+      "meaning": "협회, 연구소",
+      "sourceSheet": "Day 17",
+      "sourceRow": 2
+    },
+    {
+      "id": "c0f7c0be2df73e42f3efadec",
+      "day": 17,
+      "word": "selective",
+      "meaning": "선택적인, 까다로운",
+      "sourceSheet": "Day 17",
+      "sourceRow": 3
+    },
+    {
+      "id": "84c7764ae8e918233bd708b3",
+      "day": 17,
+      "word": "stow",
+      "meaning": "(짐을) 넣다, 싣다",
+      "sourceSheet": "Day 17",
+      "sourceRow": 4
+    },
+    {
+      "id": "0fa9dcf7d979be46947d2c7e",
+      "day": 17,
+      "word": "progression",
+      "meaning": "진행, 진전",
+      "sourceSheet": "Day 17",
+      "sourceRow": 5
+    },
+    {
+      "id": "58467d4070997eb48ecbbd7a",
+      "day": 17,
+      "word": "freight",
+      "meaning": "운송 화물, 화물 운송",
+      "sourceSheet": "Day 17",
+      "sourceRow": 6
+    },
+    {
+      "id": "8880894de4fc1864c60ed6af",
+      "day": 17,
+      "word": "logistics",
+      "meaning": "물류, 실행 계획",
+      "sourceSheet": "Day 17",
+      "sourceRow": 7
+    },
+    {
+      "id": "e155c91a728e681ae46f1548",
+      "day": 17,
+      "word": "loading dock",
+      "meaning": "하역장",
+      "sourceSheet": "Day 17",
+      "sourceRow": 8
+    },
+    {
+      "id": "3e66b14291f9398cba8eb381",
+      "day": 17,
+      "word": "expatriate",
+      "meaning": "국적을 상실한 사람",
+      "sourceSheet": "Day 17",
+      "sourceRow": 9
+    },
+    {
+      "id": "e451edab8e13d787252d0a1b",
+      "day": 17,
+      "word": "alumni association",
+      "meaning": "동창회",
+      "sourceSheet": "Day 17",
+      "sourceRow": 10
+    },
+    {
+      "id": "3a2a3e1129ee00e69b6bec43",
+      "day": 17,
+      "word": "reciprocal",
+      "meaning": "상호의, 서로의",
+      "sourceSheet": "Day 17",
+      "sourceRow": 11
+    },
+    {
+      "id": "147ee8f75832b13c44ce57b4",
+      "day": 17,
+      "word": "decidedly",
+      "meaning": "확실히, 명백히; 단호히",
+      "sourceSheet": "Day 17",
+      "sourceRow": 12
+    },
+    {
+      "id": "1bd305c929ba350e05b4e433",
+      "day": 17,
+      "word": "surplus",
+      "meaning": "잉여, 흑자",
+      "sourceSheet": "Day 17",
+      "sourceRow": 13
+    },
+    {
+      "id": "db24c406ffe24a9f6d9df47b",
+      "day": 17,
+      "word": "expedite",
+      "meaning": "신속히 처리하다, 진척시키다",
+      "sourceSheet": "Day 17",
+      "sourceRow": 14
+    },
+    {
+      "id": "9fc073e6d2f98cd09b7d7aa0",
+      "day": 17,
+      "word": "embargo",
+      "meaning": "(특정 상품의) 무역 금지, 통상 금지",
+      "sourceSheet": "Day 17",
+      "sourceRow": 15
+    },
+    {
+      "id": "dd5c5362e52908c07c75195b",
+      "day": 17,
+      "word": "oversight",
+      "meaning": "부주의; 감독",
+      "sourceSheet": "Day 17",
+      "sourceRow": 16
+    },
+    {
+      "id": "67a7743cdaba48d6130508dc",
+      "day": 17,
+      "word": "heritage",
+      "meaning": "전통, 유산",
+      "sourceSheet": "Day 17",
+      "sourceRow": 17
+    },
+    {
+      "id": "4ef005be228b50bde03779e3",
+      "day": 17,
+      "word": "registered mail",
+      "meaning": "등기 우편",
+      "sourceSheet": "Day 17",
+      "sourceRow": 18
+    },
+    {
+      "id": "7788872de5b957dbd1706679",
+      "day": 17,
+      "word": "province",
+      "meaning": "지방",
+      "sourceSheet": "Day 17",
+      "sourceRow": 19
+    },
+    {
+      "id": "02b10f6203bd3d1c714ae288",
+      "day": 17,
+      "word": "consulate",
+      "meaning": "영사관",
+      "sourceSheet": "Day 17",
+      "sourceRow": 20
+    },
+    {
+      "id": "8b80671c25750aa3c2360f1e",
+      "day": 17,
+      "word": "import license",
+      "meaning": "수입 허가(서)",
+      "sourceSheet": "Day 17",
+      "sourceRow": 21
+    },
+    {
+      "id": "c5195390731f0df0f34d331c",
+      "day": 17,
+      "word": "openly",
+      "meaning": "터놓고, 솔직하게",
+      "sourceSheet": "Day 17",
+      "sourceRow": 22
+    },
+    {
+      "id": "f7f50a48c3c98ab7f5a7ca13",
+      "day": 17,
+      "word": "wheelbarrow",
+      "meaning": "손수레",
+      "sourceSheet": "Day 17",
+      "sourceRow": 23
+    },
+    {
+      "id": "19ff8761fa648ade541f90a8",
+      "day": 17,
+      "word": "handling",
+      "meaning": "처리; 조작",
+      "sourceSheet": "Day 17",
+      "sourceRow": 24
+    },
+    {
+      "id": "4401c6ea53ee02b36dab9e42",
+      "day": 17,
+      "word": "realtor",
+      "meaning": "부동산 중개업자",
+      "sourceSheet": "Day 17",
+      "sourceRow": 25
+    },
+    {
+      "id": "b9a088e7ca507e17940b755a",
+      "day": 17,
+      "word": "intended recipient",
+      "meaning": "해당 수취인",
+      "sourceSheet": "Day 17",
+      "sourceRow": 26
+    },
+    {
+      "id": "822fe3679c9dbb1c8a56442e",
+      "day": 17,
+      "word": "institution",
+      "meaning": "기관,(학교∙병원 등의) 시설",
+      "sourceSheet": "Day 17",
+      "sourceRow": 27
+    },
+    {
+      "id": "24626cb1dc15eb7572c6a321",
+      "day": 17,
+      "word": "classified",
+      "meaning": "기밀의",
+      "sourceSheet": "Day 17",
+      "sourceRow": 28
+    },
+    {
+      "id": "14804d5bd759ac9c34a3d8e4",
+      "day": 17,
+      "word": "inaugurate",
+      "meaning": "정식으로 ~을 개시하다",
+      "sourceSheet": "Day 17",
+      "sourceRow": 29
+    },
+    {
+      "id": "5dbcd1efbd0acbc0ae605735",
+      "day": 17,
+      "word": "janitor",
+      "meaning": "(건물) 관리인",
+      "sourceSheet": "Day 17",
+      "sourceRow": 30
+    },
+    {
+      "id": "d0e560ab404e938a4a9c8873",
+      "day": 17,
+      "word": "bilateral",
+      "meaning": "쌍방의",
+      "sourceSheet": "Day 17",
+      "sourceRow": 31
+    },
+    {
+      "id": "372c74ea8827080c2e9da355",
+      "day": 17,
+      "word": "diplomat",
+      "meaning": "외교관",
+      "sourceSheet": "Day 17",
+      "sourceRow": 32
+    },
+    {
+      "id": "1cf97a9b8e87e03170c01aeb",
+      "day": 17,
+      "word": "transportable",
+      "meaning": "수송 가능한, 운반 가능한",
+      "sourceSheet": "Day 17",
+      "sourceRow": 33
+    },
+    {
+      "id": "4bb24efc9641afc5ded1ca77",
+      "day": 18,
+      "word": "batch",
+      "meaning": "무리, 집단",
+      "sourceSheet": "Day 18",
+      "sourceRow": 2
+    },
+    {
+      "id": "82a208225582b3b2d6cfb16e",
+      "day": 18,
+      "word": "atrium",
+      "meaning": "중앙홀",
+      "sourceSheet": "Day 18",
+      "sourceRow": 3
+    },
+    {
+      "id": "0de3f80d7bf4a5322b756a29",
+      "day": 18,
+      "word": "garner",
+      "meaning": "얻다, 모으다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 4
+    },
+    {
+      "id": "fec2d88c48154b8ea97b815c",
+      "day": 18,
+      "word": "forfeit",
+      "meaning": "(벌로써 권리·재산 등을) 몰수당하다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 5
+    },
+    {
+      "id": "ba53214338b0867fafb77781",
+      "day": 18,
+      "word": "wait on",
+      "meaning": "시중을 들다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 6
+    },
+    {
+      "id": "7c83805b8676c466d0c552d3",
+      "day": 18,
+      "word": "batter",
+      "meaning": "반죽",
+      "sourceSheet": "Day 18",
+      "sourceRow": 7
+    },
+    {
+      "id": "78bbf3a032769280650b6161",
+      "day": 18,
+      "word": "themed",
+      "meaning": "특정한 테마의 분위기를 살린",
+      "sourceSheet": "Day 18",
+      "sourceRow": 8
+    },
+    {
+      "id": "ed990ff6103f3b53e64285ea",
+      "day": 18,
+      "word": "parlor",
+      "meaning": "가게",
+      "sourceSheet": "Day 18",
+      "sourceRow": 9
+    },
+    {
+      "id": "7193f3d6b01d359ee24c016f",
+      "day": 18,
+      "word": "grab a bite",
+      "meaning": "간단히 먹다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 10
+    },
+    {
+      "id": "e26e529880d757641933d064",
+      "day": 18,
+      "word": "gourmet",
+      "meaning": "미식가",
+      "sourceSheet": "Day 18",
+      "sourceRow": 11
+    },
+    {
+      "id": "53a25cb618677731c944aa19",
+      "day": 18,
+      "word": "shut down",
+      "meaning": "폐점하다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 12
+    },
+    {
+      "id": "3195f351e349f556a4244c01",
+      "day": 18,
+      "word": "garnish",
+      "meaning": "(음식을) 장식하다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 13
+    },
+    {
+      "id": "137e092672078e0bcf118791",
+      "day": 18,
+      "word": "palate",
+      "meaning": "미각",
+      "sourceSheet": "Day 18",
+      "sourceRow": 14
+    },
+    {
+      "id": "68fcc2399360dd943b48ac97",
+      "day": 18,
+      "word": "thriving",
+      "meaning": "번성하는, 잘 자라는",
+      "sourceSheet": "Day 18",
+      "sourceRow": 15
+    },
+    {
+      "id": "0f08c850624aaff73b87d3e2",
+      "day": 18,
+      "word": "cloakroom",
+      "meaning": "(식당·극장의) 휴대품 보관소",
+      "sourceSheet": "Day 18",
+      "sourceRow": 16
+    },
+    {
+      "id": "29dbd1d8a7e616143febee25",
+      "day": 18,
+      "word": "room attendant",
+      "meaning": "객실 청소부",
+      "sourceSheet": "Day 18",
+      "sourceRow": 17
+    },
+    {
+      "id": "10e7fe3e7f252cdbc4dd83ad",
+      "day": 18,
+      "word": "as a courtesy",
+      "meaning": "호의를 담아, 무료로",
+      "sourceSheet": "Day 18",
+      "sourceRow": 18
+    },
+    {
+      "id": "6a86969973d3d0b0d8e90279",
+      "day": 18,
+      "word": "sanitary",
+      "meaning": "위생의",
+      "sourceSheet": "Day 18",
+      "sourceRow": 19
+    },
+    {
+      "id": "739123b666a7b12efb25cc90",
+      "day": 18,
+      "word": "scoop",
+      "meaning": "퍼내다, 퍼올리다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 20
+    },
+    {
+      "id": "9801ea0bf4f6ea7400217305",
+      "day": 18,
+      "word": "assorted",
+      "meaning": "여러 가지 종류의, 다채로운",
+      "sourceSheet": "Day 18",
+      "sourceRow": 21
+    },
+    {
+      "id": "8664d294ab3775c32778c825",
+      "day": 18,
+      "word": "pick up the check",
+      "meaning": "돈을 내다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 22
+    },
+    {
+      "id": "f030b7e4e281b7d302cbdf1d",
+      "day": 18,
+      "word": "meal pass",
+      "meaning": "식권",
+      "sourceSheet": "Day 18",
+      "sourceRow": 23
+    },
+    {
+      "id": "23f532066ea3e43d73de2733",
+      "day": 18,
+      "word": "culinary",
+      "meaning": "요리의",
+      "sourceSheet": "Day 18",
+      "sourceRow": 24
+    },
+    {
+      "id": "2f6caccb363435739c40771e",
+      "day": 18,
+      "word": "indigenous",
+      "meaning": "지역 고유의, 토착의",
+      "sourceSheet": "Day 18",
+      "sourceRow": 25
+    },
+    {
+      "id": "6a42f3b5d1154428a12579ba",
+      "day": 18,
+      "word": "slurp",
+      "meaning": "소리 내어 마시다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 26
+    },
+    {
+      "id": "cbe370481704cef068c18bdc",
+      "day": 18,
+      "word": "concierge",
+      "meaning": "(호텔의) 안내인",
+      "sourceSheet": "Day 18",
+      "sourceRow": 27
+    },
+    {
+      "id": "cda9593e0f0c88ba636fcadb",
+      "day": 18,
+      "word": "sift",
+      "meaning": "체로 치다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 28
+    },
+    {
+      "id": "fd09da605e5804b35ee408d2",
+      "day": 18,
+      "word": "corridor",
+      "meaning": "복도",
+      "sourceSheet": "Day 18",
+      "sourceRow": 29
+    },
+    {
+      "id": "88e52c296fc825a7a5a8ffdd",
+      "day": 18,
+      "word": "double occupancy",
+      "meaning": "2인실 사용",
+      "sourceSheet": "Day 18",
+      "sourceRow": 30
+    },
+    {
+      "id": "e0976d689a45d2a7a8eee1c9",
+      "day": 18,
+      "word": "preheat",
+      "meaning": "(오븐을) 예열하다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 31
+    },
+    {
+      "id": "1859ed3e70cc3e7ef19b11ef",
+      "day": 18,
+      "word": "help oneself to the food",
+      "meaning": "자유로이 먹다, 가져다 먹다",
+      "sourceSheet": "Day 18",
+      "sourceRow": 32
+    },
+    {
+      "id": "07af07f5949406367c619595",
+      "day": 18,
+      "word": "decaffeinated",
+      "meaning": "카페인을 제거한",
+      "sourceSheet": "Day 18",
+      "sourceRow": 33
+    },
+    {
+      "id": "349b7b80691002472a10ac1b",
+      "day": 19,
+      "word": "terminology",
+      "meaning": "전문 용어",
+      "sourceSheet": "Day 19",
+      "sourceRow": 2
+    },
+    {
+      "id": "dfb6d4ab57edd700655b1b44",
+      "day": 19,
+      "word": "outsell",
+      "meaning": "~보다 많이 팔다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 3
+    },
+    {
+      "id": "00fc362898bae45e5576c90b",
+      "day": 19,
+      "word": "outpace",
+      "meaning": "앞지르다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 4
+    },
+    {
+      "id": "62f2f0f1eff10d3152c95f6f",
+      "day": 19,
+      "word": "distributor",
+      "meaning": "분배자; 판매자",
+      "sourceSheet": "Day 19",
+      "sourceRow": 5
+    },
+    {
+      "id": "01ca758ac443117d1620eb12",
+      "day": 19,
+      "word": "proportionate",
+      "meaning": "비례하는",
+      "sourceSheet": "Day 19",
+      "sourceRow": 6
+    },
+    {
+      "id": "b20ad0b74eb57154da6b325f",
+      "day": 19,
+      "word": "indicative",
+      "meaning": "나타내는, 암시하는",
+      "sourceSheet": "Day 19",
+      "sourceRow": 7
+    },
+    {
+      "id": "0616fd22bc9c34e5c0adaf98",
+      "day": 19,
+      "word": "literally",
+      "meaning": "문자 그대로; 실제로",
+      "sourceSheet": "Day 19",
+      "sourceRow": 8
+    },
+    {
+      "id": "73424c510585c102efbc3751",
+      "day": 19,
+      "word": "deviate",
+      "meaning": "빗나가다, 일탈하다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 9
+    },
+    {
+      "id": "50f2a151d15e0459729a505a",
+      "day": 19,
+      "word": "retrieve",
+      "meaning": "되찾다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 10
+    },
+    {
+      "id": "1ca79823ac903c2f0f5ff0ea",
+      "day": 19,
+      "word": "profit margin",
+      "meaning": "이윤 차액",
+      "sourceSheet": "Day 19",
+      "sourceRow": 11
+    },
+    {
+      "id": "fcac60e1b2ede16a7ce71a99",
+      "day": 19,
+      "word": "variably",
+      "meaning": "변하기 쉽게, 일정치 않게",
+      "sourceSheet": "Day 19",
+      "sourceRow": 12
+    },
+    {
+      "id": "919c4ac1fcb209f3dcdfc6bc",
+      "day": 19,
+      "word": "insolvent",
+      "meaning": "지불 불능의, 파산의",
+      "sourceSheet": "Day 19",
+      "sourceRow": 13
+    },
+    {
+      "id": "391db72a5e1aacddf5de0704",
+      "day": 19,
+      "word": "steeply",
+      "meaning": "가파르게",
+      "sourceSheet": "Day 19",
+      "sourceRow": 14
+    },
+    {
+      "id": "d342ed822e55a972f8070862",
+      "day": 19,
+      "word": "estimated",
+      "meaning": "견적의, 추측의",
+      "sourceSheet": "Day 19",
+      "sourceRow": 15
+    },
+    {
+      "id": "3bf02eb27985fdc7d655eb4c",
+      "day": 19,
+      "word": "financier",
+      "meaning": "재정가; 재무관",
+      "sourceSheet": "Day 19",
+      "sourceRow": 16
+    },
+    {
+      "id": "e7200c00624189872e9c537e",
+      "day": 19,
+      "word": "make forecast",
+      "meaning": "예측하다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 17
+    },
+    {
+      "id": "104359a9c4144ffb3eb5c70a",
+      "day": 19,
+      "word": "signify",
+      "meaning": "의미하다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 18
+    },
+    {
+      "id": "20018c013807f44ea9818f9a",
+      "day": 19,
+      "word": "even out",
+      "meaning": "~을 고르게 하다, 을 균등하게 나누다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 19
+    },
+    {
+      "id": "36603efb55eb1ebfda332977",
+      "day": 19,
+      "word": "swell",
+      "meaning": "부풀다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 20
+    },
+    {
+      "id": "5fa7d4ca31c5c9a2d15f6bf8",
+      "day": 19,
+      "word": "rewarding",
+      "meaning": "보답을 받는, 보상으로서의",
+      "sourceSheet": "Day 19",
+      "sourceRow": 21
+    },
+    {
+      "id": "1f3d76df3c6f87e9d5d89579",
+      "day": 19,
+      "word": "subside",
+      "meaning": "가라앉다, 진정되다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 22
+    },
+    {
+      "id": "052ff38befb367b06353d0c3",
+      "day": 19,
+      "word": "agile",
+      "meaning": "기민한",
+      "sourceSheet": "Day 19",
+      "sourceRow": 23
+    },
+    {
+      "id": "27c622e0749748f8a19616b1",
+      "day": 19,
+      "word": "minimally",
+      "meaning": "극히 작게, 최소한으로",
+      "sourceSheet": "Day 19",
+      "sourceRow": 24
+    },
+    {
+      "id": "7c7d853be6b9a8eab28e1310",
+      "day": 19,
+      "word": "immeasurably",
+      "meaning": "헤아릴 수 없을 정도로",
+      "sourceSheet": "Day 19",
+      "sourceRow": 25
+    },
+    {
+      "id": "e8d6bf1361351e725dbc5f22",
+      "day": 19,
+      "word": "vitally",
+      "meaning": "절대적으로, 중대하게",
+      "sourceSheet": "Day 19",
+      "sourceRow": 26
+    },
+    {
+      "id": "7b0518852bfc3f6eaf70b47a",
+      "day": 19,
+      "word": "infusion",
+      "meaning": "주입, 혼합",
+      "sourceSheet": "Day 19",
+      "sourceRow": 27
+    },
+    {
+      "id": "fbb97be77b71dbd266f675a8",
+      "day": 19,
+      "word": "gratified",
+      "meaning": "만족한, 기뻐하는",
+      "sourceSheet": "Day 19",
+      "sourceRow": 28
+    },
+    {
+      "id": "1f7eba348f31fc9176de3a22",
+      "day": 19,
+      "word": "uncover",
+      "meaning": "알아내다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 29
+    },
+    {
+      "id": "c1d60fe5815fb5b2d8eadc7c",
+      "day": 19,
+      "word": "offset",
+      "meaning": "상쇄하다, 벌충하다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 30
+    },
+    {
+      "id": "1fe75231d376f8ef77efa622",
+      "day": 19,
+      "word": "coil",
+      "meaning": "똘똘 감다",
+      "sourceSheet": "Day 19",
+      "sourceRow": 31
+    },
+    {
+      "id": "69ab282018cfa95484c33a1a",
+      "day": 19,
+      "word": "indicated",
+      "meaning": "계기에 표시된",
+      "sourceSheet": "Day 19",
+      "sourceRow": 32
+    },
+    {
+      "id": "b21b17b4ecc60cdbfa7b8dfd",
+      "day": 19,
+      "word": "hollow",
+      "meaning": "속이 빈, 오목한, 공허한",
+      "sourceSheet": "Day 19",
+      "sourceRow": 33
+    },
+    {
+      "id": "fe14010b4fe83303852f0467",
+      "day": 20,
+      "word": "ledger",
+      "meaning": "회계 장부",
+      "sourceSheet": "Day 20",
+      "sourceRow": 2
+    },
+    {
+      "id": "d5144216ba5261507a10caa1",
+      "day": 20,
+      "word": "adjournment",
+      "meaning": "연기, 휴회",
+      "sourceSheet": "Day 20",
+      "sourceRow": 3
+    },
+    {
+      "id": "c776ea5e0ba9d7402ef8ff98",
+      "day": 20,
+      "word": "cash reserves",
+      "meaning": "현금 보유고",
+      "sourceSheet": "Day 20",
+      "sourceRow": 4
+    },
+    {
+      "id": "162cc4ccca78f4023d3f9a2f",
+      "day": 20,
+      "word": "inconsistency",
+      "meaning": "불일치",
+      "sourceSheet": "Day 20",
+      "sourceRow": 5
+    },
+    {
+      "id": "ff9592d1c519e13e1a76a370",
+      "day": 20,
+      "word": "preclude",
+      "meaning": "막다",
+      "sourceSheet": "Day 20",
+      "sourceRow": 6
+    },
+    {
+      "id": "8641778cd0fc7b745f5fa103",
+      "day": 20,
+      "word": "pretax",
+      "meaning": "세금 공제 전의",
+      "sourceSheet": "Day 20",
+      "sourceRow": 7
+    },
+    {
+      "id": "444e41b49c9ac0a71117203f",
+      "day": 20,
+      "word": "plus tax",
+      "meaning": "세금 별도",
+      "sourceSheet": "Day 20",
+      "sourceRow": 8
+    },
+    {
+      "id": "d067915e3b850dc8662d57aa",
+      "day": 20,
+      "word": "in place",
+      "meaning": "제자리에",
+      "sourceSheet": "Day 20",
+      "sourceRow": 9
+    },
+    {
+      "id": "49d4843163a72a458423d1f1",
+      "day": 20,
+      "word": "statistics",
+      "meaning": "통계학",
+      "sourceSheet": "Day 20",
+      "sourceRow": 10
+    },
+    {
+      "id": "34f9ad060a8fbcae56c53e2e",
+      "day": 20,
+      "word": "back order",
+      "meaning": "이월 주문",
+      "sourceSheet": "Day 20",
+      "sourceRow": 11
+    },
+    {
+      "id": "d4a050ce28ed159905749a60",
+      "day": 20,
+      "word": "be in the red",
+      "meaning": "적자 상태에 있다",
+      "sourceSheet": "Day 20",
+      "sourceRow": 12
+    },
+    {
+      "id": "c5fd94b8c335618802e86694",
+      "day": 20,
+      "word": "liability",
+      "meaning": "책임",
+      "sourceSheet": "Day 20",
+      "sourceRow": 13
+    },
+    {
+      "id": "9f0c8aa526579f4dbde02f70",
+      "day": 20,
+      "word": "classification",
+      "meaning": "분류; 등급",
+      "sourceSheet": "Day 20",
+      "sourceRow": 14
+    },
+    {
+      "id": "b56117587ef8c1a2c4c02f31",
+      "day": 20,
+      "word": "pros and cons",
+      "meaning": "찬반양론; 이해득실",
+      "sourceSheet": "Day 20",
+      "sourceRow": 15
+    },
+    {
+      "id": "c5e43d9f729ebb4fac103a2b",
+      "day": 20,
+      "word": "implicate",
+      "meaning": "연루되었음을 시사하다",
+      "sourceSheet": "Day 20",
+      "sourceRow": 16
+    },
+    {
+      "id": "9213a9ada770f80750b2b1a0",
+      "day": 20,
+      "word": "incrementally",
+      "meaning": "증가하여",
+      "sourceSheet": "Day 20",
+      "sourceRow": 17
+    },
+    {
+      "id": "0fe339a835e5649d1c86cb4e",
+      "day": 20,
+      "word": "stringently",
+      "meaning": "엄격히, 엄중하게",
+      "sourceSheet": "Day 20",
+      "sourceRow": 18
+    },
+    {
+      "id": "ba652ecd379080a46d48902a",
+      "day": 20,
+      "word": "year-end",
+      "meaning": "연말의",
+      "sourceSheet": "Day 20",
+      "sourceRow": 19
+    },
+    {
+      "id": "25ff7fb1ae8174959b4771a2",
+      "day": 20,
+      "word": "substantively",
+      "meaning": "사실상, 실제로",
+      "sourceSheet": "Day 20",
+      "sourceRow": 20
+    },
+    {
+      "id": "8f364a4ee7ce9645ecf2fc8f",
+      "day": 20,
+      "word": "whereabout",
+      "meaning": "소재, 행방",
+      "sourceSheet": "Day 20",
+      "sourceRow": 21
+    },
+    {
+      "id": "10065436b4002dd4f056dbfd",
+      "day": 20,
+      "word": "discrepancy",
+      "meaning": "불일치, 차이",
+      "sourceSheet": "Day 20",
+      "sourceRow": 22
+    },
+    {
+      "id": "c9f195506c406ea7f4f2f1d6",
+      "day": 20,
+      "word": "reliably",
+      "meaning": "신뢰할 수 있게, 확실하게",
+      "sourceSheet": "Day 20",
+      "sourceRow": 23
+    },
+    {
+      "id": "6376448ef40f15b42db65ab5",
+      "day": 20,
+      "word": "amply",
+      "meaning": "풍부하게, 충분히",
+      "sourceSheet": "Day 20",
+      "sourceRow": 24
+    },
+    {
+      "id": "aac6f77508eb3000f7cf83cc",
+      "day": 20,
+      "word": "precedent",
+      "meaning": "전례",
+      "sourceSheet": "Day 20",
+      "sourceRow": 25
+    },
+    {
+      "id": "5a57852cd51150ade1168d5f",
+      "day": 20,
+      "word": "be in the black",
+      "meaning": "흑자 상태에 있다",
+      "sourceSheet": "Day 20",
+      "sourceRow": 26
+    },
+    {
+      "id": "26033961301043746280d9cb",
+      "day": 20,
+      "word": "operation budget",
+      "meaning": "운영 예산",
+      "sourceSheet": "Day 20",
+      "sourceRow": 27
+    },
+    {
+      "id": "5a1a84de8c2ec09ba6b54a4c",
+      "day": 20,
+      "word": "levy",
+      "meaning": "부과금",
+      "sourceSheet": "Day 20",
+      "sourceRow": 28
+    },
+    {
+      "id": "99045570dfa5b0e08dc3d541",
+      "day": 20,
+      "word": "relevance",
+      "meaning": "적절, 타당성; 관련성",
+      "sourceSheet": "Day 20",
+      "sourceRow": 29
+    },
+    {
+      "id": "0e785a749b8a9061327603b7",
+      "day": 20,
+      "word": "vary from A to B",
+      "meaning": "상황에 따라 다르다",
+      "sourceSheet": "Day 20",
+      "sourceRow": 30
+    },
+    {
+      "id": "58d400e15c61f91158af3d5c",
+      "day": 20,
+      "word": "by a considerable margin",
+      "meaning": "큰 차이로",
+      "sourceSheet": "Day 20",
+      "sourceRow": 31
+    },
+    {
+      "id": "10378c1c0c8e2806bbd7d266",
+      "day": 20,
+      "word": "break-even point",
+      "meaning": "손익 분기점",
+      "sourceSheet": "Day 20",
+      "sourceRow": 32
+    },
+    {
+      "id": "90221e9a0f042282ead93d7b",
+      "day": 21,
+      "word": "established",
+      "meaning": "확고한, 정평이 있는",
+      "sourceSheet": "Day 21",
+      "sourceRow": 2
+    },
+    {
+      "id": "66b490dd60054469bdfe5352",
+      "day": 21,
+      "word": "shrink",
+      "meaning": "줄어들다, 오그라들다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 3
+    },
+    {
+      "id": "7e2372f4115c43bac7248772",
+      "day": 21,
+      "word": "neutral",
+      "meaning": "중립적인",
+      "sourceSheet": "Day 21",
+      "sourceRow": 4
+    },
+    {
+      "id": "1fbfe224b5b0e21846d88afe",
+      "day": 21,
+      "word": "front-runner",
+      "meaning": "가장 유력한 우승 후보",
+      "sourceSheet": "Day 21",
+      "sourceRow": 5
+    },
+    {
+      "id": "416efcae23c2e36f24751148",
+      "day": 21,
+      "word": "exemplify",
+      "meaning": "예증하다, ~의 좋은 예가 되다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 6
+    },
+    {
+      "id": "7d523d33a0f9a3cc88cde97d",
+      "day": 21,
+      "word": "squeaky",
+      "meaning": "삐걱대는",
+      "sourceSheet": "Day 21",
+      "sourceRow": 7
+    },
+    {
+      "id": "97b6e21a8291dc372fde4eca",
+      "day": 21,
+      "word": "be oriented to",
+      "meaning": "~에 중점을 두다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 8
+    },
+    {
+      "id": "85731eb570113e16bb3c6f61",
+      "day": 21,
+      "word": "take a turn for the better",
+      "meaning": "호전되다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 9
+    },
+    {
+      "id": "948278737ada1997420a2cba",
+      "day": 21,
+      "word": "lucid",
+      "meaning": "명쾌한",
+      "sourceSheet": "Day 21",
+      "sourceRow": 10
+    },
+    {
+      "id": "5bbcd79620297d1a46810a54",
+      "day": 21,
+      "word": "beware",
+      "meaning": "조심하다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 11
+    },
+    {
+      "id": "d651dabf895bfd67ce300790",
+      "day": 21,
+      "word": "stance",
+      "meaning": "태도, 입장",
+      "sourceSheet": "Day 21",
+      "sourceRow": 12
+    },
+    {
+      "id": "2dc300595fc2959471265dac",
+      "day": 21,
+      "word": "clout",
+      "meaning": "영향력",
+      "sourceSheet": "Day 21",
+      "sourceRow": 13
+    },
+    {
+      "id": "806094b73567c8d58a53f094",
+      "day": 21,
+      "word": "momentarily",
+      "meaning": "잠깐",
+      "sourceSheet": "Day 21",
+      "sourceRow": 14
+    },
+    {
+      "id": "5cfd1944ab0a5690ab0c35b7",
+      "day": 21,
+      "word": "make the first move",
+      "meaning": "개시하다, 발단을 만들다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 15
+    },
+    {
+      "id": "d0346e497a83ea8961a469a1",
+      "day": 21,
+      "word": "latent",
+      "meaning": "잠재된; 잠복성의",
+      "sourceSheet": "Day 21",
+      "sourceRow": 16
+    },
+    {
+      "id": "1a076332aa18967d77850bcf",
+      "day": 21,
+      "word": "retreat",
+      "meaning": "후퇴하다, 물러가다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 17
+    },
+    {
+      "id": "b64f459893b6709b0efefe5a",
+      "day": 21,
+      "word": "warm-up",
+      "meaning": "준비 운동; 예행연습",
+      "sourceSheet": "Day 21",
+      "sourceRow": 18
+    },
+    {
+      "id": "0073ee07080718db8e53ee6d",
+      "day": 21,
+      "word": "roll out",
+      "meaning": "(신상품을) 출시하다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 19
+    },
+    {
+      "id": "960bae88494e31a2a0eb5fa3",
+      "day": 21,
+      "word": "interfere with",
+      "meaning": "~을 방해하다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 20
+    },
+    {
+      "id": "5b1255c51abeb1c913e8f19a",
+      "day": 21,
+      "word": "be contingent upon",
+      "meaning": "~에 따라 결정되다, ~에 달려 있다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 21
+    },
+    {
+      "id": "1755e06e588fc3edd6aa6297",
+      "day": 21,
+      "word": "keep on top of",
+      "meaning": "~의 선두를 유지하다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 22
+    },
+    {
+      "id": "b3c903c9c4a4065db673be60",
+      "day": 21,
+      "word": "narrative",
+      "meaning": "(소설 속 사건들에 대한) 기술, 묘사",
+      "sourceSheet": "Day 21",
+      "sourceRow": 23
+    },
+    {
+      "id": "3576f2205122c75877cc1bb8",
+      "day": 21,
+      "word": "favorable",
+      "meaning": "호의적인",
+      "sourceSheet": "Day 21",
+      "sourceRow": 24
+    },
+    {
+      "id": "70b187f682fb59025286f000",
+      "day": 21,
+      "word": "subsidize",
+      "meaning": "~에 보조금을 지급하다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 25
+    },
+    {
+      "id": "66040808bde7c2077e69fc70",
+      "day": 21,
+      "word": "succumb to",
+      "meaning": "~에 굴복하다, ~에 지다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 26
+    },
+    {
+      "id": "2870b3fdf334cb64e05e6548",
+      "day": 21,
+      "word": "makeshift",
+      "meaning": "임시방편의",
+      "sourceSheet": "Day 21",
+      "sourceRow": 27
+    },
+    {
+      "id": "bcd6cc745b8eb6838686af22",
+      "day": 21,
+      "word": "liquidate",
+      "meaning": "(회사를) 정리하다, 해산하다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 28
+    },
+    {
+      "id": "e828475612652415ff3c0c3d",
+      "day": 21,
+      "word": "allegedly",
+      "meaning": "주장하는 바에 따르면",
+      "sourceSheet": "Day 21",
+      "sourceRow": 29
+    },
+    {
+      "id": "0066355f93f3101f6f0b0366",
+      "day": 21,
+      "word": "craftsmanship",
+      "meaning": "솜씨",
+      "sourceSheet": "Day 21",
+      "sourceRow": 30
+    },
+    {
+      "id": "c3da743fb93004f891e08354",
+      "day": 21,
+      "word": "exert pressure on",
+      "meaning": "~에 압력을 행사하다",
+      "sourceSheet": "Day 21",
+      "sourceRow": 31
+    },
+    {
+      "id": "f2b3cbe41413047352141e5b",
+      "day": 21,
+      "word": "detector",
+      "meaning": "탐지기; 측정기",
+      "sourceSheet": "Day 21",
+      "sourceRow": 32
+    },
+    {
+      "id": "736fb7493a65244821a90fa4",
+      "day": 21,
+      "word": "intermittently",
+      "meaning": "간헐적으로",
+      "sourceSheet": "Day 21",
+      "sourceRow": 33
+    },
+    {
+      "id": "1f885ad4a6de76e3ac0ba4a0",
+      "day": 22,
+      "word": "conflict of interest",
+      "meaning": "이해관계의 충돌",
+      "sourceSheet": "Day 22",
+      "sourceRow": 2
+    },
+    {
+      "id": "ff926d04864c233ef09c586e",
+      "day": 22,
+      "word": "faction",
+      "meaning": "파벌, 당파",
+      "sourceSheet": "Day 22",
+      "sourceRow": 3
+    },
+    {
+      "id": "c77028ba87d82ca40102d98d",
+      "day": 22,
+      "word": "stand on",
+      "meaning": "~에 기초하다, ~에 의거하다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 4
+    },
+    {
+      "id": "28752d4e70fe90de3dfcf3ea",
+      "day": 22,
+      "word": "succinct",
+      "meaning": "간결한",
+      "sourceSheet": "Day 22",
+      "sourceRow": 5
+    },
+    {
+      "id": "111f0dc4048ea2242dce26dd",
+      "day": 22,
+      "word": "run late",
+      "meaning": "늦게 하다; 늦게 도착하다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 6
+    },
+    {
+      "id": "cd184b57c00048fcc00fd1e1",
+      "day": 22,
+      "word": "enthuse",
+      "meaning": "열변을 토하다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 7
+    },
+    {
+      "id": "99f30f876f9d7c9e8d9774f1",
+      "day": 22,
+      "word": "stand up for",
+      "meaning": "~을 옹호하다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 8
+    },
+    {
+      "id": "3aacd10c6e949520f7415d1f",
+      "day": 22,
+      "word": "presumably",
+      "meaning": "아마, 생각건대",
+      "sourceSheet": "Day 22",
+      "sourceRow": 9
+    },
+    {
+      "id": "649bfeb02a0658ee3391af13",
+      "day": 22,
+      "word": "abridgment",
+      "meaning": "요약본, 요약",
+      "sourceSheet": "Day 22",
+      "sourceRow": 10
+    },
+    {
+      "id": "a2ab02e5f64ea2a7dc5f06fd",
+      "day": 22,
+      "word": "counteroffer",
+      "meaning": "수정 제안, 대안",
+      "sourceSheet": "Day 22",
+      "sourceRow": 11
+    },
+    {
+      "id": "77afd8a1e80f3a54cfcda23a",
+      "day": 22,
+      "word": "moderate a meeting",
+      "meaning": "회의의 사회를 보다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 12
+    },
+    {
+      "id": "1e7b4c32957a4b677a8ce010",
+      "day": 22,
+      "word": "sit through",
+      "meaning": "끝까지 자리를 지키다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 13
+    },
+    {
+      "id": "7b7bd48c8193e49c080c3e1f",
+      "day": 22,
+      "word": "off chance",
+      "meaning": "요행, 희박한 가능성",
+      "sourceSheet": "Day 22",
+      "sourceRow": 14
+    },
+    {
+      "id": "c5bee07f3dbde08894d3fac9",
+      "day": 22,
+      "word": "illegible",
+      "meaning": "읽기 어려운",
+      "sourceSheet": "Day 22",
+      "sourceRow": 15
+    },
+    {
+      "id": "45607250f105c9be904f86e8",
+      "day": 22,
+      "word": "conversationally",
+      "meaning": "담화로, 회화체로",
+      "sourceSheet": "Day 22",
+      "sourceRow": 16
+    },
+    {
+      "id": "64209f1befe6fc22efc43103",
+      "day": 22,
+      "word": "presiding",
+      "meaning": "(회의를) 주재하는",
+      "sourceSheet": "Day 22",
+      "sourceRow": 17
+    },
+    {
+      "id": "df50f680326679347d5591b1",
+      "day": 22,
+      "word": "excerpt",
+      "meaning": "발췌, 인용구",
+      "sourceSheet": "Day 22",
+      "sourceRow": 18
+    },
+    {
+      "id": "a9368b0df8f45be693389aa2",
+      "day": 22,
+      "word": "uphold",
+      "meaning": "지지하다, 떠받들다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 19
+    },
+    {
+      "id": "599e0a767241a27ed43a58bf",
+      "day": 22,
+      "word": "consenting",
+      "meaning": "동의하는, 승낙하는",
+      "sourceSheet": "Day 22",
+      "sourceRow": 20
+    },
+    {
+      "id": "2815cb02b95b6d15383bf551",
+      "day": 22,
+      "word": "summon",
+      "meaning": "소환하다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 21
+    },
+    {
+      "id": "c64bc36dfe56ce798e5fc7d2",
+      "day": 22,
+      "word": "confine",
+      "meaning": "제한하다, ~에 한정시키다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 22
+    },
+    {
+      "id": "cbb34631a800be10e5c52b3b",
+      "day": 22,
+      "word": "summit meeting",
+      "meaning": "정상회담",
+      "sourceSheet": "Day 22",
+      "sourceRow": 23
+    },
+    {
+      "id": "3d7eb3d3dab17ee509a6911e",
+      "day": 22,
+      "word": "chair",
+      "meaning": "의장을 맡다, 사회를 맡다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 24
+    },
+    {
+      "id": "b89f45bfe540e1a97fc73314",
+      "day": 22,
+      "word": "eloquent",
+      "meaning": "웅변을 잘 하는,(연설 등이) 감명을 주는",
+      "sourceSheet": "Day 22",
+      "sourceRow": 25
+    },
+    {
+      "id": "23b3884eafad6033ca884b29",
+      "day": 22,
+      "word": "put off",
+      "meaning": "연기하다, 미루다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 26
+    },
+    {
+      "id": "e972546000b214f35e6aa710",
+      "day": 22,
+      "word": "coherent",
+      "meaning": "(이야기가) 조리 있는, 일관성 있는",
+      "sourceSheet": "Day 22",
+      "sourceRow": 27
+    },
+    {
+      "id": "70dfdba36b74118115990a4d",
+      "day": 22,
+      "word": "symposium",
+      "meaning": "토론회, 심포지엄",
+      "sourceSheet": "Day 22",
+      "sourceRow": 28
+    },
+    {
+      "id": "f71c113b389fd3ddf97717fc",
+      "day": 22,
+      "word": "distinguished",
+      "meaning": "뛰어난, 저명한",
+      "sourceSheet": "Day 22",
+      "sourceRow": 29
+    },
+    {
+      "id": "4a9b5995cc8158c603b23aff",
+      "day": 22,
+      "word": "abbreviate",
+      "meaning": "요약하다, 단축하다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 30
+    },
+    {
+      "id": "730375e4de9f5e78524fa66d",
+      "day": 22,
+      "word": "elaborate",
+      "meaning": "상세하게 설명하다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 31
+    },
+    {
+      "id": "f0774ab01f816a368397434f",
+      "day": 22,
+      "word": "disperse",
+      "meaning": "(군중 등이) 흩어지다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 32
+    },
+    {
+      "id": "d14859c3c12bba7709411ec2",
+      "day": 22,
+      "word": "prop against",
+      "meaning": "~에 받쳐 놓다",
+      "sourceSheet": "Day 22",
+      "sourceRow": 33
+    },
+    {
+      "id": "3d8e1cf7b793ac5903905d05",
+      "day": 23,
+      "word": "distort",
+      "meaning": "왜곡하다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 2
+    },
+    {
+      "id": "75328d58a188c787f2223585",
+      "day": 23,
+      "word": "fringe benefits",
+      "meaning": "부가 급부",
+      "sourceSheet": "Day 23",
+      "sourceRow": 3
+    },
+    {
+      "id": "24b01d9da61acf5d572f61fd",
+      "day": 23,
+      "word": "give in",
+      "meaning": "굴복하다, 양보하다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 4
+    },
+    {
+      "id": "50f5f1b46dea63cc05061aef",
+      "day": 23,
+      "word": "straightforward",
+      "meaning": "정직한; 간단한",
+      "sourceSheet": "Day 23",
+      "sourceRow": 5
+    },
+    {
+      "id": "0729b81afda020e9ee173c3e",
+      "day": 23,
+      "word": "nursing",
+      "meaning": "간호, 간호학",
+      "sourceSheet": "Day 23",
+      "sourceRow": 6
+    },
+    {
+      "id": "b276bb62b3f0f90ebeb9407d",
+      "day": 23,
+      "word": "cut benefits",
+      "meaning": "복리후생을 줄이다, 수당을 줄이다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 7
+    },
+    {
+      "id": "d92d2c2d4bb1810fda3325fd",
+      "day": 23,
+      "word": "flatter",
+      "meaning": "아첨하다, 듣기 좋은 칭찬을 하다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 8
+    },
+    {
+      "id": "cb22a511680c23b656ed331e",
+      "day": 23,
+      "word": "sabotage",
+      "meaning": "(고의적인) 방해 행위",
+      "sourceSheet": "Day 23",
+      "sourceRow": 9
+    },
+    {
+      "id": "ac5f83a355e1274fb64a794f",
+      "day": 23,
+      "word": "hearty",
+      "meaning": "마음에서 우러난; (음식의 양이) 풍부한",
+      "sourceSheet": "Day 23",
+      "sourceRow": 10
+    },
+    {
+      "id": "4cac393fc5a89e710a59f77d",
+      "day": 23,
+      "word": "spry",
+      "meaning": "기운찬, 활발한",
+      "sourceSheet": "Day 23",
+      "sourceRow": 11
+    },
+    {
+      "id": "fd6e4d271ad7e5982f457371",
+      "day": 23,
+      "word": "flextime",
+      "meaning": "자율 근무 시간제",
+      "sourceSheet": "Day 23",
+      "sourceRow": 12
+    },
+    {
+      "id": "56306cdfba0896f4c219edf3",
+      "day": 23,
+      "word": "yearn",
+      "meaning": "열망하다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 13
+    },
+    {
+      "id": "f23cff76ffe1754dd3749c97",
+      "day": 23,
+      "word": "chronological",
+      "meaning": "시간 순의, 연대 순의",
+      "sourceSheet": "Day 23",
+      "sourceRow": 14
+    },
+    {
+      "id": "e13d478d9bbbdce81b14edc8",
+      "day": 23,
+      "word": "severance pay",
+      "meaning": "퇴직금",
+      "sourceSheet": "Day 23",
+      "sourceRow": 15
+    },
+    {
+      "id": "7b5dc435d187fe90f895706d",
+      "day": 23,
+      "word": "commemorate",
+      "meaning": "기념하다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 16
+    },
+    {
+      "id": "d8883df81672fd3cbad3acbf",
+      "day": 23,
+      "word": "maternity leave",
+      "meaning": "출산 휴가",
+      "sourceSheet": "Day 23",
+      "sourceRow": 17
+    },
+    {
+      "id": "a22f4d79b88c12cc874b30f8",
+      "day": 23,
+      "word": "nursery",
+      "meaning": "유아원, 놀이방; 보육",
+      "sourceSheet": "Day 23",
+      "sourceRow": 18
+    },
+    {
+      "id": "ce39f8b71740347069456319",
+      "day": 23,
+      "word": "pique",
+      "meaning": "화, 불쾌",
+      "sourceSheet": "Day 23",
+      "sourceRow": 19
+    },
+    {
+      "id": "a7ec490d289fcec88f639d12",
+      "day": 23,
+      "word": "get reimbursed for",
+      "meaning": "~을 환급 받다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 20
+    },
+    {
+      "id": "12abd6fbac0f2f0e8c38959e",
+      "day": 23,
+      "word": "conjunction",
+      "meaning": "연합, 공동",
+      "sourceSheet": "Day 23",
+      "sourceRow": 21
+    },
+    {
+      "id": "c4b772614c7c322158394b25",
+      "day": 23,
+      "word": "misuse",
+      "meaning": "오용, 악용",
+      "sourceSheet": "Day 23",
+      "sourceRow": 22
+    },
+    {
+      "id": "dbd09ea2c670f96b42139218",
+      "day": 23,
+      "word": "knock off",
+      "meaning": "업무를 마치다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 23
+    },
+    {
+      "id": "5c364aefe1ecce3b030c14f3",
+      "day": 23,
+      "word": "exhibitor",
+      "meaning": "(전시회의) 출품자",
+      "sourceSheet": "Day 23",
+      "sourceRow": 24
+    },
+    {
+      "id": "e3f0d25bc63e89d1b4d742aa",
+      "day": 23,
+      "word": "labor costs",
+      "meaning": "인건비",
+      "sourceSheet": "Day 23",
+      "sourceRow": 25
+    },
+    {
+      "id": "b7b95f5ead27a68051f51803",
+      "day": 23,
+      "word": "off-peak",
+      "meaning": "한산할 때의, 비수기의",
+      "sourceSheet": "Day 23",
+      "sourceRow": 26
+    },
+    {
+      "id": "988c29be3757f1931211cbd1",
+      "day": 23,
+      "word": "discriminate",
+      "meaning": "차별하다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 27
+    },
+    {
+      "id": "46cf1369d6fffaa61ff1e547",
+      "day": 23,
+      "word": "kindhearted",
+      "meaning": "친절한",
+      "sourceSheet": "Day 23",
+      "sourceRow": 28
+    },
+    {
+      "id": "73c4064ae40938ad764fba28",
+      "day": 23,
+      "word": "salary review",
+      "meaning": "연봉 심사",
+      "sourceSheet": "Day 23",
+      "sourceRow": 29
+    },
+    {
+      "id": "16367aacb67a4a017c8da8ab",
+      "day": 23,
+      "word": "second",
+      "meaning": "찬성하다, 지지하다",
+      "sourceSheet": "Day 23",
+      "sourceRow": 30
+    },
+    {
+      "id": "a7cd62b5948d9355c4d2c792",
+      "day": 23,
+      "word": "citation",
+      "meaning": "인용구, 인용, 표창장",
+      "sourceSheet": "Day 23",
+      "sourceRow": 31
+    },
+    {
+      "id": "c218079423a65544d0f637ff",
+      "day": 23,
+      "word": "labor dispute",
+      "meaning": "노동 쟁의, 노사 분규",
+      "sourceSheet": "Day 23",
+      "sourceRow": 32
+    },
+    {
+      "id": "47b2d9943b23501cbe742206",
+      "day": 23,
+      "word": "goodwill",
+      "meaning": "호의",
+      "sourceSheet": "Day 23",
+      "sourceRow": 33
+    },
+    {
+      "id": "60b4a9691efda59e87a5ff38",
+      "day": 24,
+      "word": "in one’s grasp",
+      "meaning": "~의 수중에",
+      "sourceSheet": "Day 24",
+      "sourceRow": 2
+    },
+    {
+      "id": "504e11e5c35ec3182b2ab7c7",
+      "day": 24,
+      "word": "gratis",
+      "meaning": "무료로",
+      "sourceSheet": "Day 24",
+      "sourceRow": 3
+    },
+    {
+      "id": "282bcbc3f0a34a8a4ac6f00c",
+      "day": 24,
+      "word": "intent",
+      "meaning": "의지, 목적",
+      "sourceSheet": "Day 24",
+      "sourceRow": 4
+    },
+    {
+      "id": "e2c8223fe0f7be43d4ef478d",
+      "day": 24,
+      "word": "shred",
+      "meaning": "갈기갈기 찢다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 5
+    },
+    {
+      "id": "447f7f5c325ea17e635bef91",
+      "day": 24,
+      "word": "delicate",
+      "meaning": "민감한, 세심한 주의가 필요한",
+      "sourceSheet": "Day 24",
+      "sourceRow": 6
+    },
+    {
+      "id": "cd892494455f6fa019e5b1e0",
+      "day": 24,
+      "word": "scheme",
+      "meaning": "계획",
+      "sourceSheet": "Day 24",
+      "sourceRow": 7
+    },
+    {
+      "id": "748ab32886279ce6a37e8a27",
+      "day": 24,
+      "word": "scuff",
+      "meaning": "마모시키다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 8
+    },
+    {
+      "id": "ac21f665cc158b577f51445d",
+      "day": 24,
+      "word": "immensity",
+      "meaning": "광대함, 엄청난 크기",
+      "sourceSheet": "Day 24",
+      "sourceRow": 9
+    },
+    {
+      "id": "4584d4a67e5cba58145dc30a",
+      "day": 24,
+      "word": "underpass",
+      "meaning": "지하도",
+      "sourceSheet": "Day 24",
+      "sourceRow": 10
+    },
+    {
+      "id": "bd21059c22fa488ea4799884",
+      "day": 24,
+      "word": "miscellaneous",
+      "meaning": "다양한",
+      "sourceSheet": "Day 24",
+      "sourceRow": 11
+    },
+    {
+      "id": "c89f3623c7a2359a643c985b",
+      "day": 24,
+      "word": "perpetual",
+      "meaning": "끊임없이 계속되는",
+      "sourceSheet": "Day 24",
+      "sourceRow": 12
+    },
+    {
+      "id": "bd071899591c00d2276d2254",
+      "day": 24,
+      "word": "lingering",
+      "meaning": "오래 끄는, 오래 가는",
+      "sourceSheet": "Day 24",
+      "sourceRow": 13
+    },
+    {
+      "id": "ed80ec951eb5c9e17ad9204d",
+      "day": 24,
+      "word": "tolerant",
+      "meaning": "관대한, 아량 있는",
+      "sourceSheet": "Day 24",
+      "sourceRow": 14
+    },
+    {
+      "id": "2605eae2aa949276f4cdb9bb",
+      "day": 24,
+      "word": "demote",
+      "meaning": "강등 시키다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 15
+    },
+    {
+      "id": "81dab76012c8817cb4a0fa66",
+      "day": 24,
+      "word": "plunge",
+      "meaning": "떨어지다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 16
+    },
+    {
+      "id": "892006606f2a278d57e718a2",
+      "day": 24,
+      "word": "disorient",
+      "meaning": "혼란스럽게 하다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 17
+    },
+    {
+      "id": "a230cd97c4d552f51023b23b",
+      "day": 24,
+      "word": "reinstate",
+      "meaning": "복직시키다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 18
+    },
+    {
+      "id": "e036eb64fdb9067ea86d4ca9",
+      "day": 24,
+      "word": "degrade",
+      "meaning": "(품위·지위 등을) 떨어 뜨리다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 19
+    },
+    {
+      "id": "7784f8f7f4d53ff99b39f5f2",
+      "day": 24,
+      "word": "cordially",
+      "meaning": "진심으로, 성심성의껏",
+      "sourceSheet": "Day 24",
+      "sourceRow": 20
+    },
+    {
+      "id": "dfd1e5897ef6ffb1ffd9604d",
+      "day": 24,
+      "word": "lose oneself in",
+      "meaning": "~에 몰두하다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 21
+    },
+    {
+      "id": "94497f93095295ba7d21091a",
+      "day": 24,
+      "word": "salute",
+      "meaning": "경례하다, 인사하다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 22
+    },
+    {
+      "id": "bfab619046f4da4a471445d6",
+      "day": 24,
+      "word": "upbeat",
+      "meaning": "낙관적인",
+      "sourceSheet": "Day 24",
+      "sourceRow": 23
+    },
+    {
+      "id": "b65b4cad229d11b3156a2e4a",
+      "day": 24,
+      "word": "in defiance of",
+      "meaning": "~에 반항하여",
+      "sourceSheet": "Day 24",
+      "sourceRow": 24
+    },
+    {
+      "id": "c39e5817b2f3b38075929fa1",
+      "day": 24,
+      "word": "forage",
+      "meaning": "찾아다니다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 25
+    },
+    {
+      "id": "b7bd55c11b781b0ccc43aa6e",
+      "day": 24,
+      "word": "deploy",
+      "meaning": "배치하다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 26
+    },
+    {
+      "id": "b441e730bdaeeafb4f0657fa",
+      "day": 24,
+      "word": "hurdle",
+      "meaning": "곤란한 문제, 장애",
+      "sourceSheet": "Day 24",
+      "sourceRow": 27
+    },
+    {
+      "id": "45f0b213a0420c8f9a7987f7",
+      "day": 24,
+      "word": "dignitary",
+      "meaning": "고위 인사",
+      "sourceSheet": "Day 24",
+      "sourceRow": 28
+    },
+    {
+      "id": "c11936133f37c16fadab612e",
+      "day": 24,
+      "word": "designation",
+      "meaning": "지정, 지명",
+      "sourceSheet": "Day 24",
+      "sourceRow": 29
+    },
+    {
+      "id": "ffebcf6134797c0613ab1ef1",
+      "day": 24,
+      "word": "incumbent",
+      "meaning": "현직의",
+      "sourceSheet": "Day 24",
+      "sourceRow": 30
+    },
+    {
+      "id": "91dc4c5933f3a7ddc0cb8951",
+      "day": 24,
+      "word": "extraordinary feat",
+      "meaning": "놀랄만한 업적",
+      "sourceSheet": "Day 24",
+      "sourceRow": 31
+    },
+    {
+      "id": "e49890d0ac9ecf633da538f3",
+      "day": 24,
+      "word": "irreversible",
+      "meaning": "되돌릴 수 없는",
+      "sourceSheet": "Day 24",
+      "sourceRow": 32
+    },
+    {
+      "id": "f0470d5fda2d720c5a5dcef8",
+      "day": 24,
+      "word": "unwind",
+      "meaning": "(감긴 것을) 풀다; (긴장을) 풀다",
+      "sourceSheet": "Day 24",
+      "sourceRow": 33
+    },
+    {
+      "id": "06bd5b3971a7e75f2083bf86",
+      "day": 25,
+      "word": "compact car",
+      "meaning": "소형차",
+      "sourceSheet": "Day 25",
+      "sourceRow": 2
+    },
+    {
+      "id": "0f8a5aeba96363c6a7ea0805",
+      "day": 25,
+      "word": "towing service",
+      "meaning": "견인 서비스",
+      "sourceSheet": "Day 25",
+      "sourceRow": 3
+    },
+    {
+      "id": "3f1335e4beb0f1d9d1d89abf",
+      "day": 25,
+      "word": "pass by",
+      "meaning": "지나가다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 4
+    },
+    {
+      "id": "44e7d4d9cee9156a9f637e28",
+      "day": 25,
+      "word": "pave",
+      "meaning": "(도로를) 포장하다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 5
+    },
+    {
+      "id": "c00b9b2b58be569515fb7a39",
+      "day": 25,
+      "word": "necessitate",
+      "meaning": "~을 필요하게 만들다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 6
+    },
+    {
+      "id": "7693628103f401d6b976f77e",
+      "day": 25,
+      "word": "conform",
+      "meaning": "(규칙 등에) 부합하다, 따르다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 7
+    },
+    {
+      "id": "7ff29c6bd7d17c30ea54ef28",
+      "day": 25,
+      "word": "fuel-efficient",
+      "meaning": "연료 효율이 높은",
+      "sourceSheet": "Day 25",
+      "sourceRow": 8
+    },
+    {
+      "id": "baf6a0b70ab07cf16c76a183",
+      "day": 25,
+      "word": "wagon",
+      "meaning": "화물 기차",
+      "sourceSheet": "Day 25",
+      "sourceRow": 9
+    },
+    {
+      "id": "317a52834db9438c3ff97b28",
+      "day": 25,
+      "word": "ridership",
+      "meaning": "(공공 교통 기관의) 이용자 수, 승객 수",
+      "sourceSheet": "Day 25",
+      "sourceRow": 10
+    },
+    {
+      "id": "75aa425c76cbed995fa46203",
+      "day": 25,
+      "word": "pull into",
+      "meaning": "(배가 항구에) 서다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 11
+    },
+    {
+      "id": "ace72b3572c18de8b3760220",
+      "day": 25,
+      "word": "specialist",
+      "meaning": "전문가, 전공자",
+      "sourceSheet": "Day 25",
+      "sourceRow": 12
+    },
+    {
+      "id": "d0cda6559bb347db706f6fa9",
+      "day": 25,
+      "word": "navigate",
+      "meaning": "길을 찾다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 13
+    },
+    {
+      "id": "9f17469d178f0487a711f938",
+      "day": 25,
+      "word": "opposition",
+      "meaning": "반대, 대항",
+      "sourceSheet": "Day 25",
+      "sourceRow": 14
+    },
+    {
+      "id": "d292abf5291ac251f6555c48",
+      "day": 25,
+      "word": "streetcar",
+      "meaning": "전차",
+      "sourceSheet": "Day 25",
+      "sourceRow": 15
+    },
+    {
+      "id": "750cfe5c94c6b2f63d3b293b",
+      "day": 25,
+      "word": "pedestrian",
+      "meaning": "보행자",
+      "sourceSheet": "Day 25",
+      "sourceRow": 16
+    },
+    {
+      "id": "bc98bb50e8094b2ac3ceb90b",
+      "day": 25,
+      "word": "bear",
+      "meaning": "~을 몸에 지니다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 17
+    },
+    {
+      "id": "efb694b46ac52324894e5d45",
+      "day": 25,
+      "word": "emphatic",
+      "meaning": "단호한, 강한",
+      "sourceSheet": "Day 25",
+      "sourceRow": 18
+    },
+    {
+      "id": "d452eaaba07a605b45cde387",
+      "day": 25,
+      "word": "give off",
+      "meaning": "방출하다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 19
+    },
+    {
+      "id": "933184ca9c99b62ec9baaf50",
+      "day": 25,
+      "word": "passerby",
+      "meaning": "행인",
+      "sourceSheet": "Day 25",
+      "sourceRow": 20
+    },
+    {
+      "id": "5a6df92ae8c424224ef18100",
+      "day": 25,
+      "word": "spoke",
+      "meaning": "바퀴살",
+      "sourceSheet": "Day 25",
+      "sourceRow": 21
+    },
+    {
+      "id": "272a50386a3339be4c184a33",
+      "day": 25,
+      "word": "be towed away",
+      "meaning": "(차가) 견인되다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 22
+    },
+    {
+      "id": "b6dce9d1302b80abcb3ed598",
+      "day": 25,
+      "word": "sidewalk",
+      "meaning": "보도",
+      "sourceSheet": "Day 25",
+      "sourceRow": 23
+    },
+    {
+      "id": "f7d9f5a90479d6328a5534fd",
+      "day": 25,
+      "word": "ramp",
+      "meaning": "경사로",
+      "sourceSheet": "Day 25",
+      "sourceRow": 24
+    },
+    {
+      "id": "2037dafa5dccea2894698265",
+      "day": 25,
+      "word": "bicycle rack",
+      "meaning": "자전거 보관대",
+      "sourceSheet": "Day 25",
+      "sourceRow": 25
+    },
+    {
+      "id": "a3f33e78d57b72e75522f3bd",
+      "day": 25,
+      "word": "overnight express",
+      "meaning": "심야 고속",
+      "sourceSheet": "Day 25",
+      "sourceRow": 26
+    },
+    {
+      "id": "e366011a831f16161f9f19a1",
+      "day": 25,
+      "word": "drawbridge",
+      "meaning": "도개교(위로 들어올리는 다리)",
+      "sourceSheet": "Day 25",
+      "sourceRow": 27
+    },
+    {
+      "id": "4d7e99c1bb1643d937f01bc3",
+      "day": 25,
+      "word": "gratuity",
+      "meaning": "팁, 봉사료",
+      "sourceSheet": "Day 25",
+      "sourceRow": 28
+    },
+    {
+      "id": "25af9908cd6c5a60ad5b96ae",
+      "day": 25,
+      "word": "inconveniently",
+      "meaning": "불편하게",
+      "sourceSheet": "Day 25",
+      "sourceRow": 29
+    },
+    {
+      "id": "13bfabb07807921f6ce3a618",
+      "day": 25,
+      "word": "carriage",
+      "meaning": "차량",
+      "sourceSheet": "Day 25",
+      "sourceRow": 30
+    },
+    {
+      "id": "ee48ee67db5d730efb11683a",
+      "day": 25,
+      "word": "surround",
+      "meaning": "둘러싸다, 에워싸다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 31
+    },
+    {
+      "id": "0a65aa783428161c9121e0fe",
+      "day": 25,
+      "word": "hastily",
+      "meaning": "급히, 서둘러서",
+      "sourceSheet": "Day 25",
+      "sourceRow": 32
+    },
+    {
+      "id": "13def6fec91e034ac614c9d0",
+      "day": 25,
+      "word": "refurbish",
+      "meaning": "개조하다, 새로 꾸미다",
+      "sourceSheet": "Day 25",
+      "sourceRow": 33
+    },
+    {
+      "id": "365a760e5c246330d6aa4118",
+      "day": 26,
+      "word": "wire money to",
+      "meaning": "~에게 송금하다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 2
+    },
+    {
+      "id": "04f99e51b0bd92959a9f5f59",
+      "day": 26,
+      "word": "wire transfer",
+      "meaning": "전신 송금",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 3
+    },
+    {
+      "id": "9dee46e03eec211e327f1cf5",
+      "day": 26,
+      "word": "draw a check",
+      "meaning": "수표를 발행하다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 4
+    },
+    {
+      "id": "ec85c433a35acd38855168cd",
+      "day": 26,
+      "word": "direct deposit",
+      "meaning": "은행 자동 이체",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 5
+    },
+    {
+      "id": "164f99d7c21d2f8a53bd6eb9",
+      "day": 26,
+      "word": "remit",
+      "meaning": "송금하다, 면제해 주다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 6
+    },
+    {
+      "id": "55196b5ed45e2542cb20aa44",
+      "day": 26,
+      "word": "collateral",
+      "meaning": "담보, 저당물",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 7
+    },
+    {
+      "id": "a5bb1667d72ced57ff234e0a",
+      "day": 26,
+      "word": "secured",
+      "meaning": "보증된",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 8
+    },
+    {
+      "id": "fae9ae0580c72ed962c0a892",
+      "day": 26,
+      "word": "confiscate",
+      "meaning": "압수하다, 몰수하다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 9
+    },
+    {
+      "id": "0bf8e2a33c88fa2aaf89556e",
+      "day": 26,
+      "word": "counterfeit",
+      "meaning": "가짜, 모조품",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 10
+    },
+    {
+      "id": "e93b3f3e49a160f01dfda0ea",
+      "day": 26,
+      "word": "trust company",
+      "meaning": "신탁 회사, 신탁 은행",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 11
+    },
+    {
+      "id": "6eb190dce50e3701a8ec116b",
+      "day": 26,
+      "word": "credit money to one's account",
+      "meaning": "~의 계좌에 돈을 입금하다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 12
+    },
+    {
+      "id": "dfb0eb7d3f5e3b531e34c669",
+      "day": 26,
+      "word": "on standby",
+      "meaning": "대기 중인",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 13
+    },
+    {
+      "id": "cb95b8e8be4a0928abf4f872",
+      "day": 26,
+      "word": "deterrent",
+      "meaning": "제지하는 것, 방해물",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 14
+    },
+    {
+      "id": "4d6723e5e454779e2bd12b4e",
+      "day": 26,
+      "word": "bounce",
+      "meaning": "(수표 등이) 부도가 나 되돌아오다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 15
+    },
+    {
+      "id": "ab66bbb2b022cc617b301fe9",
+      "day": 26,
+      "word": "fortnight",
+      "meaning": "2주간",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 16
+    },
+    {
+      "id": "11397bd1d7d50da3de0b41b2",
+      "day": 26,
+      "word": "contender",
+      "meaning": "도전자, 경쟁자",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 17
+    },
+    {
+      "id": "18398bc2d6f69d033cd00215",
+      "day": 26,
+      "word": "overdrawn",
+      "meaning": "잔액이 부족한",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 18
+    },
+    {
+      "id": "7b2eb7d54bc88d3aa95d342f",
+      "day": 26,
+      "word": "deposit slip",
+      "meaning": "예금 전표",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 19
+    },
+    {
+      "id": "653ba37cf42df44398b082da",
+      "day": 26,
+      "word": "take out a loan",
+      "meaning": "융자를 받다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 20
+    },
+    {
+      "id": "51eddb3ebf3a7a3eee169c33",
+      "day": 26,
+      "word": "credible",
+      "meaning": "신용할 수 있는, 확실한",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 21
+    },
+    {
+      "id": "1e148281cfad2819ace211e4",
+      "day": 26,
+      "word": "belatedly",
+      "meaning": "뒤늦게",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 22
+    },
+    {
+      "id": "2eee1690cfec5fe1144d7683",
+      "day": 26,
+      "word": "spurious",
+      "meaning": "허위의, 잘못된",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 23
+    },
+    {
+      "id": "9f09e1b409ab56415fe954f4",
+      "day": 26,
+      "word": "make a withdrawal",
+      "meaning": "돈을 인출하다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 24
+    },
+    {
+      "id": "67f5637deccf0cbafd971e40",
+      "day": 26,
+      "word": "redemption",
+      "meaning": "구원, 구함",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 25
+    },
+    {
+      "id": "cdb2e0d0f873ce5326e87cf7",
+      "day": 26,
+      "word": "crash",
+      "meaning": "(주가의) 폭락",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 26
+    },
+    {
+      "id": "aa7f1549cb056235dc7b01c4",
+      "day": 26,
+      "word": "take out insurance on",
+      "meaning": "~에 보험을 들다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 27
+    },
+    {
+      "id": "6c1fd92053dc3bc19c25d49b",
+      "day": 26,
+      "word": "curb",
+      "meaning": "억제하다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 28
+    },
+    {
+      "id": "86076fd2a002370f3418af1e",
+      "day": 26,
+      "word": "be held up",
+      "meaning": "잡히다; 지연되다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 29
+    },
+    {
+      "id": "164cf1ca8391532e4f239c55",
+      "day": 26,
+      "word": "cluster",
+      "meaning": "무리",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 30
+    },
+    {
+      "id": "7270e89961b0d9ad37e6c997",
+      "day": 26,
+      "word": "accrue",
+      "meaning": "축적하다, 모으다",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 31
+    },
+    {
+      "id": "0f1195f0903da53fc4e44d78",
+      "day": 26,
+      "word": "trustee",
+      "meaning": "피(被)신탁인, 수탁자",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 32
+    },
+    {
+      "id": "d0c257649cea90159a3ba65c",
+      "day": 26,
+      "word": "on loan",
+      "meaning": "대부하여",
+      "sourceSheet": "Day 25 (2)",
+      "sourceRow": 33
+    },
+    {
+      "id": "f7539a338b962fd3ba51dc15",
+      "day": 27,
+      "word": "dividend",
+      "meaning": "배당금",
+      "sourceSheet": "Day 27",
+      "sourceRow": 2
+    },
+    {
+      "id": "73eaa1ca02e52eb1962bd28f",
+      "day": 27,
+      "word": "devastate",
+      "meaning": "황폐 시키다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 3
+    },
+    {
+      "id": "0083289f36deda0724d899ac",
+      "day": 27,
+      "word": "deliberately",
+      "meaning": "고의로",
+      "sourceSheet": "Day 27",
+      "sourceRow": 4
+    },
+    {
+      "id": "6b7a740ce063f31c664f89bd",
+      "day": 27,
+      "word": "deflate",
+      "meaning": "(물가를) 끌어내리다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 5
+    },
+    {
+      "id": "a04e52d895fe5248b939d6fb",
+      "day": 27,
+      "word": "evoke",
+      "meaning": "(기억 등을) 일깨우다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 6
+    },
+    {
+      "id": "355ac7d4d96254b3dc631dce",
+      "day": 27,
+      "word": "speculate",
+      "meaning": "추측하다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 7
+    },
+    {
+      "id": "e08de16baa4d5383a011967d",
+      "day": 27,
+      "word": "accredit",
+      "meaning": "승인하다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 8
+    },
+    {
+      "id": "d9ee1787fd68ac6e9e4ed3a8",
+      "day": 27,
+      "word": "start-up cost",
+      "meaning": "착수 비용",
+      "sourceSheet": "Day 27",
+      "sourceRow": 9
+    },
+    {
+      "id": "d3d87e7246200cd68d44477e",
+      "day": 27,
+      "word": "cost estimate",
+      "meaning": "원가 견적",
+      "sourceSheet": "Day 27",
+      "sourceRow": 10
+    },
+    {
+      "id": "daf3427e951dd4266c77801e",
+      "day": 27,
+      "word": "impair",
+      "meaning": "손상시키다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 11
+    },
+    {
+      "id": "cca62f59ecc144c877adee5e",
+      "day": 27,
+      "word": "fictitious",
+      "meaning": "허구의, 지어낸",
+      "sourceSheet": "Day 27",
+      "sourceRow": 12
+    },
+    {
+      "id": "3cdb1d0de8f0c3c31d400a53",
+      "day": 27,
+      "word": "unbiased",
+      "meaning": "선입견 없는, 편견 없는",
+      "sourceSheet": "Day 27",
+      "sourceRow": 13
+    },
+    {
+      "id": "d8377a36634f14c12ca4fcba",
+      "day": 27,
+      "word": "property line",
+      "meaning": "토지 경계선",
+      "sourceSheet": "Day 27",
+      "sourceRow": 14
+    },
+    {
+      "id": "faaae609481a416ef81c7339",
+      "day": 27,
+      "word": "devalued",
+      "meaning": "평가 절하된",
+      "sourceSheet": "Day 27",
+      "sourceRow": 15
+    },
+    {
+      "id": "c0f580d8306c490988dc1d51",
+      "day": 27,
+      "word": "manipulation",
+      "meaning": "조작, 시장 조작",
+      "sourceSheet": "Day 27",
+      "sourceRow": 16
+    },
+    {
+      "id": "8444af114b9fe2813af89338",
+      "day": 27,
+      "word": "faithfully",
+      "meaning": "충실하게; 정확히",
+      "sourceSheet": "Day 27",
+      "sourceRow": 17
+    },
+    {
+      "id": "94d824e57eb31acc9c832778",
+      "day": 27,
+      "word": "overhaul",
+      "meaning": "점검, 정비",
+      "sourceSheet": "Day 27",
+      "sourceRow": 18
+    },
+    {
+      "id": "a8faf96fe1e1bde24cb661f0",
+      "day": 27,
+      "word": "unbeatable",
+      "meaning": "(가격·가치 등이) 더 이상 좋을 수 없는",
+      "sourceSheet": "Day 27",
+      "sourceRow": 19
+    },
+    {
+      "id": "721f1f837521c3b3e24d647a",
+      "day": 27,
+      "word": "approximation",
+      "meaning": "근사치",
+      "sourceSheet": "Day 27",
+      "sourceRow": 20
+    },
+    {
+      "id": "45b3a258daaefac2c0e3974b",
+      "day": 27,
+      "word": "attainable",
+      "meaning": "이룰 수 있는",
+      "sourceSheet": "Day 27",
+      "sourceRow": 21
+    },
+    {
+      "id": "bb126eae058295d9cfe24136",
+      "day": 27,
+      "word": "well-balanced",
+      "meaning": "균형이 잡힌",
+      "sourceSheet": "Day 27",
+      "sourceRow": 22
+    },
+    {
+      "id": "cf5fa0454ed24c053a1f6afe",
+      "day": 27,
+      "word": "wipe off",
+      "meaning": "~을 없애다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 23
+    },
+    {
+      "id": "bbe742691621d5f56edbd600",
+      "day": 27,
+      "word": "courteousness",
+      "meaning": "예의 바름, 공손함",
+      "sourceSheet": "Day 27",
+      "sourceRow": 24
+    },
+    {
+      "id": "2503ef0a641cf94fb144b334",
+      "day": 27,
+      "word": "in the vicinity of",
+      "meaning": "~의 부근에",
+      "sourceSheet": "Day 27",
+      "sourceRow": 25
+    },
+    {
+      "id": "5a0457ca6a052c85d5357e77",
+      "day": 27,
+      "word": "set aside",
+      "meaning": "챙겨두다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 26
+    },
+    {
+      "id": "9a08eee4e3f702f233fcb4dc",
+      "day": 27,
+      "word": "disparately",
+      "meaning": "본질적으로 다르게",
+      "sourceSheet": "Day 27",
+      "sourceRow": 27
+    },
+    {
+      "id": "7600d5712597ecad22a10c09",
+      "day": 27,
+      "word": "outweigh",
+      "meaning": "(가치∙중요성이) ~보다 크다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 28
+    },
+    {
+      "id": "1bf7ad1f9960eb816902b57d",
+      "day": 27,
+      "word": "play a role in",
+      "meaning": "~에 한 몫을 하다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 29
+    },
+    {
+      "id": "29cbc397bf98f3323898e95a",
+      "day": 27,
+      "word": "outlying",
+      "meaning": "외진, 변경의",
+      "sourceSheet": "Day 27",
+      "sourceRow": 30
+    },
+    {
+      "id": "db8d1b6d64e4ec90ceb335fc",
+      "day": 27,
+      "word": "dispatch",
+      "meaning": "(소포 등을) 발송하다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 31
+    },
+    {
+      "id": "9b3ee877c0c647f604987c31",
+      "day": 27,
+      "word": "untimely",
+      "meaning": "때 이른, 시기상조의",
+      "sourceSheet": "Day 27",
+      "sourceRow": 32
+    },
+    {
+      "id": "a3992a57c377c952b17c7dc0",
+      "day": 27,
+      "word": "take steps",
+      "meaning": "조치를 취하다",
+      "sourceSheet": "Day 27",
+      "sourceRow": 33
+    },
+    {
+      "id": "df2b7e245fea79d476536a0f",
+      "day": 28,
+      "word": "screw",
+      "meaning": "나사",
+      "sourceSheet": "Day 28",
+      "sourceRow": 2
+    },
+    {
+      "id": "77d9bce4a13de264ff0526e2",
+      "day": 28,
+      "word": "locale",
+      "meaning": "현장,(소설·영화 등의) 무대",
+      "sourceSheet": "Day 28",
+      "sourceRow": 3
+    },
+    {
+      "id": "510345478efc1edf0c921f97",
+      "day": 28,
+      "word": "drain",
+      "meaning": "배수하다",
+      "sourceSheet": "Day 28",
+      "sourceRow": 4
+    },
+    {
+      "id": "c4a11b3a02a7908b51baf438",
+      "day": 28,
+      "word": "landlord",
+      "meaning": "집주인",
+      "sourceSheet": "Day 28",
+      "sourceRow": 5
+    },
+    {
+      "id": "698131fa10b8088ef5740e66",
+      "day": 28,
+      "word": "porch",
+      "meaning": "현관",
+      "sourceSheet": "Day 28",
+      "sourceRow": 6
+    },
+    {
+      "id": "a3dab2dc11cabca3e41b26a4",
+      "day": 28,
+      "word": "shockproof",
+      "meaning": "충격에 견디게 만든",
+      "sourceSheet": "Day 28",
+      "sourceRow": 7
+    },
+    {
+      "id": "a4b52f4884cdd3a60b527cbb",
+      "day": 28,
+      "word": "premises",
+      "meaning": "구내, 토지가 딸린 건물",
+      "sourceSheet": "Day 28",
+      "sourceRow": 8
+    },
+    {
+      "id": "3c3ffb1b156608f5a69bca00",
+      "day": 28,
+      "word": "archway",
+      "meaning": "아치길",
+      "sourceSheet": "Day 28",
+      "sourceRow": 9
+    },
+    {
+      "id": "e34332514b63871ecb7ba668",
+      "day": 28,
+      "word": "startle",
+      "meaning": "깜짝 놀라게 하다",
+      "sourceSheet": "Day 28",
+      "sourceRow": 10
+    },
+    {
+      "id": "91663419710f5f57e8bf59c8",
+      "day": 28,
+      "word": "insulation",
+      "meaning": "단열재",
+      "sourceSheet": "Day 28",
+      "sourceRow": 11
+    },
+    {
+      "id": "b119bda4207bd15e9e1f6306",
+      "day": 28,
+      "word": "annex",
+      "meaning": "별관, 증축 건물",
+      "sourceSheet": "Day 28",
+      "sourceRow": 12
+    },
+    {
+      "id": "61aa2834c3cca7ceb4bdf256",
+      "day": 28,
+      "word": "uninhabited",
+      "meaning": "사람이 살지 않는",
+      "sourceSheet": "Day 28",
+      "sourceRow": 13
+    },
+    {
+      "id": "ea4b35e8f83279eab1e670e3",
+      "day": 28,
+      "word": "complex",
+      "meaning": "(건물 등의) 집합체, 단지",
+      "sourceSheet": "Day 28",
+      "sourceRow": 14
+    },
+    {
+      "id": "6faf9cc4791ec2aab103c6de",
+      "day": 28,
+      "word": "symmetrically",
+      "meaning": "대칭적으로",
+      "sourceSheet": "Day 28",
+      "sourceRow": 15
+    },
+    {
+      "id": "d93fc3c4ade1aa371c83c139",
+      "day": 28,
+      "word": "woodwork",
+      "meaning": "(가옥 등의) 목조 부분",
+      "sourceSheet": "Day 28",
+      "sourceRow": 16
+    },
+    {
+      "id": "4dba5aba09f0db31721416c5",
+      "day": 28,
+      "word": "scaffolding",
+      "meaning": "(건축 공사장의) 비계, 발판",
+      "sourceSheet": "Day 28",
+      "sourceRow": 17
+    },
+    {
+      "id": "aedf7b6928f455df96d50a5c",
+      "day": 28,
+      "word": "ledge",
+      "meaning": "선반, 절벽에서 튀어나온 바위",
+      "sourceSheet": "Day 28",
+      "sourceRow": 18
+    },
+    {
+      "id": "f750faebf787a8c2f05cfd33",
+      "day": 28,
+      "word": "dig with a shovel",
+      "meaning": "삽으로 땅을 파다",
+      "sourceSheet": "Day 28",
+      "sourceRow": 19
+    },
+    {
+      "id": "dfc1a1888f01d9476764b3d0",
+      "day": 28,
+      "word": "saw",
+      "meaning": "톱",
+      "sourceSheet": "Day 28",
+      "sourceRow": 20
+    },
+    {
+      "id": "8e9d1a8d5b1863f1e99ed1bd",
+      "day": 28,
+      "word": "rack",
+      "meaning": "선반",
+      "sourceSheet": "Day 28",
+      "sourceRow": 21
+    },
+    {
+      "id": "9ce1ed0252b1a593b4c66c6c",
+      "day": 28,
+      "word": "for lease",
+      "meaning": "(집을) 내놓은",
+      "sourceSheet": "Day 28",
+      "sourceRow": 22
+    },
+    {
+      "id": "622e41f33d3e231c91a8b659",
+      "day": 28,
+      "word": "demolition",
+      "meaning": "파괴, 폭파",
+      "sourceSheet": "Day 28",
+      "sourceRow": 23
+    },
+    {
+      "id": "8417214f36b039e151cbaaa9",
+      "day": 28,
+      "word": "constructively",
+      "meaning": "건설적으로",
+      "sourceSheet": "Day 28",
+      "sourceRow": 24
+    },
+    {
+      "id": "97fe21bcd36ae81c1cb0fb7d",
+      "day": 28,
+      "word": "hedge",
+      "meaning": "울타리, 담",
+      "sourceSheet": "Day 28",
+      "sourceRow": 25
+    },
+    {
+      "id": "1011f2c6d20864cf57929474",
+      "day": 28,
+      "word": "reconfiguration",
+      "meaning": "구조 변경",
+      "sourceSheet": "Day 28",
+      "sourceRow": 26
+    },
+    {
+      "id": "c2cb46f8b213d3a1ec17b82b",
+      "day": 28,
+      "word": "plumber",
+      "meaning": "배관공",
+      "sourceSheet": "Day 28",
+      "sourceRow": 27
+    },
+    {
+      "id": "e902b637dbb3f198f343a07d",
+      "day": 28,
+      "word": "be mounted on",
+      "meaning": "~에 설치되어 있다,고정되어 있다",
+      "sourceSheet": "Day 28",
+      "sourceRow": 28
+    },
+    {
+      "id": "a1813110a2fe7239a36b83ff",
+      "day": 28,
+      "word": "tear down",
+      "meaning": "(건물을) 헐다",
+      "sourceSheet": "Day 28",
+      "sourceRow": 29
+    },
+    {
+      "id": "644f9fa67c75638b66aec1db",
+      "day": 28,
+      "word": "run the tap",
+      "meaning": "수도꼭지를 틀다",
+      "sourceSheet": "Day 28",
+      "sourceRow": 30
+    },
+    {
+      "id": "8589c63b0943a62bfda9b35d",
+      "day": 28,
+      "word": "maintenance",
+      "meaning": "유지",
+      "sourceSheet": "Day 28",
+      "sourceRow": 31
+    },
+    {
+      "id": "f7ecefe858901f35e3a4a29e",
+      "day": 28,
+      "word": "demolish",
+      "meaning": "파괴하다",
+      "sourceSheet": "Day 28",
+      "sourceRow": 32
+    },
+    {
+      "id": "8b70c1c34f5d482d3fd1239a",
+      "day": 29,
+      "word": "drench",
+      "meaning": "흠뻑 물에 적시다",
+      "sourceSheet": "Day 29",
+      "sourceRow": 2
+    },
+    {
+      "id": "36f463389b819245118627d5",
+      "day": 29,
+      "word": "grazing",
+      "meaning": "방목; 목초지",
+      "sourceSheet": "Day 29",
+      "sourceRow": 3
+    },
+    {
+      "id": "f7974938ac1957a7cdcf3d45",
+      "day": 29,
+      "word": "fuel emission",
+      "meaning": "연료 배기",
+      "sourceSheet": "Day 29",
+      "sourceRow": 4
+    },
+    {
+      "id": "06b384b3b9798926c2a48eb5",
+      "day": 29,
+      "word": "tranquility",
+      "meaning": "평온",
+      "sourceSheet": "Day 29",
+      "sourceRow": 5
+    },
+    {
+      "id": "76223bfb91dddd4add52c374",
+      "day": 29,
+      "word": "toxication",
+      "meaning": "중독",
+      "sourceSheet": "Day 29",
+      "sourceRow": 6
+    },
+    {
+      "id": "c3c0edd8b6438dab28249153",
+      "day": 29,
+      "word": "splendor",
+      "meaning": "장엄함",
+      "sourceSheet": "Day 29",
+      "sourceRow": 7
+    },
+    {
+      "id": "c551e04110f16364847b0617",
+      "day": 29,
+      "word": "downpour",
+      "meaning": "호우",
+      "sourceSheet": "Day 29",
+      "sourceRow": 8
+    },
+    {
+      "id": "6171db37a3e1e0c6a9197bb8",
+      "day": 29,
+      "word": "pull up",
+      "meaning": "뽑다; (차가) 서다",
+      "sourceSheet": "Day 29",
+      "sourceRow": 9
+    },
+    {
+      "id": "4e3da4fb62cbd9dd8c47d995",
+      "day": 29,
+      "word": "vacant site",
+      "meaning": "공터",
+      "sourceSheet": "Day 29",
+      "sourceRow": 10
+    },
+    {
+      "id": "232c94665746f5defb142644",
+      "day": 29,
+      "word": "sewage",
+      "meaning": "하수",
+      "sourceSheet": "Day 29",
+      "sourceRow": 11
+    },
+    {
+      "id": "1eb0d8ea4ebfeeddf2fb2345",
+      "day": 29,
+      "word": "potted",
+      "meaning": "화분에 심은",
+      "sourceSheet": "Day 29",
+      "sourceRow": 12
+    },
+    {
+      "id": "aa65d1b65ab4ffc9550123f1",
+      "day": 29,
+      "word": "botanical",
+      "meaning": "식물의",
+      "sourceSheet": "Day 29",
+      "sourceRow": 13
+    },
+    {
+      "id": "96fdf652b9b58819935f0a49",
+      "day": 29,
+      "word": "promptness",
+      "meaning": "재빠름, 신속",
+      "sourceSheet": "Day 29",
+      "sourceRow": 14
+    },
+    {
+      "id": "0a149844a7c9f4cff948bf39",
+      "day": 29,
+      "word": "logging",
+      "meaning": "벌목",
+      "sourceSheet": "Day 29",
+      "sourceRow": 15
+    },
+    {
+      "id": "711415eb4348502ead97fca1",
+      "day": 29,
+      "word": "sustainable",
+      "meaning": "지속 가능한",
+      "sourceSheet": "Day 29",
+      "sourceRow": 16
+    },
+    {
+      "id": "af1c1b8112405608077c6234",
+      "day": 29,
+      "word": "trimming",
+      "meaning": "정돈; 장식",
+      "sourceSheet": "Day 29",
+      "sourceRow": 17
+    },
+    {
+      "id": "267fc9a61b055dab6cbd5084",
+      "day": 29,
+      "word": "overpass",
+      "meaning": "육교",
+      "sourceSheet": "Day 29",
+      "sourceRow": 18
+    },
+    {
+      "id": "5dd46878bb0b580b3086cfd1",
+      "day": 29,
+      "word": "timber",
+      "meaning": "목재",
+      "sourceSheet": "Day 29",
+      "sourceRow": 19
+    },
+    {
+      "id": "e3d200a5dd226550a74a5ffc",
+      "day": 29,
+      "word": "rugged",
+      "meaning": "울퉁불퉁한",
+      "sourceSheet": "Day 29",
+      "sourceRow": 20
+    },
+    {
+      "id": "0723299b8c9b5d8ced564960",
+      "day": 29,
+      "word": "outwardly",
+      "meaning": "겉으로는, 표면상으로",
+      "sourceSheet": "Day 29",
+      "sourceRow": 21
+    },
+    {
+      "id": "6f2e9e1cc05b26ab778f8544",
+      "day": 29,
+      "word": "outskirts",
+      "meaning": "교외, 변두리",
+      "sourceSheet": "Day 29",
+      "sourceRow": 22
+    },
+    {
+      "id": "185bdb682255a187ecc8a073",
+      "day": 29,
+      "word": "terrestrial",
+      "meaning": "지구상의",
+      "sourceSheet": "Day 29",
+      "sourceRow": 23
+    },
+    {
+      "id": "009978b8c24f47f63fbbf3cd",
+      "day": 29,
+      "word": "fade",
+      "meaning": "바래다, 희미해지다",
+      "sourceSheet": "Day 29",
+      "sourceRow": 24
+    },
+    {
+      "id": "2f0724ffee1368766c72b5a5",
+      "day": 29,
+      "word": "disposal",
+      "meaning": "처분, 폐기",
+      "sourceSheet": "Day 29",
+      "sourceRow": 25
+    },
+    {
+      "id": "1bbf708cf261914ac207dc6c",
+      "day": 29,
+      "word": "fumes",
+      "meaning": "가스, 연기",
+      "sourceSheet": "Day 29",
+      "sourceRow": 26
+    },
+    {
+      "id": "07913239c9e8d42fcd39da15",
+      "day": 29,
+      "word": "revert",
+      "meaning": "(본래대로) 되돌아가다",
+      "sourceSheet": "Day 29",
+      "sourceRow": 27
+    },
+    {
+      "id": "489111f65854bf6dd30bfea8",
+      "day": 29,
+      "word": "depletion",
+      "meaning": "(자원 등의) 고갈",
+      "sourceSheet": "Day 29",
+      "sourceRow": 28
+    },
+    {
+      "id": "6acbc74a6aa1b0e068a7ddd8",
+      "day": 29,
+      "word": "irrigation system",
+      "meaning": "관개 시설",
+      "sourceSheet": "Day 29",
+      "sourceRow": 29
+    },
+    {
+      "id": "de790defb8525b43fb46bfcd",
+      "day": 29,
+      "word": "residue",
+      "meaning": "잔여물",
+      "sourceSheet": "Day 29",
+      "sourceRow": 30
+    },
+    {
+      "id": "3b72e591cda2d41fa9da4ef9",
+      "day": 29,
+      "word": "shrub",
+      "meaning": "관목",
+      "sourceSheet": "Day 29",
+      "sourceRow": 31
+    },
+    {
+      "id": "029aa3dad1ce9995d052667b",
+      "day": 29,
+      "word": "precipitation",
+      "meaning": "강수량, 강우량",
+      "sourceSheet": "Day 29",
+      "sourceRow": 32
+    },
+    {
+      "id": "458752d9ff5eb0f615c06d28",
+      "day": 29,
+      "word": "mow the lawn",
+      "meaning": "잔디를 깎다",
+      "sourceSheet": "Day 29",
+      "sourceRow": 33
+    },
+    {
+      "id": "fffe1aecf41c149cfa46db7c",
+      "day": 30,
+      "word": "refill",
+      "meaning": "(약을) 재조제하다",
+      "sourceSheet": "Day 30",
+      "sourceRow": 2
+    },
+    {
+      "id": "6dd072cee7cfd3e6be0a08a6",
+      "day": 30,
+      "word": "intuitively",
+      "meaning": "직관적으로",
+      "sourceSheet": "Day 30",
+      "sourceRow": 3
+    },
+    {
+      "id": "9f91500a3e3c3a2161f60cea",
+      "day": 30,
+      "word": "dehydration",
+      "meaning": "탈수(증)",
+      "sourceSheet": "Day 30",
+      "sourceRow": 4
+    },
+    {
+      "id": "74e9efa7126bfe2e8009669f",
+      "day": 30,
+      "word": "vocation",
+      "meaning": "직업, 천직, 사명감",
+      "sourceSheet": "Day 30",
+      "sourceRow": 5
+    },
+    {
+      "id": "c2d66755e6d0b42f7a54187c",
+      "day": 30,
+      "word": "quarantine",
+      "meaning": "격리",
+      "sourceSheet": "Day 30",
+      "sourceRow": 6
+    },
+    {
+      "id": "16c9a8c11c20cdcf1a401f86",
+      "day": 30,
+      "word": "outpatient clinic",
+      "meaning": "외래 환자 진료소",
+      "sourceSheet": "Day 30",
+      "sourceRow": 7
+    },
+    {
+      "id": "edb18f1a1d5884f245c40fe7",
+      "day": 30,
+      "word": "acute",
+      "meaning": "(통증이) 심한",
+      "sourceSheet": "Day 30",
+      "sourceRow": 8
+    },
+    {
+      "id": "f02368d4abaaa6fdfc02dfe9",
+      "day": 30,
+      "word": "life span",
+      "meaning": "수명",
+      "sourceSheet": "Day 30",
+      "sourceRow": 9
+    },
+    {
+      "id": "efd0b2bb8ce67e11b79ea8a0",
+      "day": 30,
+      "word": "get a prescription filled",
+      "meaning": "처방전을 조제 받다",
+      "sourceSheet": "Day 30",
+      "sourceRow": 10
+    },
+    {
+      "id": "a4ce996f70c5e989845d5368",
+      "day": 30,
+      "word": "epidemic",
+      "meaning": "전염성의",
+      "sourceSheet": "Day 30",
+      "sourceRow": 11
+    },
+    {
+      "id": "6f157dc7701749ce579bf59b",
+      "day": 30,
+      "word": "over-the-counter medicine",
+      "meaning": "처방전 없이 살 수 있는 약",
+      "sourceSheet": "Day 30",
+      "sourceRow": 12
+    },
+    {
+      "id": "a51b6dba67016a9169bcd19a",
+      "day": 30,
+      "word": "blurry",
+      "meaning": "흐릿한",
+      "sourceSheet": "Day 30",
+      "sourceRow": 13
+    },
+    {
+      "id": "5a1bef18cd1968068579c6fb",
+      "day": 30,
+      "word": "life expectancy",
+      "meaning": "평균 수명",
+      "sourceSheet": "Day 30",
+      "sourceRow": 14
+    },
+    {
+      "id": "8111196297d6c5de5c2031b0",
+      "day": 30,
+      "word": "practitioner",
+      "meaning": "전문의",
+      "sourceSheet": "Day 30",
+      "sourceRow": 15
+    },
+    {
+      "id": "30bfdffb7ec7074b1d02a36b",
+      "day": 30,
+      "word": "insistent",
+      "meaning": "끈질긴, 강요하는",
+      "sourceSheet": "Day 30",
+      "sourceRow": 16
+    },
+    {
+      "id": "de9e44d049057cdb325c674d",
+      "day": 30,
+      "word": "palpitations",
+      "meaning": "비정상적으로 빠른 심장 박동",
+      "sourceSheet": "Day 30",
+      "sourceRow": 17
+    },
+    {
+      "id": "c26c9ef2fe8a6d857a4fa3a4",
+      "day": 30,
+      "word": "respire",
+      "meaning": "호흡하다",
+      "sourceSheet": "Day 30",
+      "sourceRow": 18
+    },
+    {
+      "id": "9da308c2e4bc33afa72df5c0",
+      "day": 30,
+      "word": "compressed",
+      "meaning": "압축된, 압착된, 간결한",
+      "sourceSheet": "Day 30",
+      "sourceRow": 19
+    },
+    {
+      "id": "9584d651177d9ba49ddee087",
+      "day": 30,
+      "word": "sterilize",
+      "meaning": "살균하다",
+      "sourceSheet": "Day 30",
+      "sourceRow": 20
+    },
+    {
+      "id": "7f7f85b1e7d5ffd45265405b",
+      "day": 30,
+      "word": "milestone",
+      "meaning": "획기적인 사건, 중요한 단계",
+      "sourceSheet": "Day 30",
+      "sourceRow": 21
+    },
+    {
+      "id": "f46dc62af3171f09b0989daa",
+      "day": 30,
+      "word": "deter",
+      "meaning": "단념시키다, 막다",
+      "sourceSheet": "Day 30",
+      "sourceRow": 22
+    },
+    {
+      "id": "66fdc426d474e9e58bfaeca7",
+      "day": 30,
+      "word": "recuperate",
+      "meaning": "회복하다, 건강을 되찾다",
+      "sourceSheet": "Day 30",
+      "sourceRow": 23
+    },
+    {
+      "id": "c047caef95b4d3e8d7f74cbe",
+      "day": 30,
+      "word": "wing",
+      "meaning": "별관, 부속 건물",
+      "sourceSheet": "Day 30",
+      "sourceRow": 24
+    },
+    {
+      "id": "b421aa4e7815decd5730fafb",
+      "day": 30,
+      "word": "on an empty stomach",
+      "meaning": "공복에",
+      "sourceSheet": "Day 30",
+      "sourceRow": 25
+    },
+    {
+      "id": "d0b881dd727d0e00dd9d2a6c",
+      "day": 30,
+      "word": "be on medication",
+      "meaning": "약물 치료 중이다",
+      "sourceSheet": "Day 30",
+      "sourceRow": 26
+    },
+    {
+      "id": "2caa75efae522981ad6621bf",
+      "day": 30,
+      "word": "plausible",
+      "meaning": "그럴듯한",
+      "sourceSheet": "Day 30",
+      "sourceRow": 27
+    },
+    {
+      "id": "e9c794271076ea8c6163fb6b",
+      "day": 30,
+      "word": "prolonged",
+      "meaning": "장기의, 오래 끄는",
+      "sourceSheet": "Day 30",
+      "sourceRow": 28
+    },
+    {
+      "id": "457020499ea391ea3c5637ea",
+      "day": 30,
+      "word": "elderly",
+      "meaning": "나이 든",
+      "sourceSheet": "Day 30",
+      "sourceRow": 29
+    },
+    {
+      "id": "d065ff691b9b70963f5a62b5",
+      "day": 30,
+      "word": "perspire",
+      "meaning": "땀을 흘리다",
+      "sourceSheet": "Day 30",
+      "sourceRow": 30
+    },
+    {
+      "id": "6d19a8277b193586437b5d05",
+      "day": 30,
+      "word": "respiratory system",
+      "meaning": "호흡 기관",
+      "sourceSheet": "Day 30",
+      "sourceRow": 31
+    },
+    {
+      "id": "a4fdbb2966a73cfc45313e92",
+      "day": 30,
+      "word": "recurring",
+      "meaning": "되풀이하여 반복하는",
+      "sourceSheet": "Day 30",
+      "sourceRow": 32
+    }
+  ],
+  "excludedSheets": [
+    "Test",
+    "Test (2)",
+    "Test (3)",
+    "Test (4)",
+    "Test (5)",
+    "Test (6)",
+    "Test (7)",
+    "Test (8)",
+    "Test (9)",
+    "Test (10)",
+    "Test (11)",
+    "Test (12)",
+    "Test (13)",
+    "Test (14)",
+    "Test (15)",
+    "Test (16)",
+    "Test (17)",
+    "Test (18)",
+    "Test (19)",
+    "Test (20)",
+    "Test (21)",
+    "Test (22)",
+    "Test (23)",
+    "Test (24)",
+    "Test (25)",
+    "Test (26)",
+    "Test (27)",
+    "Test (28)",
+    "Test (29)",
+    "Test (30)"
+  ]
+}

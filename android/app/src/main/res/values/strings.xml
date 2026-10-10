@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">토익 영단어</string>
+    <string name="start_learning">학습 시작</string>
+    <string name="wrong_answers">오답노트</string>
+</resources>

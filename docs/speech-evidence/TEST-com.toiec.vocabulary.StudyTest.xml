@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.toiec.vocabulary.StudyTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2026-10-10T03:19:30.790Z" hostname="580bb27bacae" time="0.121">
+  <properties/>
+  <testcase name="reviewWrongKeepsRecordAcrossRestart" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <testcase name="storageFailureDoesNotGradeOrPermitAdvancing" classname="com.toiec.vocabulary.StudyTest" time="0.002"/>
+  <testcase name="wrongAnswerIsImmediatelySavedAndImmutable" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <testcase name="everyPackagedEntryCanProduceFourUniqueOptionsAndExactlyOneKey" classname="com.toiec.vocabulary.StudyTest" time="0.099"/>
+  <testcase name="reviewCorrectRemovesImmediatelyAndSurvivesReload" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <testcase name="cannotSilentlyCreateAmbiguousQuestionWithInsufficientPool" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <testcase name="normalCorrectAnswerDoesNotEraseExistingWrongRecord" classname="com.toiec.vocabulary.StudyTest" time="0.0"/>
+  <testcase name="independentWordsAndRemovalArePreservedAcrossRecreation" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <testcase name="invalidSelectionDoesNotWriteOrGrade" classname="com.toiec.vocabulary.StudyTest" time="0.0"/>
+  <testcase name="repeatedWrongAnswersDoNotDuplicateRecords" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <testcase name="fullDayProgressOnlyMovesAfterAnswerAndCompletesWithExactScore" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <testcase name="nearSynonymsWithDifferentSpellingsAreExcluded" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <testcase name="duplicateSensesAndOverlappingGlossesAreNotDistractors" classname="com.toiec.vocabulary.StudyTest" time="0.002"/>
+  <testcase name="assetHasAllRealDaysAndExactCounts" classname="com.toiec.vocabulary.StudyTest" time="0.009"/>
+  <testcase name="correctPositionIsShuffled" classname="com.toiec.vocabulary.StudyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

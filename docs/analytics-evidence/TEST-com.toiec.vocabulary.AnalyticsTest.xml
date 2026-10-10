@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.toiec.vocabulary.AnalyticsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-10-10T04:04:57.505Z" hostname="580bb27bacae" time="0.698">
+  <properties/>
+  <testcase name="dailyResumeKeepsSubmissionsAndRecordsRoundDayAndMode" classname="com.toiec.vocabulary.AnalyticsTest" time="0.25"/>
+  <testcase name="emptyAndGapDaysHaveNoAccuracyButZeroCountsAndExactlySevenDates" classname="com.toiec.vocabulary.AnalyticsTest" time="0.024"/>
+  <testcase name="repeatedSameWordAndDayCountEveryNewSessionEvenAfterCorrect" classname="com.toiec.vocabulary.AnalyticsTest" time="0.016"/>
+  <testcase name="threeCorrectOneWrongProduceFourAndSeventyFivePercent" classname="com.toiec.vocabulary.AnalyticsTest" time="0.017"/>
+  <testcase name="aggregatesAnswersNotMeanOfSessionRatesOrCumulativeDates" classname="com.toiec.vocabulary.AnalyticsTest" time="0.054"/>
+  <testcase name="oldDailyAndNotebookAreNotInventedAsHistoricalAnswers" classname="com.toiec.vocabulary.AnalyticsTest" time="0.032"/>
+  <testcase name="partialExitReentryAddsButQuestionAndAnswerRedisplayDoNot" classname="com.toiec.vocabulary.AnalyticsTest" time="0.012"/>
+  <testcase name="midnightUsesEachSubmissionDateAndStoredDatesNeverRebucket" classname="com.toiec.vocabulary.AnalyticsTest" time="0.03"/>
+  <testcase name="dayThirtyInterruptedLastAnswerAdvancesRoundOnlyOnce" classname="com.toiec.vocabulary.AnalyticsTest" time="0.166"/>
+  <testcase name="retryKeepsOriginalAnswerTimestampAndOneRecordEvenWhenClockChanges" classname="com.toiec.vocabulary.AnalyticsTest" time="0.035"/>
+  <testcase name="pendingJournalRecoversAfterProcessDeathWithoutDuplicateOrLostDailyAnswer" classname="com.toiec.vocabulary.AnalyticsTest" time="0.046"/>
+  <testcase name="reviewRemovalPreservesPastWrongAndAddsCorrectSubmission" classname="com.toiec.vocabulary.AnalyticsTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

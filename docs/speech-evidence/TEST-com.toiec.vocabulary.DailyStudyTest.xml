@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.toiec.vocabulary.DailyStudyTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-10-10T03:19:27.698Z" hostname="580bb27bacae" time="3.09">
+  <properties/>
+  <testcase name="lastAnswerCompletesDespiteWrongAnswersBeforeResultOrNextButton" classname="com.toiec.vocabulary.DailyStudyTest" time="0.405"/>
+  <testcase name="staleSessionCannotDoubleIncrementOrWriteWrongNotebookEntries" classname="com.toiec.vocabulary.DailyStudyTest" time="0.128"/>
+  <testcase name="fullRoundsIncrementExactlyOnceAndNewRoundHasNewOrderAndAnswers" classname="com.toiec.vocabulary.DailyStudyTest" time="2.305"/>
+  <testcase name="unreadableProgressIsNeverSilentlyResetAndNotebookIsPreserved" classname="com.toiec.vocabulary.DailyStudyTest" time="0.008"/>
+  <testcase name="processRecreationResumesUnansweredWithExactQuestionAndOptionOrders" classname="com.toiec.vocabulary.DailyStudyTest" time="0.018"/>
+  <testcase name="dayThirtyMovesOnceToNextRoundDayOneAndKeepsNotebook" classname="com.toiec.vocabulary.DailyStudyTest" time="0.06"/>
+  <testcase name="customAndReviewNeverChangeDailyProgress" classname="com.toiec.vocabulary.DailyStudyTest" time="0.044"/>
+  <testcase name="notebookFailureCannotAcceptDailyAnswerOrAdvanceDay" classname="com.toiec.vocabulary.DailyStudyTest" time="0.015"/>
+  <testcase name="failedProgressWriteDoesNotAcceptAnswerAndCanBeRetried" classname="com.toiec.vocabulary.DailyStudyTest" time="0.013"/>
+  <testcase name="firstLaunchStartsRoundOneDayOneAndFreezesEveryQuestion" classname="com.toiec.vocabulary.DailyStudyTest" time="0.033"/>
+  <testcase name="sameDayCanStartNextDayWithoutAnyClockOrDateDependency" classname="com.toiec.vocabulary.DailyStudyTest" time="0.056"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

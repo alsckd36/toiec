@@ -1,0 +1,53 @@
+INSTRUMENTATION_STATUS: class=com.toiec.vocabulary.AnalyticsFlowTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=3
+INSTRUMENTATION_STATUS: stream=
+com.toiec.vocabulary.AnalyticsFlowTest:
+INSTRUMENTATION_STATUS: test=realSubmissionsUpdateNativeCardsAndGraphTapWithoutPhantomAnswers
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.toiec.vocabulary.AnalyticsFlowTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=3
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=realSubmissionsUpdateNativeCardsAndGraphTapWithoutPhantomAnswers
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=com.toiec.vocabulary.AnalyticsLayoutTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=3
+INSTRUMENTATION_STATUS: stream=
+com.toiec.vocabulary.AnalyticsLayoutTest:
+INSTRUMENTATION_STATUS: test=largeFontChartLabelsAndDetailsStayScrollableWithoutTextOverflow
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.toiec.vocabulary.AnalyticsLayoutTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=3
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=largeFontChartLabelsAndDetailsStayScrollableWithoutTextOverflow
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=com.toiec.vocabulary.SpeechButtonsTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=3
+INSTRUMENTATION_STATUS: stream=
+com.toiec.vocabulary.SpeechButtonsTest:
+INSTRUMENTATION_STATUS: test=toggleHasAccessibleStateAndReplayWorksOffAfterGrading
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.toiec.vocabulary.SpeechButtonsTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=3
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=toggleHasAccessibleStateAndReplayWorksOffAfterGrading
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 120.619
+
+OK (3 tests)
+
+
+INSTRUMENTATION_CODE: -1
